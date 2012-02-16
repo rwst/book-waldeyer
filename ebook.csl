@@ -107,7 +107,7 @@ This style has many limits due to csl constraints, most notably the inability to
          <choose>
             <if type="bill book graphic legal_case motion_picture report song" match="any">
                <group delimiter=", ">
-                  <text variable="series" font-style="italic"/>
+                     <text variable="container-title" form="short" text-case="title" font-style="italic"/>
                   <text variable="title" font-style="italic"/>
                   <text macro="publisher"/>
                   <text macro="year-date"/>
