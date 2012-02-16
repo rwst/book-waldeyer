@@ -81,13 +81,13 @@ This style has many limits due to csl constraints, most notably the inability to
    </macro>
    <macro name="publisher">
       <group delimiter=", ">
-         <text variable="publisher" text-case="capitalize-all"/>
+         <text variable="publisher"/>
          <choose>
             <if variable="address">
                <text variable="address"/>
             </if>
             <else>
-               <text variable="publisher-place" text-case="title"/>
+               <text variable="publisher-place"/>
             </else>
          </choose>
       </group>
@@ -111,7 +111,7 @@ This style has many limits due to csl constraints, most notably the inability to
          <choose>
             <if type="bill book graphic legal_case motion_picture report song" match="any">
                <group delimiter=", ">
-                     <text variable="container-title" form="short" text-case="title" font-style="italic"/>
+                     <text variable="container-title" form="short" font-style="italic"/>
                   <text variable="title" font-style="italic"/>
                   <text macro="publisher"/>
                   <text macro="year-date"/>
