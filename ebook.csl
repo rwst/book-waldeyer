@@ -67,6 +67,10 @@ This style has many limits due to csl constraints, most notably the inability to
          <if variable="url">
             <text variable="url"/>
          </if>
+      </choose>
+   </macro>
+   <macro name="accessdoi">
+      <choose>
          <if variable="doi">
             <text variable="doi"/>
          </if>
@@ -168,6 +172,7 @@ This style has many limits due to csl constraints, most notably the inability to
                   </group>
                </group>
                <text macro="access" prefix="  − "/>
+               <text macro="accessdoi" prefix="  − DOI: "/>
             </else>
          </choose>
       </layout>
