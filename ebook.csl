@@ -78,7 +78,14 @@ This style has many limits due to csl constraints, most notably the inability to
    <macro name="publisher">
       <group delimiter=", ">
          <text variable="publisher" text-case="capitalize-all"/>
-         <text variable="publisher-place" text-case="title"/>
+         <choose>
+            <if variable="address">
+               <text variable="address"/>
+            </if>
+            <else>
+               <text variable="publisher-place" text-case="title"/>
+            </else>
+         </choose>
       </group>
    </macro>
    <macro name="pages">
