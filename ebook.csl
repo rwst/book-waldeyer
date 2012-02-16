@@ -107,15 +107,17 @@ This style has many limits due to csl constraints, most notably the inability to
          <choose>
             <if type="bill book graphic legal_case motion_picture report song" match="any">
                <group delimiter=", ">
-                  <text variable="title" text-case="title" font-style="italic"/>
+                  <text variable="series" font-style="italic"/>
+                  <text variable="title" font-style="italic"/>
                   <text macro="publisher"/>
                   <text macro="year-date"/>
                   <text macro="access" prefix="  − "/>
                </group>
             </if>
-            <else-if type="chapter paper-conference" match="any">
+            <else-if type="incollection chapter paper-conference" match="any">
                <group delimiter=", ">
                   <group delimiter=" ">
+                     <text variable="title" font-style="italic" quotes="true"/>
                      <text term="in" text-case="lowercase"/>
                      <text variable="container-title" form="short" text-case="title" font-style="italic"/>
                      <text macro="editor" prefix="(" suffix=")"/>
