@@ -72,7 +72,7 @@ This style has many limits due to csl constraints, most notably the inability to
       <sort>
          <key variable="citation-number"/>
       </sort>
-      <layout vertical-align="sup" delimiter="," prefix="[" suffix="]">
+      <layout delimiter="," prefix=" [" suffix="]">
          <text variable="citation-number" />
       </layout>
    </citation>
