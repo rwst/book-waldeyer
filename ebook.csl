@@ -64,6 +64,15 @@ This style has many limits due to csl constraints, most notably the inability to
          <if variable="URL">
             <text variable="URL"/>
          </if>
+         <if variable="url">
+            <text variable="url"/>
+         </if>
+         <if variable="doi">
+            <text variable="doi"/>
+         </if>
+         <if variable="DOI">
+            <text variable="DOI"/>
+         </if>
       </choose>
    </macro>
    <macro name="publisher">
@@ -94,6 +103,7 @@ This style has many limits due to csl constraints, most notably the inability to
                   <text variable="title" text-case="title" font-style="italic"/>
                   <text macro="publisher"/>
                   <text macro="year-date"/>
+                  <text macro="access" prefix="  − "/>
                </group>
             </if>
             <else-if type="chapter paper-conference" match="any">
@@ -108,6 +118,7 @@ This style has many limits due to csl constraints, most notably the inability to
                   <group delimiter=" ">
                      <text macro="pages"/>
                   </group>
+                  <text macro="access" prefix="  − "/>
                </group>
             </else-if>
             <else-if type="patent">
@@ -115,6 +126,7 @@ This style has many limits due to csl constraints, most notably the inability to
                   <text variable="title" text-case="title" font-style="italic"/>
                   <text macro="year-date"/>
                   <text variable="number" prefix="U.S. Patent "/>
+                  <text macro="access" prefix="  − "/>
                </group>
             </else-if>
             <else-if type="thesis">
@@ -123,6 +135,7 @@ This style has many limits due to csl constraints, most notably the inability to
                   <text variable="genre"/>
                   <text variable="publisher"/>
                   <text macro="year-date"/>
+                  <text macro="access" prefix="  − "/>
                </group>
             </else-if>
             <else-if type="webpage">
