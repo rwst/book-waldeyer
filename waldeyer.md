@@ -360,12 +360,12 @@ werden. Man vergleiche Fig.&nbsp;1, welche neben solchen Knotenpunkten —
 gut begrenzten rundlichen Nucleolus zeigt.
 
 Nach *Pfitzner* sollen die ächten Nucleoli nie eine Verbindung mit dem
-Cbromatingerüst zeigen sondern frei in den Maschen desselben liegen.
+Chromatingerüst zeigen sondern frei in den Maschen desselben liegen.
 Abgesehen hiervon findet *Flemming* auch noch Unterschiede im 
 Lichtbrechungsvermögen und im Verhalten gegen gewisse Farbstoffe. — Bei
 Ceratium tripos fand *Bütschli* die mitunter in den Kernen gelegenen
 Nucleolen wieder aus einem feinen Netzgerüst aufgebaut.
-*E.&nbsp;Zacharias*[z1881bz] gibt für Pflanzenzellen an, dass die Nucleolen
+*E.&nbsp;Zacharias*[@z1881bz] gibt für Pflanzenzellen an, dass die Nucleolen
 des wesentlichsten Kernbestandtheils, des Nucleins, entbehrten, dagegen
 ein Gerüst aus Plastinsubstanz enthielten, in dessen Maschen andere
 Eiweißstoffe aufgenommen seien. Dies würde für die Selbständigkeit der
@@ -373,7 +373,7 @@ Nucleolen sprechen. *Carnoy*[@cjb1884lac] will vier verschiedene Formen
 von Nucleolen (bei den Arthropoden) unterschieden wissen; ob es aber richtig
 ist, so verschiedene Dinge, wie er sie beschreibt, mit einem und demselben
 Namen zu belegen, bleibt mir fraglich. Untersuchungen aus Gaule’s Laboratorium 
-von *Ogata*[@1883aap] und *Lukjanow*[@lu1887aap], ferner von
+von *Ogata*[@og1883aap] und *Lukjanow*[@lu1887aap], ferner von
 *Stolnikow*[@st1887aap] haben ein sehr verschiedenes Verhalten der 
 nucleolenähnliehen Körper gegen Farbstoffe (Eosin, Saffranin, Nigrosin und
 Hämatoxylin) ergeben. Demnach werden von den genannten Autoren unterschieden:
@@ -415,8 +415,8 @@ wird noch eine nicht färbbare (achromatische) Kernmembran für manche Kerne
 angenommen, so z.&nbsp;B. von *Flemming*[@fw1882], während Manche, wie
 *Strasburger* und *Pfitzner*[@pf1883ama], auch eine membranartige
 Abschließung des an den Kern zunächst anstoßenden Zellprotoplasmas,
-„innere Zellmembran“, zulassen. In seiner neuesten Arbeit([@sb1888]
-p.&nbsp;30), lässt *Strasburger* mit *Guignard*[@1884as] die gesammte
+„innere Zellmembran“, zulassen. In seiner neuesten Arbeit([@sb1888],
+p.&nbsp;30), lässt *Strasburger* mit *Guignard*[@gu1884as] die gesammte
 Kernmembran genetisch dem Zellprotoplasma angehören; sie sei also eine
 Grenzschicht des Zellprotoplasmas gegen die Kernsubstanz hin. Dieselbe
 erlange allerdings bei vollständiger Ausbildung gegen das übrige
@@ -425,7 +425,7 @@ dem Zellprotoplasma genetisch angehöre gehe daraus hervor, dass sie sich —
 bei Pflanzenzellen — während der Karyokinese dem Protoplasma wieder zugeselle,
 und aus dem letzteren um die jungen Tochterkerne wieder angelagert werde.
 
-Bezüglich der **chemischen Zusammensetzung** der Zell-und Kernsubstanzen,
+Bezüglich der **chemischen Zusammensetzung** der Zell- und Kernsubstanzen,
 welche für eine richtige Auffassung der mitotischen Vorgänge von Tag zu Tage
 wichtiger wird, haben neuere Untersuchungen namentlich auf botanischem
 Gebiete manches ergeben. Außer dem von *Miescher*[@mi1874vnb] entdeckten
@@ -434,7 +434,7 @@ fanden *Reinke* und *Rodewald*[@rr1881lg] das „**Plastin**“,
 *Kossel*[@ks1883zpc; @ks1884zpc; @ks1885bcg] das „**Histon**“ und das
 „**Adenin**“. Nach allen bisherigen Angaben ist das Nuclein vorzugsweise in
 den chromatischen Kernsubstanzen enthalten — s.&nbsp;bes.
-*E.&nbsp;Zacharias[@z1881bz; @z1885bz]. *Frank Schwarz*[@sz1887] schlägt
+*E.&nbsp;Zacharias*[@z1881bz; @z1885bz]. *Frank Schwarz*[@sz1887] schlägt
 folgende Termini zur Bezeichnung der verschiedenen Zellenleib- und
 Kernbestandtheile vor: 1) Das **Chromatin**; dies bildet die Substanz der
 *Balbiani-Pfitzner*’schen Chromatinkörper, von denen schon vorhin die Rede
@@ -443,8 +443,162 @@ die ihr Autor in seiner neuesten Publication[@sb1888] wieder verlässt aus
 dem Grunde, weil diese Chromatinkörper chemisch und auch morphologisch
 völlig verschieden sind von denjenigen „Mikrosomen“ (Cytomikrosomen), welche
 wir als einen der Hauptbestandteile des Zellleibes ansehen müssen. 2) Das
-**Linin** (A^ov-Faden). Diese Substanz ist identisch mit Strasburger's „Nucleohyaloplasma" und mitPfitz-ner 's Parachi'omatiu; sie ist die kaum färbbare Grundsubstanz der Chromatinfäden, iu welcher die wiederholt erwähnten, sich lebhaft färbenden Chromatinkörper eingebettet sind. Der Name „Liniu", wird sich, seiner Kürze wegen, wohl leichter einbürgern, als die unbequemen Ausdrücke „Nuclco-Hyaloplasnia" und „Parachronia-tin." Strasburger verwendet ihn bereits in seiner neuesten Ar­beit. 3) Das „Paralinin"; darunter soll die mehr flüssige Sub-
+**Linin** (λινον-Faden). Diese Substanz ist identisch mit *Strasburger*’s
+„Nucleohyaloplasma“ und mit *Pfitzner*’s Parachromatin; sie ist die kaum
+färbbare Grundsubstanz der Chromatinfäden, in welcher die wiederholt
+erwähnten, sich lebhaft färbenden Chromatinkörper eingebettet sind. Der
+Name „**Linin**“, wird sich, seiner Kürze wegen, wohl leichter einbürgern,
+als die unbequemen Ausdrücke „Nucleo-Hyaloplasma“ und „Parachromatin.“
+*Strasburger* verwendet ihn bereits in seiner neuesten Arbeit. 3) Das 
+„**Paralinin**“; darunter soll die mehr flüssige Substanz des Kerns, die
+zwischen den Fäden befindlich ist, verstanden sein. Synonyma sind: Kernsaft
+(*O.&nbsp;Hertwig*), Zwischensubstanz, Achromatin (*Flemming*), Karyochylema
+(*Strasburger*). 4) „**Pyrenin**“ (ὄ&nbsp;πυϱην = Kern) bezeichnet den Stoff,
+aus welchem das Kernkörperchen besteht. Ob *Frank Schwarz* im Rechte ist,
+eine einheitliche Kernkörperchensubstanz hinzustellen, mag mit Fug wie
+z.&nbsp;B. von *Strasburger*[@sb1888] bezweifelt werden. 5) **Amphipyrenin**
+= dem die Kernmembran bildenden Stoffe. Dasselbe ist dem Pyrenin sehr ähnlich
+(vgl. das vor­hin über die Beziehungen des Kernkörperchens zur Kernmembran
+Gesagte), jedoch nimmt das Pyrenin leicht Farbstoffe an, das Amphipyrenin
+nicht; beide zeigen vom Chromatin abweichende Reactionen.
 
+Am meisten dem Nuclein entspricht, nach *Schwarz*, in seinen Reactionen
+das Linin, nicht (entgegen der bisherigen Annahme, s.&nbsp;vorhin) das
+Chromatin; das Paralinin steht dem Globulin am nächsten. Es ist dies
+Paralinin jedoch keine Flüssigkeit im gewöhnlichen Sinne, daher empfiehlt
+sich nicht die sonst so passende und gute Bezeichnung „Kernsaft“; auch ist
+es nicht achromatisch. Einen wirklichen „Saft“ als „Karyochylema“ kann man
+nur in etwaigen Vacuolen annehmen. Wie weit diese Angaben mit der vorhin
+er­wähnten Ansicht *Carnoy*’s stimmen, müssen erst weitere Untersuchungen
+lehren.
+
+Entgegen den meisten neueren Angaben nimmt *Frank Schwarz* (l.c. p.&nbsp;136)
+an, dass im **Zellprotoplasma** keine **präformirten** Netze und Gerüstwerke
+vorhanden seien, dass aber wohl ein Theil desselben sich zu Fäden und Strängen
+umbilden könne; es sei das Cytoplasma eben eine Mischung, in welcher unter
+Umständen eine Trennung von festerer, zäher und flüssiger (gelöster) Substanz
+eintreten könne. Auf einer solchen Trennung (Entmischung) beruhe z.&nbsp;B.
+die Vacuolenbildung. Als chemische Bestandteile des Cytoplasmas nennt *Frank
+Schwarz*: 1) das **Plastin** (*Reinke*) (Cytoplastin) eine zähe, dehnbare
+Masse, welche der Pepsin- und Trypsin-Verdauung widersteht. 2) Die in Wasser
+und auch im Cytoplasma unlöslichen „**Mikrosomen**“. Diese sind aber unter
+Umständen verschieden zusammengesetzt und daher mit den chemisch einheitlichen
+Chromatinkörpern des Kerns nicht zu vergleichen. 3) Die in den **Vacuolen**
+gelösten Stoffe. Die Mikrosomen können fehlen, 1 und 3 sind aber immer
+vorhanden. — Das hier Vorgebrachte gilt natürlich in erster Linie für
+Pflanzenzellen.
+
+Wir wenden uns nunmehr zu einer Darstellung der **karyokinetischen Vorgänge**
+selbst, und zwar nach der Schilderung, welche *Rabl*[@ra1885mj] jüngst von
+ihnen geliefert hat, welche aber, wie bemerkt, in fast allen wesentlichen
+Punkten mit der von *Flemming*[@fm1882] gegebenen übereinstimmt.
+
+Gehen wir von dem ruhenden Kerne aus, wie er in Fig.&nbsp;1 dargestellt ist,
+so würde als erstes Stadium der Karyokinese dasjenige zu bezeichnen sein, in
+welchem alle secundären Fäden des Kerngerüstes, wie auch die Nucleolen und
+Netzknoten schwinden, indem ihre Substanz in die primären Gerüstfäden
+übergeht. Fig.&nbsp;4 zeigt uns, wie schon vorhin bemerkt, ein Kernschema,
+in welchem rechts, ausser zwei primären Fadenschlingen, noch die secundären
+Fäden, Netzknoten und ein Nucleolus sichtbar sind, links dagegen fehlen.
+Denkt man sich auch rechts die secundären Fäden, Knoten und den Nucleolus
+in die primären Fadenschlingen aufgenommen, so wird dann das erste Stadium
+der Karyokinese gegeben sein, wie es in Fig.&nbsp;2, und zwar vom Polfelde
+aus gesehen, gezeichnet ist. Mit *Flemming* nennen wir dieses das
+„**Knäuelstadium**“ oder die **Knäuelform**, kurz: **Knäuel**,
+„**Spirem**“^[σπείϱημα, Windung, Knäuel], **Mutterknäuel**. *E.&nbsp;van
+Beneden*[@vbe1883] war der Erste, welcher für die Eizellen zeigte, dass die
+chromatischen Fäden, mit deren deutlichem Auftreten die Karyokinese beginnt,
+nur Theilstücke eines im Kern befindlichen zusammenhängenden Gerüstes sind
+und dass sie durch stärkere Chromatinansammlung deutlich werden. *Rabl* hat
+dies denn auch für andere Zellen nachgewiesen und verallgemeinert.
+
+Gleichzeitig mit diesen Veränderungen bemerkt man eine Vergrößerung des
+gesammten Kerns.
+
+*Balbiani* und *Strasburger* haben, wie erwähnt, die Ansicht ausgesprochen —
+und *Flemming*’s wie *Carnoy*’s Darstellung lautet hierin beistimmend —, dass
+im ruhenden Kern und zu Anfang des Knäuelstadiums nur ein einziger Faden
+vorhanden sei, der sich vielfach winde und so eine grössere Anzahl von
+einander getrennter Fadenschlingen vortäusche. So schwierig es ist, wie ich
+nach eigener Erfahrung sagen kann, sich über diesen Punkt bestimmt zu äussern,
+so möchte ich doch *Rabl* beipflichten, wenn er meint, dass gleich von
+Anfang an mehrere — bei thierischen Zellen bis
+zu 20 — **getrennte** Fadenschlingen vorhanden sind. Auch *Strasburger* hat in
+seiner neuesten Mittheilung[@sb1888] seine frühere Ansicht von dem
+Vorhandensein nur eines einzigen Fadens aufgegeben. Bei den Zellen der
+Chironomuslarven, wo ihn *Balbiani* zuerst nachgewiesen hat, lässt auch 
+*Strasburger* diesen einen Faden noch gelten.
+
+*Rabl* beschreibt, abweichend von seinen Vorgängern, den bereits erwähnten
+typischen Verlauf der Fadenschlingen meist quer zur Längsaxe des Kerns mit
+einem freien „Polfelde“ an der „Polseite“ und mit der „Gegenpolseite“, und
+hebt hervor, dass die Fäden in der Mehrzahl der Fälle an der Oberfläche des
+Kerns verlaufen. S.&nbsp;Fig.&nbsp;2 und&nbsp;3.
+
+Polare Strahlungsfiguren im Protoplasma der Zelle, s.&nbsp;Fig.&nbsp;7
+(Cytaster) findet *Rabl* in diesem Stadium noch nicht, während *Flemming*
+sie bei Eizellen zu dieser Zeit schon bestimmt gesehen hat und auch für die
+übrigen zur Theilung sich anschickenden Gewebszellen als früheste Erscheinung
+eine „dicentrische Anordnung“ des Protoplasma annimmt, ungeachtet eine
+deutliche strahlige Gruppirung desselben an zwei einander gegenüberliegenden
+Polen noch nicht erkennbar ist. S.&nbsp;weiter unten *E.&nbsp;van Beneden*’s
+Angaben.
+
+Die beschriebene erste Knäuelfigur, die man auch als „dichten Knäuel“
+bezeichnet, geht nun zunächst in den „lockeren Knäuel“ über (Fig.&nbsp;5).
+Dieser kommt dadurch zu Stande, dass die Fäden dicker und kürzer werden und 
+nicht so stark gewunden verlaufen. Gleichzeitig tritt aber an einigen Fäden
+eine quere Theilung auf, so dass die Zahl der einzelnen Schlingen etwas
+größer wird. *Rabl* schließt aus *Flemming*’s Zählungen und aus eigenen,
+dass bei ein und derselben Thierspecies und Zellenspecies die Zahl der
+Fadenschlingen in diesem Stadium eine constante sei. So betrug sie z.&nbsp;B.
+bei den Epithelzellen von Salamandra stets 24. Bestimmte Zahlen für gewisse
+Pflanzenzellen werden auch von den Botanikern, namentlich von *Strasburger*
+und *Heuser*[@hs1884bz], angegeben; doch meint neuerdings der Erstere, dass
+eine absolute Constanz nicht vorhanden wäre, wenigstens nicht bei allen
+Zellenarten. Nur die generativen Zellen sollen bemerkenswerther Weise stets
+dieselbe Schleifenzahl (bei einer und derselben Species) aufweisen.
+Vgl.&nbsp;hierzu *Boveri* ([@bt1887ber], w.&nbsp;n. pag.&nbsp;103). Diejenigen,
+welche, wie *Flemming*, einen einzigen Faden im vorigen Stadium annehmen,
+lassen denselben sich nun im Stadium des lockeren Knäuels in die einzelnen
+Segmente (Fadenschlingen) spalten. Wie
+wir sahen, lässt auch *Rabl* eine solche Theilung einzelner Fadenschlingen zu,
+da er ja aber von Anfang an mehrere Schlingen annimmt, so ist für ihn die
+Theilung eine viel beschränktere.
+
+Auf den „lockeren Knäuel“ folgt nun als dritte Unterordnung des ersten
+Stadiums der Karyokinese der sogenannte „segmentirte Knäuel“ — so bezeichnet
+nach einer der **wichtigsten**, von *Flemming* entdeckten und jetzt wohl
+allgemein angenommenen Erscheinungen der Karyokinese, nämlich der
+**Längstheilung** sämmtlicher Fadenschleifen, s.&nbsp;Fig.&nbsp.6 und&nbsp;7.
+Wie sich mit dem weiteren Ablaufe der Dinge herausstellt, wird durch diese
+Theilung der einzelnen Fäden eine Zerlegung der gesammten chromatischen Masse
+des Kerns in zwei gleiche Hälften bewirkt und die nachkommenden Erscheinungen
+haben nur noch den Erfolg, dass die Theilstücke auseinanderrücken und sich zu
+den beiden Tochterkernen neu gruppiren. *Rabl* gibt ausdrücklich an, dass er
+die Längstheilung der chromatischen Fäden mit dem Schlusse der Knäuelphase
+stets vollendet gefunden habe.
+— *E.&nbsp;van Beneden* (bei Ascaris megalocephala) legt entschiedenen Werth
+darauf, dass die beiden Schwesterfäden bis in die kleinsten Einzelnheiten
+einander gleich seien. Die Längstheilung ist, ihm zufolge, anfangs keine
+vollständige, so dass an den beiden Enden die Schwesterfäden noch eine
+Zeitlang durch eine minder stark sich färbende Substanz zusammenhängen.
+Dieser Zusammenhang erhält sich auch noch, wann die zusammengehörigen
+Schwesterfäden nach den beiden Polen hin auseinanderrücken. Man sieht dann,
+wie es zuerst *E.&nbsp;van Beneden* — später *Rabl* — beschrieben hat, von den
+Enden der auseinanderstrebenden Fadenschleifen feine achromatische Fäden
+(filaments réunissantes, *E.&nbsp;van Beneden*) ausgehen, die noch eine
+Zeitlang die chromatischen Schleifen der beiden Tochterkerne (Dyasteren) mit
+einander verbinden. Man muss diese Fäden sehr wohl von denen der Spindelfigur
+unterscheiden ( *van Beneden*, s.&nbsp;Fig.&nbsp;11).
+
+Außer der Längstheilung der Fäden zeigt aber das in Rede stehende Endstadium
+des „Knäuels“ noch eine Reihe anderer bemerkenswerther Erscheinungen, und zwar
+zunächst das Auftreten der sogenannten „achromatischen Kernspindel“ und die
+beginnende Anordnung der chromatischen Fadenschlingen in eine bestimmte
+Stellung zu dieser Spindel.
+
+Die vollentwickelte **Kernspindel** ist in Fig.&nbsp;7 dargestellt;
 
 
 # Einzelnachweise und Fußnoten
