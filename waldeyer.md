@@ -186,7 +186,7 @@ Man unterscheidet an den meisten solcher Kerne (s.&nbsp;Fig.&nbsp;1): das
 (*R. Hertwig*) — Zwischensubstanz (*Flemming*) — und vielfach noch eine
 äußere Hülle, die „Kernmembran“.
 
-![Fig. 1. Schema eines ruhenden Kerns.]()
+![Fig. 1. Schema eines ruhenden Kerns.](images/fig01.jpg)
 
 Ohne auf die ansehnliche, an Controversen reiche Literatur über diese Dinge
 weiter hier einzugehen, ist es doch nöthig, einige Details näher zu erörtern:
@@ -248,14 +248,14 @@ Fäden zurückzukehren. Hierin eben liegt die Wichtigkeit der besprochenen
 Regelmässigkeit der Fadenstructur für die Karyokinese. Wir werden später
 darauf zurückkommen.
 
-![Fig. 2. Kern: I. Stadium der Karyokinese, „Dichter Knäuel“ — Kern vom Polfelde aus gesehen, *exc.* = excentriseh gelegene Fadenschlingen. — *c* = centrale, aus der Tiefe des Kerns auftauchende Schlingen.]()
+![Fig. 2. Kern: I. Stadium der Karyokinese, „Dichter Knäuel“ — Kern vom Polfelde aus gesehen, *exc.* = excentrisch gelegene Fadenschlingen. — *c* = centrale, aus der Tiefe des Kerns auftauchende Schlingen.](images/fig02.jpg)
 
-![Fig. 3. I. Stadium der Karyokinese, „Dichter Knäuel“. — Kern von der Gegenpolseite]()
+![Fig. 3. I. Stadium der Karyokinese, „Dichter Knäuel“. — Kern von der Gegenpolseite](images/fig03.jpg)
 
 ![Fig. 4. Schema eines ruhenden Kerns nach *Rabl*; links nur die primären Fäden,
 rechts auch die secundären, welche die netzartige Verbindung herstellen,
 gezeichnet. Auch eine nucleolenförmige Bildung und Knoten rechts.
-Seitenansicht; Polfeld = *F*]()
+Seitenansicht; Polfeld = *F*](images/fig04.jpg)
 
 Eigenartig ist die Structur des Kerngerüstes bei gewissen Cilioflagellaten,
 wie z.&nbsp;B. bei Ceratium Tripos. *Bütschli*[@bo1885mj] findet hier einen
@@ -330,10 +330,10 @@ zu den Fäden verbindende achromatische **Zwischensubstanz**
 Arthropoden der im Kerne vorkommende, einzige, stark gewundene Chromatinfaden
 noch eine „Plastinhülle“ habe, im übrigen aus Nucleinsubstanz bestehe,
 welche Ansicht *Ch.&nbsp;van&nbsp;Bambeke*[@vbc1887arb], ohne sich über
-die chemische Beschaffenheit der Hülle näher zu äussern, bestätigt.
+die chemische Beschaffenheit der Hülle näher zu äußern, bestätigt.
 
-Was die Form der *Balbiani-Pfitzner’schen Chromatinkörper anlangt, so ist
-dieselbe, wie mir scheint, noch nicht endgültig festgestellt. Pfitzner
+Was die Form der *Balbiani-Pfitzner*’schen Chromatinkörper anlangt, so ist
+dieselbe, wie mir scheint, noch nicht endgültig festgestellt. *Pfitzner*
 nannte sie „Kugeln“; *Strasburger* beschreibt sie in der eben citirten
 früheren und auch in seiner neuesten Mittheilung[@sb1888] als
 kurz-tonnenförmige „Scheiben“, ebenso schildert sie *Carnoy* bei den
@@ -341,6 +341,109 @@ Arthropoden.
 
 Die **Kernkörperchen** (Nucleoli) bieten in ihrer Deutung noch manche
 Schwierigkeiten dar. Allgemein bekannt ist,
+dass sie meist rundliche Bildungen sind, die sich scharf von den übrigen
+Bestandteilen des Kerns abheben, und die, wie wir oben erwähnten, sich
+ebenfalls intensiv färben lassen. Zweifelhaft ist aber ihre Beziehung zum
+Kerngerüst. Die Einen — ich nenne *Flemming* und *Pfitzner* — halten die
+Nucleolen für verschieden vom Kerngerüst; sie seien als besondere Bildungen
+innerhalb des letzteren aufzufassen, hingen nicht mit den Gerüstfäden
+zusammen, sondern seien von ihnen getrennt, wenn sie ihnen auch
+„angelagert“ erschienen. Die Anderen — z.&nbsp;B. *E.&nbsp;Klein*[@kn1878qj;
+@kn1879cmw] in London, dem ich mich anschliessen möchte, und zwar auf Grund
+des Verhaltens der Nucleolen bei der Karyokinese — halten dafür, dass die
+Nucleolen nur stark verdickte Knotenpunkte des Netzwerkes der Gerüstfäden,
+also mit den letzteren identisch seien. Thatsache ist, dass solche verdickten
+Knotenpunkte innerhalb des chromatischen Kerngerüstes vorkommen. Diese
+müssen jedoch nach *Flemming*[@fw1882] von den ächten Nucleolen unterschieden
+werden. Man vergleiche Fig.&nbsp;1, welche neben solchen Knotenpunkten —
+„Netzknoten“ werden sie zum Unterschiede von den Nucleolen genannt — einen
+gut begrenzten rundlichen Nucleolus zeigt.
+
+Nach *Pfitzner* sollen die ächten Nucleoli nie eine Verbindung mit dem
+Cbromatingerüst zeigen sondern frei in den Maschen desselben liegen.
+Abgesehen hiervon findet *Flemming* auch noch Unterschiede im 
+Lichtbrechungsvermögen und im Verhalten gegen gewisse Farbstoffe. — Bei
+Ceratium tripos fand *Bütschli* die mitunter in den Kernen gelegenen
+Nucleolen wieder aus einem feinen Netzgerüst aufgebaut.
+*E.&nbsp;Zacharias*[z1881bz] gibt für Pflanzenzellen an, dass die Nucleolen
+des wesentlichsten Kernbestandtheils, des Nucleins, entbehrten, dagegen
+ein Gerüst aus Plastinsubstanz enthielten, in dessen Maschen andere
+Eiweißstoffe aufgenommen seien. Dies würde für die Selbständigkeit der
+Nucleolen sprechen. *Carnoy*[@cjb1884lac] will vier verschiedene Formen
+von Nucleolen (bei den Arthropoden) unterschieden wissen; ob es aber richtig
+ist, so verschiedene Dinge, wie er sie beschreibt, mit einem und demselben
+Namen zu belegen, bleibt mir fraglich. Untersuchungen aus Gaule’s Laboratorium 
+von *Ogata*[@1883aap] und *Lukjanow*[@lu1887aap], ferner von
+*Stolnikow*[@st1887aap] haben ein sehr verschiedenes Verhalten der 
+nucleolenähnliehen Körper gegen Farbstoffe (Eosin, Saffranin, Nigrosin und
+Hämatoxylin) ergeben. Demnach werden von den genannten Autoren unterschieden:
+a) als **Karyosomen** die sich blau färbenden
+Körper, b) als **Plasmosomen** die sich roth färbenden Körper, c) als
+**Hyalosomen** ungefärbt bleibende (s.&nbsp;*Lukjanow*). Wie *Ogata* zuerst
+behauptet hat, können diese Körper auch aus den Kernen in den Zellenleib
+auswandern; die auswandernden **Plasmosomen** bilden die sogenannten
+„**Nebenkerne**“, denen ein wichtiger Antheil an der Regeneration der Zellen
+zugeschrieben wird.
+
+Die Bedeutung aller dieser Dinge für das Zellenleben ist noch fast vollkommen
+dunkel. *Strasburger* und *Pfitzner* (l.c.) sind geneigt in den Nucleolis
+Ablagerungsstätten für sogenannte „Reservestoffe“ zu erblicken, wofür
+allerdings ihr Verhalten bei der Karyokinese spricht. Sie lösen sich nämlich
+während derselben auf, um sich erst nach der Theilung in den neuen Kernen
+wieder zu bilden. Auch scheinen sie für die Membranbildung um die jungen
+Kerne Stoffe herzugeben. *A.&nbsp;Brass*[@brass1883] bringt ebenfalls die
+Kernkörperchen in Beziehung zu den Ernährungsvorgängen am Kerne. Bei
+Spirogyra ist nach *Meunier*[@me1887lc] alles Chromatin im Nucleolus
+enthalten und geht ausschließlich von hier in die mitotische Figur über.
+
+Der „**Kernsaft**“ ist keineswegs als eine einfach wässerige Flüssigkeit
+anzusehen; alles spricht vielmehr dafür, dass er ebenfalls Eiweißkörper
+enthält. Nach Einwirkung von verschiedenen Reagentien treten feinkörnige
+Trübungen im Kernsaft auf; nach *Flemming*[@fw1882] müssen diese aber wohl
+als Gerinnungserscheinungen — besser wohl „Niederschläge“ — gedeutet werden
+und ist vor der Hand an Structurverhältnisse nicht zu denken.
+*Carnoy*[@cjb1884lac] nimmt indessen ein solches an, indem er dem Kernsafte
+ein feines Plastingerüst mit einem mehr flüssigen Inhalte (Enchylema)
+zuschreibt, während *van Bambeke* (l.c.) und *Platner*[@pl1886mah] sich
+gegen diese Annahme aussprechen.
+
+Schwierig ist die Frage nach dem Verhalten der **Kernhüllen**. Von allen
+Seiten wird zugestanden — und muss ich dem ebenfalls zustimmen — dass die
+Kerngerüstbalken an der Peripherie dichter zusammenschliessen und somit eine 
+durchbrochene, korbgeflechtartige Begrenzungsschicht bilden. Von Anderen
+wird noch eine nicht färbbare (achromatische) Kernmembran für manche Kerne
+angenommen, so z.&nbsp;B. von *Flemming*[@fw1882], während Manche, wie
+*Strasburger* und *Pfitzner*[@pf1883ama], auch eine membranartige
+Abschließung des an den Kern zunächst anstoßenden Zellprotoplasmas,
+„innere Zellmembran“, zulassen. In seiner neuesten Arbeit([@sb1888]
+p.&nbsp;30), lässt *Strasburger* mit *Guignard*[@1884as] die gesammte
+Kernmembran genetisch dem Zellprotoplasma angehören; sie sei also eine
+Grenzschicht des Zellprotoplasmas gegen die Kernsubstanz hin. Dieselbe
+erlange allerdings bei vollständiger Ausbildung gegen das übrige
+Zellprotoplasma eine morphologische Selbständigkeit. Dass die Kernwandung
+dem Zellprotoplasma genetisch angehöre gehe daraus hervor, dass sie sich —
+bei Pflanzenzellen — während der Karyokinese dem Protoplasma wieder zugeselle,
+und aus dem letzteren um die jungen Tochterkerne wieder angelagert werde.
+
+Bezüglich der **chemischen Zusammensetzung** der Zell-und Kernsubstanzen,
+welche für eine richtige Auffassung der mitotischen Vorgänge von Tag zu Tage
+wichtiger wird, haben neuere Untersuchungen namentlich auf botanischem
+Gebiete manches ergeben. Außer dem von *Miescher*[@mi1874vnb] entdeckten
+„**Nuclein**“, welches einen wesentlichen Bestandteil der Kernmasse ausmacht, 
+fanden *Reinke* und *Rodewald*[@rr1881lg] das „**Plastin**“,
+*Kossel*[@ks1883zpc; @ks1884zpc; @ks1885bcg] das „**Histon**“ und das
+„**Adenin**“. Nach allen bisherigen Angaben ist das Nuclein vorzugsweise in
+den chromatischen Kernsubstanzen enthalten — s.&nbsp;bes.
+*E.&nbsp;Zacharias[@z1881bz; @z1885bz]. *Frank Schwarz*[@sz1887] schlägt
+folgende Termini zur Bezeichnung der verschiedenen Zellenleib- und
+Kernbestandtheile vor: 1) Das **Chromatin**; dies bildet die Substanz der
+*Balbiani-Pfitzner*’schen Chromatinkörper, von denen schon vorhin die Rede
+war. Es ist identisch mit *Strasburger*’s „Nucleomikrosomen“, eine Bezeichnung,
+die ihr Autor in seiner neuesten Publication[@sb1888] wieder verlässt aus
+dem Grunde, weil diese Chromatinkörper chemisch und auch morphologisch
+völlig verschieden sind von denjenigen „Mikrosomen“ (Cytomikrosomen), welche
+wir als einen der Hauptbestandteile des Zellleibes ansehen müssen. 2) Das
+**Linin** (A^ov-Faden). Diese Substanz ist identisch mit Strasburger's „Nucleohyaloplasma" und mitPfitz-ner 's Parachi'omatiu; sie ist die kaum färbbare Grundsubstanz der Chromatinfäden, iu welcher die wiederholt erwähnten, sich lebhaft färbenden Chromatinkörper eingebettet sind. Der Name „Liniu", wird sich, seiner Kürze wegen, wohl leichter einbürgern, als die unbequemen Ausdrücke „Nuclco-Hyaloplasnia" und „Parachronia-tin." Strasburger verwendet ihn bereits in seiner neuesten Ar­beit. 3) Das „Paralinin"; darunter soll die mehr flüssige Sub-
 
 
 
