@@ -491,7 +491,7 @@ Pflanzenzellen.
 Wir wenden uns nunmehr zu einer Darstellung der **karyokinetischen Vorgänge**
 selbst, und zwar nach der Schilderung, welche *Rabl*[@ra1885mj] jüngst von
 ihnen geliefert hat, welche aber, wie bemerkt, in fast allen wesentlichen
-Punkten mit der von *Flemming*[@fm1882] gegebenen übereinstimmt.
+Punkten mit der von *Flemming*[@fw1882] gegebenen übereinstimmt.
 
 Gehen wir von dem ruhenden Kerne aus, wie er in Fig.&nbsp;1 dargestellt ist,
 so würde als erstes Stadium der Karyokinese dasjenige zu bezeichnen sein, in
@@ -570,7 +570,7 @@ Auf den „lockeren Knäuel“ folgt nun als dritte Unterordnung des ersten
 Stadiums der Karyokinese der sogenannte „segmentirte Knäuel“ — so bezeichnet
 nach einer der **wichtigsten**, von *Flemming* entdeckten und jetzt wohl
 allgemein angenommenen Erscheinungen der Karyokinese, nämlich der
-**Längstheilung** sämmtlicher Fadenschleifen, s.&nbsp;Fig.&nbsp.6 und&nbsp;7.
+**Längstheilung** sämmtlicher Fadenschleifen, s.&nbsp;Fig.&nbsp;6 und&nbsp;7.
 Wie sich mit dem weiteren Ablaufe der Dinge herausstellt, wird durch diese
 Theilung der einzelnen Fäden eine Zerlegung der gesammten chromatischen Masse
 des Kerns in zwei gleiche Hälften bewirkt und die nachkommenden Erscheinungen
@@ -592,13 +592,234 @@ Zeitlang die chromatischen Schleifen der beiden Tochterkerne (Dyasteren) mit
 einander verbinden. Man muss diese Fäden sehr wohl von denen der Spindelfigur
 unterscheiden ( *van Beneden*, s.&nbsp;Fig.&nbsp;11).
 
+![Fig. 5. Kern: Lockerer Knäuel; erstes Auf­treten der Spindelfigur.](images/fig05.jpg)
+
+![Fig. 6. Kern: Beginnende Längstheilung der Fäden; Ende des Knäuelstadiums.](images/fig06.jpg)
+
 Außer der Längstheilung der Fäden zeigt aber das in Rede stehende Endstadium
 des „Knäuels“ noch eine Reihe anderer bemerkenswerther Erscheinungen, und zwar
 zunächst das Auftreten der sogenannten „achromatischen Kernspindel“ und die
 beginnende Anordnung der chromatischen Fadenschlingen in eine bestimmte
 Stellung zu dieser Spindel.
 
+![Fig. 7. Zelle und Kern: Mutterstern (Monaster), Spindelfigur (Karyaster) und Polstrahlung (Cytaster).](images/fig07.jpg)
+
 Die vollentwickelte **Kernspindel** ist in Fig.&nbsp;7 dargestellt;
+sie zeigt deutlich zwei Pole und einen Aequator. Die feinen Fäden, aus denen
+sie sich zusammensetzt, färben sich, wie bereits vorhin bemerkt, viel
+schwächer als die dickeren Fäden der chromatischen Figur, wenigstens in den
+von *Flemming* sogenannten reinen Kernfärbungsmitteln (Alauncarmin, Anilin,
+Bismarckbraun, Gentianaviolett, Methylgrün u.&nbsp;A.), während sie dagegen
+in manchen Carmingemischen, wie auch in Hämatoxylin, Färbungen annehmen. Die
+Fäden sind viel zarter als die der chromatischen Figur, namentlich ist dies
+bei thierischen Zellen der Fall; bei pflanzlichen Elementen dagegen erscheint
+die Spindelfigur meist ohne weiteres
+sehr deutlich^[Die deutlichsten Spindelfiguren bei
+thierischen Zellen habe ich vor Kurzem
+in sehr schönen Präparaten *Mayzel*’s
+zu sehen Gelegenheit gehabt. Dieselben
+betrafen das Endothel der *Descemet*’schen
+Haut des Frosches (R.&nbsp;escul.); sie
+waren mit schwacher Chromsäure behandelt,
+mit Carmin gefärbt und schon seit Jahren
+in Glycerin aufbewahrt, ohne an Deutlichkeit
+zu verlieren. (Vgl. *Mayzel*’s[@ma1884]
+Arbeit in der zu Ehren *Hoyer*’s erschienenen
+Festschrift, Warschau 1885.) Neuerdings
+beobachtete ich sie in vollendetster Form
+an Präparaten *Kultschitzky*’s über die Eier
+von Ascaris megalocephala im hiesigen Laboratorium.]. Nach *Carnoy*
+sollen sie auch noch über die beiden Pole hinaus in das Zellprotoplasma sich
+fortsetzen. (Vgl. darüber *van Beneden* weiter unten und Fig.&nbsp;7 Cytaster.)
+
+Weitere Unterschiede von den chromatischen Fäden liegen darin, dass die
+Spindelfäden in Pepsinlösungen schwinden und in verdünnten Säuren, namentlich
+Salzsäure, verschärft hervortreten. Nicht immer hat die Figur eine deutliche
+Spindelform, sondern zeigt, bei Pflanzen namentlich, nicht selten eine 
+cylindrische Gestalt (cylindrisches Fadenbündel), so dass sie von den Polen
+angesehen, nicht einem Sterne, sondern einer punktirten Scheibe gleicht.
+
+Ueber ihre Herkunft und Bedeutung gehen die Meinungen noch auseinander. Ich
+komme später auf diesen Gegenstand zurück.
+
+Die Untersuchungen *Rabl*’s zeigen nun des Weiteren, dass die Spindelfigur
+ihre Lage während des Ablaufs der Theilungserscheinungen ändert, und, was
+besonders merkwürdig ist, dass die Fadenschlingen der chromatischen Figur
+dieser Lageänderung folgen. Dass sich die Fäden der Tochterkerne nach
+geschehener Theilung um die Pole der Spindelfigur gruppiren, ist zwar seit
+der Entdeckung der karyokinetischen Zelltheilung bekannt, ebenso lehren
+bereits *Flemming* und *E.&nbsp;van Beneden* l.l.c.c., dass die Tochterfäden
+den Fäden der Kernspindel entlang sich verschieben, um zu deren Polen zu
+gelangen; *Rabl* indessen hat gezeigt, dass schon vom ersten Auftreten der
+Spindelfigur an ein gleichsam richtender Einfluss derselben auf die
+chromatischen Fäden erkannt werden kann, und diese Erscheinungen spielen
+sich eben in der Phase des „segmentirten Knäuels“ ab.
+
+Wann die Spindelfigur zuerst sichtbar wird (bei Salamandra), so wird sie von
+*Rabl* in der Nähe des Polfeldes gefunden, so
+dass ihr Aequator im Polfelde steht, während ihre Längsaxe schief zur
+Längsaxe des Kerns gerichtet ist. Später senkt sie sich tiefer in die
+Kernsubstanz ein und nimmt eine Lage der Art an, dass ihr Aequator in
+diejenige Ebene fällt, in der später die Theilung des Kerns erfolgt
+(**Theilungsebene**). Die Längsaxe der Spindelfigur fällt dann mit der
+„Theilungsaxe“ des Kerns zusammen. Fügen wir hier gleich an, dass die
+Theilungsaxe der Kerne nicht immer mit deren eigener Längsaxe und mit der
+Längsaxe der Zelle dieselbe ist, dass also z.&nbsp;B. eine Cylinderzelle
+sich nicht nur der Quere, sondern auch der Länge nach theilen kann, wie
+dies n.&nbsp;A. *Arthur Kollmann* in seiner schönen Arbeit über den
+Tastapparat der Hand[@km1883] von den tiefliegendsten Zellen des Rete
+Malpighii gezeigt und *Rabl* bei Salamandra bestätigt hat. Auch schiefe
+Theilungen scheinen vorzukommen. In vielen Fällen liegt die Sache so, dass
+(*Rabl*, *Strasburger*) die Theilungsaxe durch Polfeld und Gegenpolseite des
+Mutterkerns läuft; bei der späteren Theilung würde demnach das Polfeld des
+einen Tochterkerns mit dem ursprünglichen Polfelde des Mutterkerns
+zusammenfallen, das Polfeld des anderen Tochterkerns dagegen mit der
+ursprünglichen Gegenpolseite (s.&nbsp;Fig.&nbsp;12). Doch ist dies nicht immer
+der Fall (*Strasburger*). Bei Pflanzen soll es sogar häufiger sich so
+verhalten, dass die Theilungsaxe parallel dem Polfelde liegt.
+
+Bezüglich der Lage der chromatischen Fadenschlingen zur Kernspindel sahen wir 
+bereits, dass die Schlingenwinkel anfangs grossentheils zum Polfelde,
+d.&nbsp;h. zum Aequator der noch schief gelagerten Kernspindel hin geneigt
+sind. Wenn nun die Spindel sich senkt, so dass ihr Aequator mehr in die Mitte
+des Kerns zu liegen kommt, so folgen — und das ist eine der Haupterscheinungen
+dieser letzten Phase des Knäuelstadiums — die Fadenschlingen dem Aequator der
+Spindel, gleichsam als würden sie von ihm angezogen, und gruppiren sich dann
+allmählich rings um diesen Aequator, ihm ihre Scheitel zu­kehrend. Es ist
+klar, wie das auch *Rabl* hervorhebt, dass damit die Unterscheidung von
+Polseite und Gegenpolseite wegfällt und nunmehr zwei Pole am Kern auftreten,
+die den Polen der Spindelfigur entsprechen. S.&nbsp;Fig.&nbsp;5, 6, 7.
+
+Noch zweier Vorgänge, welche dem in Rede stehenden Endstadium des Knäuels
+angehören, muss hier gedacht werden, es sind dies die **Polstrahlungen** im
+**Zellprotoplasma** und das **Schwinden des äusseren Kerncontours**.
+
+Die **Sternfiguren** (Polstrahlungen, Astern) im **Zellprotoplasma** wurden
+bereits vorhin berührt. Bei manchen Zellen, z.&nbsp;B. den Eizellen, treten
+nie, wie besonders *Flemming*[@fw1882] hervorhebt, sehr früh auf. Bei den
+meisten Zellen scheinen sie aber erst mit dem Endstadium des Knäuels deutlich
+zu werden; die Strahlung geht von den Polen der Spindelfigur aus 
+(Fig.&nbsp;7, 9, 10, 11). — Von allen Beobachtern wird übereinstimmend
+angegeben, dass die **Kernmembran** gegen das Ende des Knäuelstadiums
+unsichtbar werde. Ueber ihren Verbleib sind indessen bestimmte Angaben nicht
+vorhanden. *Strasburger* hat sich am eingehendsten mit dieser Seite der Sache
+beschäftigt. Seiner Meinung nach, welche bereits vorhin angedeutet wurde,
+tritt mit dem Schwinden der Kernhülle Zellplasma in den Kernraum ein und
+vermischt sich hier mit dem Kernsafte, so dass der ursprüngliche Contour des
+Kerns ganz verloren geht und als körperlicher Ausdruck des Kerns nur die
+chromatische und die Spindelfigur übrig bleibt. Ja, wenn wir mit *Strasburger*
+annehmen wollen, dass die Spindelfigur auf Rechnung des eingedrungenen
+Zellprotoplasma’s zu setzen wäre, so würde der Kern formell, von diesem
+Stadium an, nur noch durch die chromatische Figur repräsentirt sein. Demgemäß
+geben auch die Zeichnungen *Strasburger*’s, wie auch *Flemming*’s, *Rabl*’s
+u.&nbsp;A., vom Endstadium des Knäuels an gerechnet, keinen Totalumriss des
+Kerns mehr, sondern nur einen hellen Hof um die Fadenfiguren, der aber auch
+mehr oder minder von der früheren Kernumrissform abweicht. Was die Vermischung
+von Kernsaft und dem betreffenden Antheile des Zellprotoplasma’s anlangt, so
+sprechen sich, abgesehen von *Strasburger*, die Meisten darüber nicht mit
+Entschiedenheit aus. Die erwähnten hellen Höfe, in welchen nach Schwund der
+Kernmembran Kern- und Zellsubstanz aneinanderstoßen (Fig.&nbsp;7), werden
+namentlich von *Flemming* und *Rabl* eingehend beschrieben. Wir werden später
+auch auf diese Frage noch zurückkommen.
+
+Es ist endlich noch der sogenannten „Polkörperchen“ van Beneden’s Erwähnung
+zu thun, welche mit der völligen Ausbildung der Spindelfigur an deren Polen
+auftreten (Fig.nbsp;7 u.&nbsp;8). Er entdeckte dieselben bei den
+Dicyemiden-Eiern[@vbe1876bel1; @vbe1876bel2]. Es sind kleine glänzende
+Körperchen, die als selbständige Bildungen anzusehen sind, nicht etwa als
+Ausdruck der Vereinigung der Fäden der Spindelfigur. Ihre Herkunft und
+Bedeutung ist noch unbekannt. *Carnoy*[@cjb1884lac; @cjb1885lac] glaubt in
+ihnen Aufspeicherungen von Nucleinelementen sehen zu sollen, die sich zum
+Theil aus dem Cytoplasma bilden und nachher bei der Reconstruirung der
+Tochterkerne Verwendung finden. — Bei den Pflanzenzellen sind Polkörperchen
+bis jetzt noch nicht gefunden worden (*Strasburger*). Polare Strahlungen
+treten indessen auch hier auf, jedoch seltener. — (Weiter unten mehreres über
+alle diese Strahlenbildungen und polaren Körperchen, sowie über eine bisher
+noch nicht besprochene Bildung, die sog. Attractionssphären *van Beneden*.)
+
+Auf das Stadium des **Spirems**, das wir bislang betrachteten und das mit der
+vollendeten Längstheilung der chromatischen Fäden sein Ende erreicht
+(Fig.&nbsp;6), folgt nun das Stadium, welches als „**Mutterstern**“, „Aster“,
+„Monaster“ bezeichnet wird (Fig.&nbsp;7). Das Charakteristische desselben
+beruht in der Fertigstellung der Anordnung der chromatischen Fadenschlingen
+um die Aequatorialebene der Spindelfigur, dergestalt, dass die
+Schlingenscheitel sämmtlich zur Spindelfigur centralwärts gekehrt sind, die
+Schenkel der Schlingen zur Peripherie. *Flemming* hat die einschlägigen
+Vorgänge zuerst beschrieben. Wenn wir vorhin schon darauf hinwiesen, dass die
+Aequatorialregion der Spindelfigur eine Art Attractionsfeld für die
+chromatischen Schlingen sei, so wird eben mit dem Beginn dieses Stadiums das
+vollendet, was im vorigen sich einleitete und zwar in einer höchst
+bemerkenswerthen und interessanten Form. Die chromatischen Fadenschlingen
+folgen, wie gesagt, dem Aequator der Spindelfigur und gruppiren sich hier
+dicht zusammen in der erwähnten Weise. Beschaut man einen Kern vom Pol einer
+Spindelfigur her, so muss die chromatische Figur als Stern mit heller Mitte
+erscheinen, in dieser Mitte steckt als zweiter Stern die blasse Spindelfigur,
+deren Pol dem Beschauer zugewendet ist, s.&nbsp;Fig.&nbsp;8. — Die 
+längsgetheilten chromatischen Fäden erfahren zugleich eine Verdickung und
+Verkürzung.
+
+Dieses Stadium ist nur von kurzer Dauer und geht rasch über in das folgende,
+welches gegenwärtig (nach *Flemming*) als das der „**Metakinesis**“ bezeichnet
+wird^[Der Ausdruck „Aequatorialplatte“
+(*Flemming*), „Kernplatte“
+(*Strasburger*) passt wegen des Wortes
+„Platte“ wohl am besten für das Ende
+des Muttersternstadiums, wann nämlich
+die chromatischen Elemente am Aequator
+so ziemlich in eine Ebene zusammengerückt
+sind. Das Wort „Metakinesis“ findet
+bessere Verwendung für das beginnende
+folgende Stadium, in welchem
+das Auseinanderrücken der Fadenhälften
+beginnt; es deckt sich also nicht völlig
+mit dem Ausdrucke: Aequatorial- oder
+Kernplatte. Das Wort: „Platte“ ist übrigens
+nicht besonders bezeichnend für ein aus
+Schlingen zusammengesetztes Gebilde; doch
+kommen, namentlich bei Pflanzenzellen,
+Fälle vor, in denen die chromatischen
+Fäden sehr kurz sind, so dass sie Körnern
+gleichen; liegen solche Fadenelemente
+nahezu in derselben Ebene dicht aneinander,
+so kann allerdings der Eindruck einer
+„Platte“ entstehen. *Mayzel* in der genannten
+Festschrift bildet ein derartiges Verhalten
+bei den Spermatocyten von Liparis- und
+Sphynx-Raupen, also bei thierischen Zellen
+ab. Er hat dasselbe schon früher (1881)
+beschrieben. Neuerdings hat *Platner* in
+einer eingehenden Arbeit über die Karyokinese
+bei den Lepidopteren[@pl1886mah] ähnliche Bilder gegeben.]. In diesem
+vollzieht sich im Wesentlichen das Auseinanderrücken der aus der früheren
+Längstheilung hervorgegangenen chromatischen Schwesterfäden. *E.&nbsp;van
+Beneden*[@vbe1883] hat zuerst für thierische Zellen (Eifurchungszellen von
+Ascaris megaloceph.), *Heuser*[@hs1884bz] gleichzeitig für pflanzliche,
+mit Bestimmtheit gezeigt, dass von den beiden secundären Fäden, welche aus
+einem früheren chromatischen Primärfaden hervorgehen (Schwesterfäden), der
+eine zu dem einen Pole der Kernspindel, der andere zum anderen Pole
+hinwandert. Nächst dem Nachweise der Längsspaltung der Fäden durch *Flemming*
+dürfte dieser Fund *E.&nbsp;van Beneden*’s und *Heuser*’s wohl der
+bedeutendste sein, der in der neueren Zeit in Sachen der Karyokinesis gemacht
+wurde; durch ihn hat Flemming’s Entdeckung erst ihren vollen Werth erhalten,
+wie *van Beneden* l.c. p.&nbsp;328, 379 und 380 schon eingehend würdigt.
+Bereits bei *Flemming*[@fw1882] finden sich viele genaue Detailangaben über
+diese Vorgänge, und *Rabl*[@ra1885mj] hat in jüngster Zeit eine sehr
+eingehende Schilderung der Metakinesis bei den Gewebszellen von Salamandra
+geliefert, bezüglich derer ich jedoch auf das Original verweisen möchte. Die
+nach *Rabl* copirten Fig.&nbsp;9 und 10 (bei denen, wie auch in Fig.&nbsp;11,
+der Totalumriss des Kerns nicht mehr angedeutet ist) geben eine ungefähre
+Vorstellung vom Gange der Dinge.
+
+Die **Metakinesis** führt nun zum folgenden (4.) Stadium, dem der
+„**Tochtersterne**“ (**Dyaster**) Fig.&nbsp;11. Dasselbe beginnt von dem
+Augenblicke an, wann die offenen Schlingenschenkel der zu beiden Polen, der
+Spindelfigur entlang, wandernden chromatischen Fäden sich nicht mehr in der
+Aequatorialebene berühren. Die Schlingenwinkel jeder Polhälfte nähern sich
+dann einander immer mehr, die offenen Schenkel gehen aus der der Spindelfigur
+	
+	
+	
+	
 
 
 # Einzelnachweise und Fußnoten
