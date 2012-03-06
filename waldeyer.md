@@ -692,11 +692,11 @@ die den Polen der Spindelfigur entsprechen. S.&nbsp;Fig.&nbsp;5, 6, 7.
 
 Noch zweier Vorgänge, welche dem in Rede stehenden Endstadium des Knäuels
 angehören, muss hier gedacht werden, es sind dies die **Polstrahlungen** im
-**Zellprotoplasma** und das **Schwinden des äusseren Kerncontours**.
+**Zellprotoplasma** und das **Schwinden des äußeren Kerncontours**.
 
 Die **Sternfiguren** (Polstrahlungen, Astern) im **Zellprotoplasma** wurden
 bereits vorhin berührt. Bei manchen Zellen, z.&nbsp;B. den Eizellen, treten
-nie, wie besonders *Flemming*[@fw1882] hervorhebt, sehr früh auf. Bei den
+sie nie, wie besonders *Flemming*[@fw1882] hervorhebt, sehr früh auf. Bei den
 meisten Zellen scheinen sie aber erst mit dem Endstadium des Knäuels deutlich
 zu werden; die Strahlung geht von den Polen der Spindelfigur aus 
 (Fig.&nbsp;7, 9, 10, 11). — Von allen Beobachtern wird übereinstimmend
@@ -709,22 +709,22 @@ vermischt sich hier mit dem Kernsafte, so dass der ursprüngliche Contour des
 Kerns ganz verloren geht und als körperlicher Ausdruck des Kerns nur die
 chromatische und die Spindelfigur übrig bleibt. Ja, wenn wir mit *Strasburger*
 annehmen wollen, dass die Spindelfigur auf Rechnung des eingedrungenen
-Zellprotoplasma’s zu setzen wäre, so würde der Kern formell, von diesem
+Zellprotoplasmas zu setzen wäre, so würde der Kern formell, von diesem
 Stadium an, nur noch durch die chromatische Figur repräsentirt sein. Demgemäß
 geben auch die Zeichnungen *Strasburger*’s, wie auch *Flemming*’s, *Rabl*’s
 u.&nbsp;A., vom Endstadium des Knäuels an gerechnet, keinen Totalumriss des
 Kerns mehr, sondern nur einen hellen Hof um die Fadenfiguren, der aber auch
 mehr oder minder von der früheren Kernumrissform abweicht. Was die Vermischung
-von Kernsaft und dem betreffenden Antheile des Zellprotoplasma’s anlangt, so
+von Kernsaft und dem betreffenden Antheile des Zellprotoplasmas anlangt, so
 sprechen sich, abgesehen von *Strasburger*, die Meisten darüber nicht mit
 Entschiedenheit aus. Die erwähnten hellen Höfe, in welchen nach Schwund der
 Kernmembran Kern- und Zellsubstanz aneinanderstoßen (Fig.&nbsp;7), werden
 namentlich von *Flemming* und *Rabl* eingehend beschrieben. Wir werden später
 auch auf diese Frage noch zurückkommen.
 
-Es ist endlich noch der sogenannten „Polkörperchen“ van Beneden’s Erwähnung
+Es ist endlich noch der sogenannten „Polkörperchen“ *van Beneden*’s Erwähnung
 zu thun, welche mit der völligen Ausbildung der Spindelfigur an deren Polen
-auftreten (Fig.nbsp;7 u.&nbsp;8). Er entdeckte dieselben bei den
+auftreten (Fig.&nbsp;7 u.&nbsp;8). Er entdeckte dieselben bei den
 Dicyemiden-Eiern[@vbe1876bel1; @vbe1876bel2]. Es sind kleine glänzende
 Körperchen, die als selbständige Bildungen anzusehen sind, nicht etwa als
 Ausdruck der Vereinigung der Fäden der Spindelfigur. Ihre Herkunft und
@@ -800,7 +800,7 @@ eine zu dem einen Pole der Kernspindel, der andere zum anderen Pole
 hinwandert. Nächst dem Nachweise der Längsspaltung der Fäden durch *Flemming*
 dürfte dieser Fund *E.&nbsp;van Beneden*’s und *Heuser*’s wohl der
 bedeutendste sein, der in der neueren Zeit in Sachen der Karyokinesis gemacht
-wurde; durch ihn hat Flemming’s Entdeckung erst ihren vollen Werth erhalten,
+wurde; durch ihn hat *Flemming*’s Entdeckung erst ihren vollen Werth erhalten,
 wie *van Beneden* l.c. p.&nbsp;328, 379 und 380 schon eingehend würdigt.
 Bereits bei *Flemming*[@fw1882] finden sich viele genaue Detailangaben über
 diese Vorgänge, und *Rabl*[@ra1885mj] hat in jüngster Zeit eine sehr
@@ -811,15 +811,146 @@ der Totalumriss des Kerns nicht mehr angedeutet ist) geben eine ungefähre
 Vorstellung vom Gange der Dinge.
 
 Die **Metakinesis** führt nun zum folgenden (4.) Stadium, dem der
-„**Tochtersterne**“ (**Dyaster**) Fig.&nbsp;11. Dasselbe beginnt von dem
+„**Tochtersterne**“(**Dyaster**) Fig.&nbsp;11. Dasselbe beginnt von dem
 Augenblicke an, wann die offenen Schlingenschenkel der zu beiden Polen, der
 Spindelfigur entlang, wandernden chromatischen Fäden sich nicht mehr in der
 Aequatorialebene berühren. Die Schlingenwinkel jeder Polhälfte nähern sich
 dann einander immer mehr, die offenen Schenkel gehen aus der der Spindelfigur
-	
-	
-	
-	
+parallelen Richtung, die sie bei der Trennung annahmen, wieder mehr in die
+der Aequatorialebene entsprechende über, so dass man wiederum an jedem Pol,
+bei der polaren Ansicht, das Bild eines Sternes, des Tochtersternes,
+erhält. Da die Schleifenwinkel sich hier nicht berühren, so zeigt auch
+jeder Tochterstern einen
+polaren lichten Fleck, der wie eine Delle erscheint (Hilus, *Retzius*
+[@rz1881bu]). *Flemming* nimmt an, dass die Fädenschleifen der
+Tochtersterne alle gleichlang und gleichschenkelig seien, worin ihm *Rabl*
+widerspricht, Man vergl. die hier nach *Rabl* gezeichneten Figuren.
+
+![Fig. 8. Kern: Mutterstern von einem Pole aus gesehen.](images/fig08.jpg)
+
+![Fig. 9. Chromatische Figur, Spindel, Polstrahlung (Metakinesis I).](images/fig09.jpg)
+
+![Fig. 10. Dasselbe wie in Fig. 9 in einem späteren Stadium (Metakinesis II).](images/fig10.jpg)
+
+![Fig. 11. Dasselbe wie in Figg. 9 und 10. Tochtersterne. (Dyaster).](images/fig11.jpg)
+
+Als letzte Phase erscheint dann, unmittelbar aus dem Tochterstern
+hervorgehend, der „**Tochterknäuel**“, **Dispirem**, *Flemming.* Die
+Schleifenfäden verkürzen und verdicken sich noch mehr, und wenn wir der
+Darstellung *Rabl*’s folgen, würde die polare Fläche des Tochterkerns, da,
+wo die eben erwähnte Delle liegt, zum Polfelde; die Schleifenschenkel
+biegen zum ehemaligen Aequator hin um und begegnen sich an der dorthin
+gewendeten Kernfläche, welche zur Gegenpolseite wird. Bei den
+Pflanzenzellen haben *Heuser* und *Strasburger* ähnliches constatirt; doch
+kann, wie *Guignard*[@gu1884as] und *Strasburger*[@sb1888] angeben, die
+Delle (Hilus) auch fehlen. In diesem Stadium erfolgt dann auch, wenn es zur
+Zelltheilung kommt, was in den meisten Fällen eintritt, die **Theilung des
+Zellplasmas**, welche im Wesentlichen unter den Erscheinungen einer immer
+tiefer durchgreifenden Einschnürung in der Aequatorialebene vor sich geht.
+Vergl. über den Process der Theilung des Zellkörpers weiter unten.
+
+Erst, wann die Zelle in zwei Hälften getheilt ist, beginnt die Umwandlung
+des Tochterknäuels zum ruhenden (Tochter-)Kern. Die ersten Spuren einer
+neuen Kernmembran treten indessen an den Tochterkernen schon vor Beginn der
+Zelltheilung auf, bereits mit dem Zustandekommen des Tochterknäuels. Woher
+sie stammt, ist bis jetzt ebensowenig festgestellt wie der Modus des
+Schwindens der Mutterkernmembran. Nach *Rabl* soll eine Tochterkernmembran
+zuerst an der Gegenpolseite sichtbar werden. Das Polkörperchen schwindet
+ebenfalls mit dem Beginne des Tochterknäuels. Was die chromatischen Fäden
+des Tochterknäuels anlangt, so beginnen sie bald zackig zu werden und
+Fortsätze auszusenden, mit denen sie sich unter einander verbinden, so dass
+wieder eine Netzform des Gerüstes herauskommt; sie verlieren dabei ihr
+gleichmässiges Kaliber. *Rabl* giebt zu, dass auch einzelne dickere Fäden
+mit ihren Schenkeln unter einander zu längeren Fäden verschmelzen, stellt
+aber, in Uebereinstimmung mit seiner Auffassung vom Baue des ruhenden
+Kerns, in Abrede, dass alle dicken Fadenschlingen untereinander an ihren
+Enden zu einem Faden verschmelzen, so dass ein einziger stark gewundener
+Tochterkernfaden entstehe, wie es *Flemming*, *Retzius* und *Heuser*
+wollen. So geht dann aus dem Tochterknäuel wieder der „ruhende Tochterkern“
+hervor, der inzwischen sammt seinem Zellprotoplasma an Größe zugenommen
+hat und in allen wesentlichen Stücken dem ruhenden Mutterkerne gleicht.
+Auch bei ihm sind, man vergl. Fig.&nbsp;12, Hauptfäden und Nebenfäden,
+Polfeld und Gegenpolseite zu unterscheiden. Die Unterscheidung dieser
+letzteren beiden Abschnitte am ruhenden Kern wird ja, wie man sieht, gerade
+durch den Vorgang der Karyokinese erklärlich. Wann das **Kernkörperchen**
+auftritt und wie es entsteht, darüber fehlen uns bis jetzt übereinstimmende
+und verlässliche Angaben. Fassen wir Alles zusammen, was bis auf unsere
+Tage über die karyokinetischen Vorgänge bekannt geworden ist, so können wir
+das Wesentliche derselben wohl am einfachsten mit den folgenden Worten
+*Boveri*’s[@bt1887jzm] wiedergeben: „Zusammenziehung des chromatischen
+Kernmaterials in eine (bestimmte) Anzahl isolirter Stücke von
+charakteristischer, nach der Zellart wechselnder Form: **die chromatischen
+Elemente**; Ausbildung einer achromatischen Fadenfigur, sei es aus Kern-,
+sei es aus Zellsubstanz mit 2 Polen; Lagerung der chromatischen Elemente,
+so weit dies ihre Zahl, Größe und Form gestattet, in der Aequatorialebene
+der achromatischen Figur; Theilung der chromatischen Elemente in 2
+Hälften, von denen jede einem anderen Pol zugeführt wird; Auflösung der
+Tochterelemente in das Gerüst zweier neuer Kerne.“
+
+![Fig. 12. Zelle und Kern: Vollendete Kerntheilung, beginnende Zelltheilung. Der eine Tochterkern (in A) im Zustande des Tochterknäuels; der andere (in B) wieder im Zustande des ruhenden Kerns.](images/fig12.jpg)
+
+Wir haben nun noch einige Punkte genauer zu besprechen, die bisher nur
+flüchtig berührt worden waren, andere, die noch nicht erwähnt wurden,
+nachzutragen, in erster Linie möchte ich mir jedoch den Vorschlag erlauben,
+diejenigen Dinge, welche soeben mit *Boveri* als „chromatische Elemente“
+bezeichnet wurden, an denen sich einer der wichtigsten Akte der
+Karyokinese, die *Flemming*’sche Längstheilung vollzieht, mit einem
+besonderen terminus technicus „**Chromosomen**“ zu belegen. Der Name
+„primäre Schleifen“ passt nicht, da wir bei weitem nicht immer eine
+Schleifenform für diese Dinge haben. „Chromatische Elemente“ ist zu lang.
+Andererseits sind sie so wichtig, dass ein besonderer kürzerer Name
+wünschenswerth erscheint. *Platner*[@pl1886ama] gebraucht den Ausdruck
+„Karyosomen“; da dieser aber zu sehr an Kernkörperchen erinnert, dürfte
+eine andere Bezeichnung vorzuziehen sein. Ist die von mir vorgeschlagene
+praktisch verwendbar, so wird sie sich wohl einbürgern, sonst möge sie
+bald der Vergessenheit anheimfallen.
+
+In zweiter Linie gilt es der **Spindelfigur** und den **Strahlenfiguren**
+im Protoplasma. Beide sind hier in den Abbildungen Nr.&nbsp;5—11
+dargestellt. Die Spindelfigur wurde zuerst abgebildet und kurz beschrieben
+von *Alexander Kowalevsky*, damals in Kiew, in dessen berühmter
+Abhandlung[@kw1871]: „Embryologische Studien an Würmern und Arthropoden“.
+Die Polarstrahlungen des Zellprotoplasmas, welche von den beiden Polen der
+Spindelfigur ausgehen, zeigten uns zuerst *Hermann Fol* in
+Genf[@fol1873jzmn] und *A.Schneider*[@sn1883]. Während *Fol* und
+*Schneider* die Polarstrahlung von vorn herein gut abbilden und
+beschreiben, ist *Kowalevsky*’s Spindelfigur nur unvollständig und deutet
+er sie als auf einer Theilung des Kernkörperchens beruhend. Dass sich die
+Nucleolen an der Bildung der Spindelfäden betheiligen, nimmt neuerdings
+wieder *Carnoy*[@cjb1884lac] an. Erst *Bütschli*[@bo1875zwz1; @bo1875zwz2]
+gab uns genauere Daten. Ungeachtet zahlreicher Untersuchungen, die auf
+diesen Punkt namentlich von *Flemming*, *Strasburger* und *Mayzel*
+gerichtet wurden, sind wir jedoch über die Herkunft und Bedeutung der
+Spindelfäden und Polstrahlungen noch im Unklaren. Auch über das
+Endschicksal beider Bildungen wissen wir nichts Bestimmtes. Unstreitig ist
+aber die „Kernspindel“ eine der wichtigsten Erscheinungen bei der
+Karyokinese und ich glaube nicht fehl zu greifen,
+wenn ich mir wesentliche weitere Fortschritte in der Erkenntniss des Wesens
+der mitotischen Theilung hauptsächlich von der Aufhellung der Entstehung
+und des Verbleibs der Spindelfäden verspreche.
+
+Wenn wir von den eben erwähnten vereinzelt dastehenden Behauptungen, dass
+die Nucleoli sich an der Bildung der Spindelfigur betheiligen, absehen, so
+sind zur Zeit drei Ansichten über deren Herkunft vertreten: 1) Die
+achromatischen Spindelfäden entstehen der Hauptsache nach aus dem
+**Zellprotoplasma** (*Strasburger*, *Guignard* u.&nbsp;A., namentlich die
+Botaniker). 2) Sie entstehen aus der achromatischen Fadensubstanz des Kerns
+(*Bütschli*, *Flemming*, *Pfitzner*, *Carnoy*, *Rabl*, *O.&nbsp;Zacharias*
+und *Schewiakoff*). 3) Sie entstehen sowohl aus achromatischen
+Kernbestandtheilen, wie auch aus dem Zellprotoplasma (*E.&nbsp;van 
+Beneden*, *Heuser*, *Platner* u.&nbsp;A.). Bezüglich der Angaben
+*Platner*’s sei bemerkt, dass derselbe bei Arion[@pl1886ama] nur die
+achromatische Kernsubstanz betheiligt sein lässt. In einer zweiten
+Abhandlung[@pl1886mah] dagegen leitet er den polaren Theil der Fäden aus
+dem Zellprotoplasma, den äquatorialen aus der Kernsubstanz ab. Er schließt
+sich hiermit an *E.&nbsp;van Beneden* an, welcher angibt[@vbe1883;
+@vben1887bel], dass bei der ersten Anlage die beiden Spindelhälften im
+Aequator getrennt wären, so dass wir also, statt **einer** Faden-Spindel,
+**zwei** Faden-**Kegel** hätten. Dieser Darstellung stimmt für Ascaris
+megalocephala auch *Boveri*[@bt1887ber] zu, während *Flemming*[@fw1887ama]
+sich dahin äußert, dass dies Verhalten keineswegs Anspruch auf allgemeine
+Gültigkeit habe.
+
 
 
 # Einzelnachweise und Fußnoten
