@@ -933,11 +933,13 @@ Wenn wir von den eben erwähnten vereinzelt dastehenden Behauptungen, dass
 die Nucleoli sich an der Bildung der Spindelfigur betheiligen, absehen, so
 sind zur Zeit drei Ansichten über deren Herkunft vertreten: 1) Die
 achromatischen Spindelfäden entstehen der Hauptsache nach aus dem
-**Zellprotoplasma** (*Strasburger*, *Guignard* u.&nbsp;A., namentlich die
+**Zellprotoplasma** (&thinsp;*Strasburger*,
+*Guignard* u.&nbsp;A., namentlich die
 Botaniker). 2) Sie entstehen aus der achromatischen Fadensubstanz des Kerns
-(*Bütschli*, *Flemming*, *Pfitzner*, *Carnoy*, *Rabl*, *O.&nbsp;Zacharias*
+(&thinsp;*Bütschli*, *Flemming*,
+*Pfitzner*, *Carnoy*, *Rabl*, *O.&nbsp;Zacharias*
 und *Schewiakoff*). 3) Sie entstehen sowohl aus achromatischen
-Kernbestandtheilen, wie auch aus dem Zellprotoplasma (*E.&nbsp;van 
+Kernbestandtheilen, wie auch aus dem Zellprotoplasma (&thinsp;*E.&nbsp;van 
 Beneden*, *Heuser*, *Platner* u.&nbsp;A.). Bezüglich der Angaben
 *Platner*’s sei bemerkt, dass derselbe bei Arion[@pl1886ama] nur die
 achromatische Kernsubstanz betheiligt sein lässt. In einer zweiten
@@ -951,6 +953,67 @@ megalocephala auch *Boveri*[@bt1887ber] zu, während *Flemming*[@fw1887ama]
 sich dahin äußert, dass dies Verhalten keineswegs Anspruch auf allgemeine
 Gültigkeit habe.
 
+Eigentümlich und widerspruchsvoll lautet die Angabe *Boveri*’s[@bt1887ber],
+dass die Spindelfäden bei der Bildung der sogenannten „Richtungskörper“ —
+s.&nbsp;darüber weiter unten — aus den achromatischen Kernbestandtheilen, bei
+der Furchuug der Eizelle dagegen aus dem Zellprotoplasma hervorgehen sollen
+(Ascaris megalocephala).
+
+*Strasburger*[@sb1888] weist bei Spirogyra polytaeniata nach, dass sich der bei
+weitem größte Theil der Spindelfigur aus dem Zellprotoplasma bildet, und zwar
+treten, entsprechend der Ansicht *E.&nbsp;van Beneden*’s, die beiden Hälften
+der Figur anfangs getrennt auf, um sich erst später zu einem Theil im
+Bereiche der Aequatorialplatte zu vereinigen. Der andere Theil der
+Spindelfäden heftet sich an die Chromatinschleifen der Aequatorialplatte an.
+Wenn die Kernmembran während der Bildung der
+Spindelfigur noch erhalten bleibt, so durchbrechen die Spindelfäden die
+Membran, welche somit siebartig durchlöchert wird. So erkläre sich, meint
+*Strasburger*, die Angabe *Flemming*’s, dass die Spindelfäden innerhalb einer
+unversehrt erscheinenden Kernmembran auftreten können. Innerhalb der
+Kernmembran finden sich aber außer den Chromatinschleifen noch einige sehr
+zarte Fäden, welche die Chromatinschleifen mit der Kernmembran verbinden.
+Woher diese feinen Fäden stammen, ob sie ursprünglich dem Kern angehören,
+oder aus der Umgebung eingedrungen sind, was aus ihnen schließlich wird, ob
+sie sich mit den chromatischen Schleifen, oder mit den Spindelfäden
+vereinigen, muss *Strasburger* vor der Hand unentschieden lassen. Er neigt
+dazu, sie von der Umgebung des Kerns — d.&nbsp;h. also vom Cytoplasma —
+abzuleiten und sie später mit den Spindelfäden sich vereinigen zu lassen.
+Wie bei **Spirogyra**, so verhalten sich, hinsichtlich ihres Verlaufes, auch
+die Spindelfäden bei **Ascaris megalocephala** (&thinsp;*E.&nbsp;van Beneden*
+und *Boveri*). Die Fäden erreichen später zum größten Theile von beiden
+Seiten her die Aequatorialplatte; aber nur ein kleiner Theil derselben
+verbindet sich direkt, so dass nur einige wenige Fäden von Pol zu Pol
+verlaufen. *Boveri* findet dasselbe in den Hodenzellen des Krebses. —
+*Carnoy*[@cjb1884lac] lässt dagegen bei sämmtlichen von ihm untersuchten
+Arthropoden die Fäden alle von Pol zu Pol ziehen, ebenso *Flemming* für die
+Hodenzellen von Salamandra, wenigstens mit großer Wahrscheinlichkeit. So nun
+soll es sich auch nach *Went*[@wn1887bbg] und *Strasburger*[@sb1888] für die
+höheren Pflanzen verhalten, während *Berthold* (Protoplasmamechanik) wiederum
+nur einen Theil der Fäden (bei Pflanzen) von Pol zu Pol sich erstrecken lässt.
+
+*Strasburger* ist jedoch in seiner Ansicht über die Bildung der Spindelfigur
+nicht exclusiv; bei Besprechung der Arbeit von Schewiakoff[@sf1887mj] gibt
+er die Möglichkeit zu, dass bei den Protozoen die Spindelfasern der
+Kernsubstanz entstammten; es hänge dies mit der dauernden Abgrenzung des
+Kerns gegen das Cytoplasma zusammen.
+
+Bei Spirogyra bleiben diejenigen Spindelfäden, welche in der Aequatorial-Ebene
+mit einander sich vereinigt hatten, während des Auseinanderrückens der
+Tochterkerne noch eine Zeitlang als „Verbindungsfäden“ erhalten. (Von den
+„filaments reunissantes“ *E.&nbsp;van Beneden’s, die ja von den Spindelfäden
+verschieden sein sollen, spricht *Strasburger* nicht). Schließlich lässt
+Letzterer alle
+Spindelfäden in das Zellprotoplasma übergehen; aber dieser Theil des
+Protoplasmas werde alsbald wieder zur Ernährung, bezw.&nbsp;zum Wachsthum
+der Tochterkerne aufgebraucht.
+
+Als sicher bezüglich des Verbleibs der Fäden sieht auch *Flemming*[@fw1887ama]
+an, dass ein großer Theil derselben in das Protoplasma der Tochterzellen
+übergehe. Daraus folge aber noch nicht, dass die Fäden auch aus dem# Protoplasma hätten abstammen müssen. Man könne vielmehr, falls die Fäden vom 
+Mutterkern abstammten und später in die Zellsubstanz übergingen, darin ein
+wichtiges Moment für den Vorgang der Vererbung sehen: „Es könnten damit dem
+Zellkörper gewisse Prädispositionen übertragen werden.“ Ausdrücklich verwahrt sich Flem­ming bei dieser Gelegenheit dagegen, dass er jemals das Chro­matin allein als die wesentliche Kernsubstanz angesehen habe.
+Wichtig sind auch die Beziehungen der Spindelfignr zur Bil­dung der Zellmembran. Im Aeqnator kommt es, namentlich bei Pflanzenzellen, bei der beginnenden Zelltheilung zur Bildung kleiner knötchenförmiger Verdickungen der Spindelfäden. Die Summe dieser Knötchen (,,Dermatosomen" — Wies ner (207) (in anderer Bedeutung) und Strasburger) bildet Strasburger's ,,Zellplatte"; sie be­zeichnen die Theilnngsebene des Kerns und der Zelle und gehen später in die Zellwand (Scheidewand) der Pflanzenzellen, welche im Wesentlichen aus einer Verschmelzung dieser sich allmählich vergrössernden Dermatosomen entsteht, über. Während der Mem­branbildung entwickeln sich, wie Strasburger in seiner neuesten Mittheilung (191) mit Entschiedenheit vertritt, auch noch zahlreiche weitere Verbindungsfäden. Da bei der Theilung thierischer Zellen Scheidewandbildungen nicht vorkommen, so lassen sich knötchen­förmige Verdickungen der Spindelfäden hier nicht in der Weise wie bei Pflanzenzellen erwarten. Doch sprechen Mayzel bei den Theilungen der Endothelzellen der vorderen Augenkammer und E. van Bcncden bei den Theilungen der vorhin erwähnten „Dicye-miden", einer niederen Thierform, von ähnlichen Erscheinungen; auch Flemming(58), S. 246, berichtet, dass bei beginnender Ein­schnürung der Zelle au manchen Exemplaren im Aequator deut­lichere Fäden auftreten; er vermochte jedoch uicht zu entscheiden, ob diese Fäden mit den ursprünglichen Spindelfädeu zusammen­hingen. Vgl. hierüber besonders Camoy (47) u. w. u. bei Be­sprechung der ltichtnngskörper, S. 46.
 
 
 # Einzelnachweise und Fußnoten
