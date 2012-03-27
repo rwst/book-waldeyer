@@ -956,7 +956,7 @@ Gültigkeit habe.
 Eigentümlich und widerspruchsvoll lautet die Angabe *Boveri*’s[@bt1887ber],
 dass die Spindelfäden bei der Bildung der sogenannten „Richtungskörper“ —
 s.&nbsp;darüber weiter unten — aus den achromatischen Kernbestandtheilen, bei
-der Furchuug der Eizelle dagegen aus dem Zellprotoplasma hervorgehen sollen
+der Furchung der Eizelle dagegen aus dem Zellprotoplasma hervorgehen sollen
 (Ascaris megalocephala).
 
 *Strasburger*[@sb1888] weist bei Spirogyra polytaeniata nach, dass sich der bei
@@ -1000,7 +1000,7 @@ Kerns gegen das Cytoplasma zusammen.
 Bei Spirogyra bleiben diejenigen Spindelfäden, welche in der Aequatorial-Ebene
 mit einander sich vereinigt hatten, während des Auseinanderrückens der
 Tochterkerne noch eine Zeitlang als „Verbindungsfäden“ erhalten. (Von den
-„filaments reunissantes“ *E.&nbsp;van Beneden’s, die ja von den Spindelfäden
+„filaments réunissantes“ *E.&nbsp;van Beneden*’s, die ja von den Spindelfäden
 verschieden sein sollen, spricht *Strasburger* nicht). Schließlich lässt
 Letzterer alle
 Spindelfäden in das Zellprotoplasma übergehen; aber dieser Theil des
@@ -1009,11 +1009,203 @@ der Tochterkerne aufgebraucht.
 
 Als sicher bezüglich des Verbleibs der Fäden sieht auch *Flemming*[@fw1887ama]
 an, dass ein großer Theil derselben in das Protoplasma der Tochterzellen
-übergehe. Daraus folge aber noch nicht, dass die Fäden auch aus dem# Protoplasma hätten abstammen müssen. Man könne vielmehr, falls die Fäden vom 
-Mutterkern abstammten und später in die Zellsubstanz übergingen, darin ein
-wichtiges Moment für den Vorgang der Vererbung sehen: „Es könnten damit dem
-Zellkörper gewisse Prädispositionen übertragen werden.“ Ausdrücklich verwahrt sich Flem­ming bei dieser Gelegenheit dagegen, dass er jemals das Chro­matin allein als die wesentliche Kernsubstanz angesehen habe.
-Wichtig sind auch die Beziehungen der Spindelfignr zur Bil­dung der Zellmembran. Im Aeqnator kommt es, namentlich bei Pflanzenzellen, bei der beginnenden Zelltheilung zur Bildung kleiner knötchenförmiger Verdickungen der Spindelfäden. Die Summe dieser Knötchen (,,Dermatosomen" — Wies ner (207) (in anderer Bedeutung) und Strasburger) bildet Strasburger's ,,Zellplatte"; sie be­zeichnen die Theilnngsebene des Kerns und der Zelle und gehen später in die Zellwand (Scheidewand) der Pflanzenzellen, welche im Wesentlichen aus einer Verschmelzung dieser sich allmählich vergrössernden Dermatosomen entsteht, über. Während der Mem­branbildung entwickeln sich, wie Strasburger in seiner neuesten Mittheilung (191) mit Entschiedenheit vertritt, auch noch zahlreiche weitere Verbindungsfäden. Da bei der Theilung thierischer Zellen Scheidewandbildungen nicht vorkommen, so lassen sich knötchen­förmige Verdickungen der Spindelfäden hier nicht in der Weise wie bei Pflanzenzellen erwarten. Doch sprechen Mayzel bei den Theilungen der Endothelzellen der vorderen Augenkammer und E. van Bcncden bei den Theilungen der vorhin erwähnten „Dicye-miden", einer niederen Thierform, von ähnlichen Erscheinungen; auch Flemming(58), S. 246, berichtet, dass bei beginnender Ein­schnürung der Zelle au manchen Exemplaren im Aequator deut­lichere Fäden auftreten; er vermochte jedoch uicht zu entscheiden, ob diese Fäden mit den ursprünglichen Spindelfädeu zusammen­hingen. Vgl. hierüber besonders Camoy (47) u. w. u. bei Be­sprechung der ltichtnngskörper, S. 46.
+übergehe. Daraus folge aber noch nicht, dass die Fäden auch aus dem
+Protoplasma hätten abstammen müssen. Man könne vielmehr, falls die Fäden vom 
+Mutter**kern** abstammten und später in die Zellsubstanz übergingen, **darin ein
+wichtiges Moment für den Vorgang der Vererbung sehen**: „Es könnten damit dem
+Zellkörper gewisse Prädispositionen übertragen werden.“ Ausdrücklich verwahrt
+sich *Flemming* bei dieser Gelegenheit dagegen, dass er jemals das Chromatin
+allein als die wesentliche Kernsubstanz angesehen habe.
+
+Wichtig sind auch die Beziehungen der Spindelfigur zur Bildung der
+Zellmembran. Im Aequator kommt es, namentlich bei Pflanzenzellen, bei der
+beginnenden Zelltheilung zur Bildung kleiner knötchenförmiger Verdickungen
+der Spindelfäden. Die Summe dieser Knötchen („Dermatosomen“ —
+*Wiesner*[@ws1886sbw] (in anderer Bedeutung) und *Strasburger*) bildet
+*Strasburger*’s „Zellplatte“; sie bezeichnen die Theilungsebene des Kerns und
+der Zelle und gehen später in die Zellwand (Scheidewand) der Pflanzenzellen,
+welche im Wesentlichen aus einer Verschmelzung dieser sich allmählich
+vergrößernden Dermatosomen entsteht, über. Während der Membranbildung
+entwickeln sich, wie *Strasburger* in seiner neuesten Mittheilung[@sb1888] mit
+Entschiedenheit vertritt, auch noch zahlreiche weitere Verbindungsfäden. Da
+bei der Theilung thierischer Zellen Scheidewandbildungen nicht vorkommen, so
+lassen sich knötchenförmige Verdickungen der Spindelfäden hier nicht in der
+Weise wie bei Pflanzenzellen erwarten. Doch sprechen *Mayzel* bei den
+Theilungen der Endothelzellen der vorderen Augenkammer und *E.&nbsp;van
+Beneden* bei den Theilungen der vorhin erwähnten „Dicyemiden“, einer niederen
+Thierform, von ähnlichen Erscheinungen; auch *Flemming*([@fw1882], S.&nbsp;246),
+berichtet, dass bei beginnender Einschnürung der Zelle an manchen Exemplaren
+im Aequator deutlichere Fäden auftreten; er vermochte jedoch nicht zu
+entscheiden, ob diese Fäden mit den ursprünglichen Spindelfäden
+zusammen­hingen. Vgl.&nbsp;hierüber besonders *Carnoy*[@cjb1884lac]
+u.&nbsp;w.&nbsp;u. bei Besprechung der Richtungskörper, S.&nbsp;46.
+
+Bei *Rabl*[@ra1885mj] lesen wir (S.&nbsp;282), dass an den Polen der
+Tochtersterne eine helle, stark lichtbrechende Masse erscheine, die wohl
+„unzweifelhaft“ aus dem Reste der Spindelfasern hervorgegangen sei. Sehr
+beachtenswerth sind die Angaben von *Platner*[@pl1885ma] und von *v.&nbsp;La
+Valette St. George*[@lv1886ama], dass bei der Bildung der Samenfäden während
+der letzten der hier vorkommenden mitotischen Theilungen die Spindelfasern in
+den sogenannten „Nebenkern“ übergingen. Man vergleiche hierüber auch die sehr
+genauen und eingehenden Untersuchungen von *Prenant*[@pr1886lc].
+
+Mit den Polarstrahlungen haben sich nur wenige Autoren eingehend beschäftigt
+und doch glaube ich mit *Fol*[@fol1884rm], dass dieselben eine große Bedeutung
+beanspruchen dürfen. *Auerbach*[@al1874], einer der Ersten, welche diese
+Strahlungen beobachteten, hielt sie für den Ausdruck einer Auflösung des Kerns
+und einer Verbreitung der aufgelösten Kernmasse im Zellprotoplasma; er nannte
+sie deshalb „karyolytische Figuren“. Einer Vermischung von Zellsaft und
+Kernsaft bei der Karyokinese redet auch, wie wir sahen, noch heute
+*Strasburger* das Wort; doch dürfen wir wohl die strahligen Polfiguren nicht
+darauf beziehen. Die ausführlichsten Angaben liefern uns jüngst über diesen
+wichtigen Punkt *E.&nbsp;van Beneden* und *Platner*. Der Erstere hat überhaupt
+den Vorgängen im Zellprotoplasma während der mitotischen Theilung vom Beginne
+seiner Untersuchungen an die größte Aufmerksamkeit geschenkt. So zeigte er,
+dass das Protoplasma der Zellen, deren Kerne sich zu karyokinetischer Theilung
+anschicken (wie z.&nbsp;B. die Zellen der Keimblätter des Kaninchens),
+stärkeren Glanz und ein stärkeres Färbungsvermögen gewinnen. Dass dies auf der
+Ausbildung einer stärker lichtbrechenden Rindenschicht beruhe, wie *Flemming*
+gemeint hat, möchte *E.&nbsp;van Beneden* nicht annehmen. Ist die Theilung
+vorüber, so verlieren sich die genannten Eigenthümlichkeiten wieder.
+
+Ferner entdeckte *E.&nbsp;van Beneden*[@vbe1883], wie wir bereits erwähnten,
+die „Polkörperchen“ und die von ihm sogen. „sphères attractives“ (Attractionssphären *Strasburger*), über welche nunmehr das Nähere beigebracht
+werden soll.
+
+Nach *E.&nbsp;van Beneden*’s und *Neyt*’s neuen Untersuchungen[@vben1887bel]
+erscheinen die „sphères attractives“ bei Ascaris megalocephala bereits sehr
+früh, schon zur Zeit, wann die beiden sogen. pronuclei, s.&nbsp;darüber weiter
+unten im II.&nbsp;Theile, noch eine reticulirte Structur haben
+und weit von einander entfernt liegen. Sie stellen zwei anfangs nahe bei
+einander gelagerte, sphärisch gestaltete und sich dunkler tingirende Stellen
+im Protoplasma dar. Im Centrum derselben zeigt sich das bereits erwähnte, von
+einem lichteren Hofe umgebene Polkörperchen (oder „Centralkörperchen“, wie
+*E.&nbsp;van Beneden* es nunmehr zu nennen vorschlägt). Später rücken sie in
+eine polare Stellung auseinander und von ihnen gehen die verschiedenen
+**Strahlungen** aus, die man während der Theilungsvorgänge im Eiprotoplasma und 
+an der Stelle des Kerns beobachtet. Die dunkle Partie der „Sphère attractive“
+heißt die „Rindenzone“, der helle Hof um das Centralkörperchen die „Markzone“.
+	
+![Fig. 13. Ei von Ascaris megalocephala im Stadium der sogen.
+Aequatorialplatte nach *E.&nbsp;van Beneden*, 4&nbsp;Chromat. Schleifen im
+Aequator der Spindelfigur; Polkörper, Sphères attractives, Sternstrahlung
+(Aster), Polarkreise. Wendekreise, Aequatorialring, (Halbschematisch).](images/fig13.jpg)
+
+Die **Strahlungen** zeigen sich 1) als die bekannte **Spindelfigur**, deren
+polare Spitzen sich an beide Centralkörperchen anheften, 2) als der als **„cône
+antipode“** (s.&nbsp;Fig.&nbsp;13), der in umgekehrter Richtung — mit der Basis
+zur Peripherie gewendet — zieht und 3) als die **Hauptstrahlung im
+Protoplasma**, die **Sternfigur (Aster)**. Alle diese drei Strahlungen kommen
+im Centralkörperchen zusammen; der „cône antipode“ ist ein Theil der
+Hauptsternfigur, durch stärkere Strahlen von ihr abgesetzt. Da, wo der „cône
+antipode“ die Eioberfläche trifft, markirt sich ein Kreis, der „Polarkreis“;
+zuweilen ist dieser als seichte Furche erkennbar. Eine ähnliche
+Furche begrenzt, jederseits zum Aequator hin die Asterfiguren; *van Beneden*
+nennt sie den „Wendekreis“ (cercle subéquatorial). Zwischen beiden
+Wendekreisen bleibt eine äquatoriale Zone frei von Strahlen; dieselbe
+(hourrelet équatorial) springt ein wenig vor. In dieser Zone liegt der
+äquatoriale Bezirk der Spindelfigur und die chromatischen Schleifen während
+des Stadiums der Aequatorialplatte und der Metakinese. Ich habe eine Figur
+nach *E.&nbsp;van Beneden* wiedergegeben (Fig.&nbsp;13), welche die hier
+beschriebenen Dinge zu klarer Anschauung bringt.
+
+Wichtig ist die Angabe *van Beneden*’s[@vben1887bel], dass die sphères 
+attractives bleibende Bildungen seien, welche bei den successiven Theilungen
+der sich furchenden Eizelle sich mit theilen und zwar zuerst, selbst vor der
+Theilung des Kerns. Die Theilung der sphère attractive beginnt mit dem
+Centralkörperchen, dessen beide Theilstücke ein wenig auseinanderrücken; es
+folgt dann die Theilung der sphère nach, so dass die beiden Tochtersphären
+naturgemäß zunächst nahe bei einander liegen. Denkt man sich — vgl.
+Fig.&nbsp;13 — die erste Theilung der Eizelle in deren Aequator vollzogen, so
+würden dann, bei der nächstfolgenden Theilung, in jeder der beiden ersten zur
+Theilung sich an­schickenden Blastomeren (Furchungskugeln) die
+zusammengehörenden beiden Tochtersphären dicht nebeneinander in der Gegend
+des Polarkreises gelegen sein. Zieht man nun die Zellenaxe jeder
+Furchungskugel von der Mitte des Polarkreises zwischen den beiden neuen
+Centralkörperchen hindurch zum entgegengesetzten Ende der Zelle, so hat diese
+Axe offenbar zwei ungleiche Pole, denn an dem einen Pole liegt der eine der
+Polarkreise und beide Tochtersphären nebst beiden Centralkörperchen, während
+an dem andern Ende dieser Axe nichts dem entsprechendes zu finden ist. Jede
+Furchungskugel ist also um diese Zeit ihrer Existenz einaxig, aber von
+bilateral symmetrischer Structur, denn man kann sie ja mittelst einer in der
+genannten Axe zwischen beiden Sphären durchgehenden Ebene in zwei
+gleichgebaute Hälften zerlegen. Dieselbe bilaterale Symmetrie muss aber jede
+weitere Furchungszelle aufweisen und schließt *E.&nbsp;van Beneden* hieraus
+auf einen bilateral symmetrischen Bau aller Zellen und möchte darin die
+Grundlage der bilateralen Symmetrie der Organismen erblicken.
+
+In Folge des genannten Verhaltens der Sphären bei der Theilung muss diesen
+eine wichtige Bedeutung zugeschrieben werden.
+(Nous sommes donc autorisés, sagt *van Beneden*[@vben1887bel], à penser que
+la sphère attractive avec son corpuscule central constitue un organe
+permanent, non seulement pour les premières blastomères, mais pour toute
+cellule; qu’elle constitue un organe de la cellule au même titre que le noyau
+lui-même; que tout corpuscule central dérive d’un corpuscule antérieur; que
+toute sphère procède d’une sphère antérieure, et que la division de la sphère
+precède celle du noyau cellulaire.) Man könne daher, meint *E.&nbsp;van
+Beneden*, die Theilungsursache **nicht** in den **Kernen** suchen, sondern es
+müsse diese vielmehr in den Centralkörperchen und in den Sphären gelegen sein.
+
+*Platner*[@pl1886mah] hat bei einem anderen Objecte, bei den Lepidopteren,
+sehr eingehend die Strahlenfiguren im Zellprotoplasma beschrieben. Auch er
+schildert den Zusammenhang der Astern (Cytastern), welchen offenbar der cône
+antipode *van Beneden*’s entspricht, mit dem Centralkörperchen und mit der
+Spindelfigur; er lässt ferner aber von beiden Astern große bogenförmige
+Strahlungszüge das ganze Protoplasma durchsetzen und einander im Aequator
+begegnen; eine strahlenfreie Zone finde ich bei ihm nicht erwähnt.
+
+Ich gehe jetzt auf einen Punkt ein, der bis auf die neuere Zeit kaum beachtet
+worden ist, ich meine auf das Verhalten des Kernsaftes während der Theilung.
+Wir haben sehon erwähnt, dass, wenn man von den Protozoen absieht, zur Zeit
+der Muttersternbildung jede Spur einer Kernmembran, man mag diese nun
+auffassen, wie man will, schwindet. Es berühren sich dann unmittelbar Kernsaft
+und Zellprotoplasma (Zellsubstanz), und der Gedanke liegt nahe, dass eine
+Mischung beider stattfinde, und dass darin die Bedeutung des Schwindens der
+äußeren Kernhülle zu suchen sei. In der That betont namentlich *Strasburger*,
+wie wir mehrfach hervorhoben, das Eindringen von Bestandteilen des Zellleibes
+in die Kernmasse und leitet von diesen eingedrungenen Bestandteilen die
+Spindelfigur ab. Auch *Carnoy*[@cjb1884lac] und Schewiakoff[@sf1887mj] nehmen
+das Eindringen von Cytoplasma in den Bereich des Kerns und *Carnoy* umgekehrt
+von Karyoplasma in den Bereich der Zelle an. Aus den Abbildungen und
+Beschreibungen fast aller Autoren ist ferner ersichtlich, dass sie die
+Totalform des Kerns mit dem Schwinden der Membran ebenfalls vergehen lassen
+und Vielen mag die Meinung vorgeschwebt haben, dass dann der
+Kern nur durch die Spindelfigur und die chromatische Figur repräsentirt sei;
+wenigstens sieht man an den in der üblichen Weise hergestellten Präparaten
+nichts von dem Kernsaft und den früheren Umrissen des Kerns, und es wurde dem
+Kernsafte, der doch auch seiner Masse nach einen so wesentlichen Bestandtheil
+bildet, im Ganzen wenig Beachtung geschenkt.
+
+*E.&nbsp;Sattler*[@sa1882ama] und mir, die wir im Jahre 1882 die
+Froschhornhaut unter Anwendung des Lapisstiftes auf Kerntheilungen
+untersuchten, fiel es auf, dass wir dabei stets nur Kerntheilungsfiguren nach
+dem früheren *Remak*’schen Schema erhielten, niemals karyokinetische Figuren,
+während wir letztere jedoch an anders behandelten Froschhornhäuten leicht
+darzustellen vermochten. Wir versuchten vergebens in den Theilungsbildern der
+Silberkerne auch die chromatischen Figuren zu bekommen; es gelang uns nicht.
+Schon damals äusserten wir uns a.&nbsp;a.&nbsp;O. S.&nbsp;675 folgendermaaßen:
+„Sucht man die Differenzen der Bilder wie sie die Silberbehandlung und die
+Kernfärbungsverfahren ergeben, zu erklären, so scheint nur die Annahme
+zulässig, dass das andere Aussehen der Silberkerne auf Rechnung der
+achromatischen Substanz *Flemming*’s
+—  heute möchte ich vorziehen präciser zu sagen, des „Kernsaftes“
+—  zu setzen sei. Diese lässt sich bei den Kerntinctionen nicht deutlich
+machen, verschwindet wenigstens gegenüber den auffallenden Zeichnungen, wie
+sie die chromatischen Bestandtheile des Kerns während der Theilung zeigen. Das
+Silber zeigt stets das Bild des Gesammtkerns mit seiner chromatischen und
+achromatischen Substanz und man ersieht aus den geschilderten Bildern, dass
+die achromatische Substanz auch amöboide Bewegungen während der Theilung
+zeigt, im übrigen aber bei der Theilung sich in einfacherer Weise, nach Art
+der früher gegebenen Theilungsschemata gerirt. Man muss daher aus den
+Ergebnissen der Tinctions- und der Silberbilder den Schluss ziehen, dass die
+mehr flüssige achromatische Kernsubstanz stets um die Kernfäden erhalten
+bleibt, sich nicht etwa im Zellprotoplasma auflöst, sondern sich mit dem
+chromatischen Kerngerüste theilt; während dabei aber das Chromatin des Kerns
+successive die bekannten auffallenden Gestalt- und Lageveränderungen
+durchmacht, theilt das Achromatin sich in einfacher Weise, indem es immer eine
+Art Hülle um die Chromatinfiguren bildet.“
+	
+	
 
 
 # Einzelnachweise und Fußnoten
