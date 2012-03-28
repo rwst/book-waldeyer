@@ -1156,7 +1156,7 @@ begegnen; eine strahlenfreie Zone finde ich bei ihm nicht erwähnt.
 
 Ich gehe jetzt auf einen Punkt ein, der bis auf die neuere Zeit kaum beachtet
 worden ist, ich meine auf das Verhalten des Kernsaftes während der Theilung.
-Wir haben sehon erwähnt, dass, wenn man von den Protozoen absieht, zur Zeit
+Wir haben schon erwähnt, dass, wenn man von den Protozoen absieht, zur Zeit
 der Muttersternbildung jede Spur einer Kernmembran, man mag diese nun
 auffassen, wie man will, schwindet. Es berühren sich dann unmittelbar Kernsaft
 und Zellprotoplasma (Zellsubstanz), und der Gedanke liegt nahe, dass eine
@@ -1164,7 +1164,7 @@ Mischung beider stattfinde, und dass darin die Bedeutung des Schwindens der
 äußeren Kernhülle zu suchen sei. In der That betont namentlich *Strasburger*,
 wie wir mehrfach hervorhoben, das Eindringen von Bestandteilen des Zellleibes
 in die Kernmasse und leitet von diesen eingedrungenen Bestandteilen die
-Spindelfigur ab. Auch *Carnoy*[@cjb1884lac] und Schewiakoff[@sf1887mj] nehmen
+Spindelfigur ab. Auch *Carnoy*[@cjb1884lac] und *Schewiakoff*[@sf1887mj] nehmen
 das Eindringen von Cytoplasma in den Bereich des Kerns und *Carnoy* umgekehrt
 von Karyoplasma in den Bereich der Zelle an. Aus den Abbildungen und
 Beschreibungen fast aller Autoren ist ferner ersichtlich, dass sie die
@@ -1204,9 +1204,164 @@ chromatischen Kerngerüste theilt; während dabei aber das Chromatin des Kerns
 successive die bekannten auffallenden Gestalt- und Lageveränderungen
 durchmacht, theilt das Achromatin sich in einfacher Weise, indem es immer eine
 Art Hülle um die Chromatinfiguren bildet.“
-	
-	
 
+Neuerdings hat nun *Pfitzner*[@pf1886mj2] in einer sehr bemerkenswerthen
+Arbeit den factischen Beweis dafür erbracht, dass es sich in der That so
+verhalte. Es gelang ihm gleichzeitig die chromatischen Fadenfiguren und die
+übrigen Bestandteile des Kerns — er fasst sie, abgesehen von der Spindel, jetzt
+unter dem Namen „Kerngrundsubstanz“ zusammen — während der Theilung sichtbar
+zu machen und er sah nun pari passu eine einfache Theilung der Grundsubstanz,
+in Form einer Durchschnürung, neben den kinetischen Vorgängen an der
+Fadenfigur ablaufen. Er kommt demnach zu folgenden Schlüssen:
+
+1.  Der Kern ist zu jeder Zeit ein vollständig selbständig innerhalb der Zelle
+gelegenes abgeschlossenes Gebilde.
+
+2.  Die Karyokinese ist der Ausdruck eines innerhalb des Zellkernes
+ablaufenden Vorganges, bei welchem keine morphologischen Bestandtheile des
+Zellleibes activ eingreifen.
+
+Uebrigens beobachtete *Pfitzner*, dass die Configuration des Kernsaftes
+(Kerngrundsubstanz) sich stets eng an die chromatische Figur anschloss, so
+dass er zu der Annahme gelangt, die Bewegungen des Chromatins seien das
+Primäre.
+
+Mit dem hier Berichteten stimmen die Angaben von *E.&nbsp;Zacharias*[@z1881bz],
+dass stets die Abgrenzung des Kerns gegen das Zellprotoplasma deutlich sei.
+
+Auch *Strasburger*[@sb1876;@sb1884ama] hatte sich dahin geäußert, dass
+zwischen den auseinanderweichenden Hälften der chromatischen Figur stets
+Substanz sei und bleibe, dass sie sich mit theile und zum Theil zu dem einen,
+zum Theil zu dem anderen Tochterkerne trete; außerdem aber nahm er dabei,
+abweichend von *Pfitzner*, ein Hineintreten von Bestandteilen des
+Zellprotoplasmas zwischen die Fadenbestandtheile des Kerns an. Einer solchen
+Vermischung der Interfilarmasse des Zellleibes mit dem Kernsafte während der
+Mitose redet neuerdings wieder *Tangl* in einer aus *Flemming*’s Laboratorium
+hervorgegangenen Arbeit[@ta1887ama] das Wort, indem er sich speciell gegen die
+Beweiskräftigkeit der nach dem Verfahren von *Pfitzner* erhaltenen Präparate
+wendet. In seiner neuesten Mittheilung[@sb1888] spricht sich *Strasburger* in
+ähnlicher Weise aus und bekräftigt seine eben mitgetheilten früheren
+Aeußerungen, so dass wieder gewichtige Zweifel gegen die Richtigkeit der von
+*Pfitzner*, *Sattler* und mir vertretenen Ansicht laut geworden sind. Ich
+möchte indessen die Sache nicht fallen lassen, denn für diese ganze Frage sehr
+wichtig ist zweifellos der wiederholt gemachte
+Befund von ächt mitotischen Kerntheilungen bei Protozoen, wobei nach der
+übereinstimmenden Angabe aller Beobachter (&thinsp;*Bütschli*[@bo1876sen],
+*R.&nbsp;Hertwig*[@hwr1877jzn], *Pfitzner*[@pf1886mj1],
+*Gruber*[@gr1881zwz;@gr1882zwz;@gr1883zwz;@gr1884zwz;@gr1885zwz], insbesondere
+*Schewiakoff*[@sf1887mj] die Kernmembran während der ganzen Dauer des Vorganges
+erhalten bleibt, und erst gegen den Schluss desselben sich durchschnürt,
+während alles übrige im Wesentlichen in derselben Weise, wie bei den gewöhnlich
+studirten Objecten sich vollzieht. *Strasburger*[@sb1888] meint freilich
+hierzu, dass dies nur dann möglich sein dürfte, wenn der Kerntheilung, wie bei
+den genannten Protozoen, keine Zelltheilung folgt. Doch passt diese Bemerkung
+nicht zu *Schewiakoff*’s Object, bei welchem der Process ganz typisch verläuft
+und eine reguläre Zelltheilung eintritt. *Schewiakoff* kommt auch zu dem
+Schlusse, dass das Nichtsichtbarwerden der Kernmembran nicht zur Annahme
+berechtige, dass dieselbe zu einer gewissen Zeit während der Karyokinese
+schwinde; er ist sogar geneigt mit *Pfitzner* das Gegentheil zn vermuthen,
+will es jedoch nicht als feste Behauptung hinstellen. Ich, für meinen Theil,
+lege auf das Bestehenbleiben einer Kern**membran** kein Gewicht, wohl aber auf
+die Erhaltung des **Kernumrisses**, worunter ich verstehe, dass auch die mehr
+flüssigen Bestandteile des Kerns ihre Selbständigkeit gegenüber dem Zellleibe
+wahren. Vergl. das vorhin gelegentlich der Arbeit *Sattler*’s Bemerkte.
+
+In der ersten Bearbeitung dieser Gegenstandes (s.&nbsp;Deutsche med.
+Wochenschrift 1886 und „Archiv f.&nbsp;Anatomie und Physiologie“,
+Physiologische Abtheilung, herausg. v.&nbsp;*E.&nbsp;du Bois-Reymond*) hatte
+ich auf Grund der Angaben vom Bestehenbleiben des Kernumrisses bei der Mitose
+mich folgendermaßen geäußert:
+
+„Ich möchte nach eben diesen Befunden jetzt die Schranke zwischen einer
+„directen“ und „indirecten“ Kerntheilung ganz fallen lassen. **Es *giebt* nur
+eine Art der Kerntheilung und zwar, wenn wir von den Kernkörperchen absehen,
+nach dem Remak’schen Schema, wobei der Kern, wie später die Zelle, in einer
+bestimmten Ebene, der Theilungsebene, in zwei meist gleiche Hälften
+durchgeschnürt wird.** Wir haben nur jetzt, Dank den verbesserten technischen
+Verfahrungsweisen, kennen gelernt, dass dabei gewisse Bestandteile des Kerns,
+die sogenannten Kerngerüste, besondere Umformungen erleiden, sich besonders
+gruppiren und auf ihre Art in zwei Hälften zerlegen:
+**alles dieses aber stets innerhalb des Rahmens der sich in alter Weise
+theilenden Gesammtfigur“**.
+
+„Wenn noch vielfach die Rede davon ist, dass man bei Kerntheilungen gewisser
+Zellen — namentlich die Leucocyten werden genannt — die chromatischen Figuren
+vermisse, so muss doch betont werden, dass solche Befunde von Tag zu Tag
+seltener werden. Namentlich ist hier auf die schönen Untersuchungen
+*Flemming*’s und seiner Schüler[@fw1884ama] zu verweisen, die gerade bei
+allen lymphoiden Zellen die karyokinetischen Figuren als die Regel erwiesen
+haben“.
+
+„Sollte es nun auch einzelne chromatinarme Kerne mit schwach entwickelter
+Gerüstsubstanz geben, bei denen unsere bisherigen Hülfsmittel nicht ausreichen
+die Umgestaltungen des Gerüstes bei der Theilung nachzuweisen, so kann das
+keinen Grund abgeben, zwischen einer directen und indirecten Kerntheilung —
+die Ausdrücke sind ohnehin nicht glücklich gewählt — zu unterscheiden. Es
+würde dies vielmehr nur erweisen, dass die alte von *Remak* festgestellte
+einfache Form die Grundform ist, bei der nur Modificationen auftreten in den
+Fällen, wo die Kerne ein deutliches Gerüst mit chromatischer Substanz
+enthalten“.
+
+Inzwischen haben sich nun freilich die Befunde von amitotischen Zelltheilungen
+in bedenklicher Weise gemehrt und kann ich den Satz, den ich am selben Orte
+einige Seiten später hinstellte: „Man kann fast sagen, dass man nach directen
+Theilungen suchen muss und dass sicher constatirte Beispiele dafür sehr selten
+berichtet sind und immer seltener berichtet werden“, füglich nicht mehr
+wiederholen. Im Uebrigen aber möchte ich aus Gründen, die ich weiter unten
+angeben werde, an dem eben Citirten festhalten. Vorher mögen Beispiele
+amitotischer und mitotischer Theilungen gewöhnlicher und abweichender Form
+angeführt werden.
+
+*Flemming*[@fw1882] und *Rabl*[@ra1885mj] halten die directe (amitotische)
+Theilung noch für einen Theil der Leucocytcn fest. *Mayzel* ([@ma1884],
+Taf.&nbsp;II, Fig.&nbsp;49) vermisste die Mitosen bei der Bildung von
+Riesenzellen in dem sich regenerirenden Cornealepithel beim Frosch; auch bei
+Pflanzen, namentlich bei den Characeen, sind von *Johow*[@jo1881bz] und
+Anderen dahin lautende Angaben gemacht worden. Directe Kerntheilung fand
+*Frenzel*[@fz1885ama1] im Darmepithel von Krustern; bei Insecten zeigte sich
+dasselbe, auffallender Weise zugleich eine indirecte Theilung bei den
+specifischen Drüsenzellen der Darmkrypten. — *Fraisse*[@phf1885] vermisst bei
+der Regeneration der verschiedenen Gewebe sehr häufig die Karyokinese und
+constatirt hier wieder fast überall die einfachen directen Theilungen; er
+meint sogar, dass die typischen Kerntheilungsfiguren nur da auftreten, wo es
+zur Bildung eines **bestimmten Organs** kommt. Die Mitosen vermissten ferner: 
+*Overlach*[@ov1885ama] im Epithel der cervix uteri, ungeachtet lebhafter
+Kernvermehrung, dann *Nissen*[@ni1886ama] in den Epithelzellen der Milchdrüse.
+— *Berggrün*[@bje1887mj] fand zahlreiche amitotische Kerntheilungsbilder im
+Froschlarvenschwanz und in der Frosch-Cornea nach mechanischer Reizung der
+betreffenden Theile. *Carnoy*[@cjb1884lac] findet directe neben indirecter
+Theilung in den verschiedensten Geweben der Arthropoden — Theilung eines
+Infusoriums (Euplotes harpa Stn.), ohne das Auftreten von mitotischen Figuren
+im Kern, beobachtete *K.&nbsp;Möbius*[@mo1887sbb], während wir wiederum von
+anderen Protozoen — s.&nbsp;die vorhin gegebenen Beispiele — die ächten
+mitotischen Kerntheilungen kennen.
+
+Besonders merkwürdig sind die namentlich in letzter Zeit zahlreich
+mitgetheilten Befunde bei der Spermatogenese: *A.&nbsp;Bolles
+Lee*[@bla1887lc;@bla1887rzs] fand amitotische Theilungen bei der ersten
+Generation der Samenbildungszellen, den sogenannten „Spermatogonien“ *von La
+Valette St.&nbsp;George*’s, während bei den folgenden Generationen regelmäßig
+mitotische Theilungen nachzuweisen waren. Dieselben Verhältnisse zeigte mir
+*Dostojewski* an seinen im hiesigen anatomischen Institute angestellten
+Untersuchungen über die Samenbildung bei den Amphibien. Auch bei *La Valette
+St.&nbsp;George*[@lv1886ama;@lv1887], bei *Gilson*[@gi1887lc],
+*Sabatier*[@sb1885cr] u.&nbsp;A. finden wir gleichlautende Angaben. Nur
+*Platner*[@pl1886mah] constatirte bei den Pulmonaten sowie bei den
+Lepidopteren ausschließlich mitotische Theilungen; allerdings sollen
+Abweichungen von dem gewöhnlichen Schema vorkommen.
+
+Wie wir diese Verschiedenheiten erklären sollen und wie wir überhaupt das
+Verhalten der mitotischen zur amitotischen Theilung auffassen sollen, darüber
+lässt sich etwas Bestimmtes zur Zeit nicht sagen. Es fehlt zwar nicht an
+Aeußerungen der Autoren in dieser Beziehung. So meinen *Pfitzner*[@pf1886va]
+und *E.&nbsp;Zacharias*, dass wahrscheinlich die amitotischen Theilungen nur
+bei solchen Zellen vorkämen, die als allmählich dem Untergange entgegengehend
+betrachtet werden müssten. Hochinteressant erscheint für die in Rede stehende
+Frage auch die weiter unten genauer mitzu-
+
+	
+	
+	
 
 # Einzelnachweise und Fußnoten
 
