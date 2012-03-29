@@ -1357,7 +1357,74 @@ Aeußerungen der Autoren in dieser Beziehung. So meinen *Pfitzner*[@pf1886va]
 und *E.&nbsp;Zacharias*, dass wahrscheinlich die amitotischen Theilungen nur
 bei solchen Zellen vorkämen, die als allmählich dem Untergange entgegengehend
 betrachtet werden müssten. Hochinteressant erscheint für die in Rede stehende
-Frage auch die weiter unten genauer mitzu-
+Frage auch die weiter unten genauer mitzutheilende Erfahrung
+*Boveri*’s[@bt1887aa], dass unter den Furchungskugeln von Ascaris
+megalocephala immer eine beschränkte Anzahl sich vor­finden, welche bei der
+Theilung stets sehr deutlich die chromatischen Schleifen wahrnehmen lassen,
+während diese bei der Mehrzahl der Furchungszellen nicht gut sichtbar sind
+und das Chromatin nur in Gestalt zahlreicher Körnchen auch bei der Theilung
+zeigen. *Boveri* spricht die Ansicht aus, dass die Zellen mit den deutlichen
+Mitosen die Anlagen der späteren Geschlechtszellen seien.
+
+Den Beobachtungen über die directen Theilungen stehen nun sehr zahlreiche
+Erfahrungen über mitotische Theilungsprocesse gegenüber, die sich von Tag zu
+Tage mehren.
+
+Für die normalen Karyokinesen liefern die allbekannten Werke von
+*Strasburger*[@sb1876;@sb1888;@1884] und
+*Flemming*[@fw1882;@fw1883ama;@fw1884ama] die reichste Casuistik. Den hier
+zahlreich aufgezählten Fällen möchte ich aus der neueren Literatur noch
+hinzufügen: Die Karyokinesen bei der Vermehrung und Regeneration der **glatten
+Muskelfasern** (&thinsp;*Pfitzner* u. *H.&nbsp;Stilling*[@sp1886ama], *Cattani*
+(Gazzetta degli ospitali 1885), *Paladino* (Riforma medica 1886), *Busachi*
+(Estratto Giornale della R.&nbsp;Accad. di Medic. di Torino 1886, Nro. 3 e 4),
+die Karyokinesen bei den quergestreiften Muskelfasern
+(&thinsp;*Nikolaides*, Archiv für Anat. und Physiologie, Physiol. Abtheilung,
+herausgeg. v.&nbsp;*E. du Bois Reymond* 1883, p.&nbsp;441) — bei den
+zahnbildenden Geweben (&thinsp;*Canalis*[@ca1886aa]) — bei den Leberzellen
+(&thinsp;*Podwyssotzki* in: Ziegler und Nauwerck, Beiträge zur pathol. Anat. und Physiologie Bd.&nbsp;I und *Canalis*[@ca1886mph]). Wie im Thierreiche so
+ist es auch im Pflanzenreiche: fast jede histologische und
+entwicklungsgeschichtliche Arbeit bringt neue Belege für das Vorkommen der
+Mitosen.
+
+Auch bei den **pathologischen** Zellvermehrungen tritt die mitotische Form in
+den Vordergrund. Namentlich *J.&nbsp;Arnold* in seiner Arbeit über die
+Theilungsvorgänge an den Knochenmarkzellen[@aj1884va1] gibt schon ein
+stattliches Verzeichniss der bis dahin erschienenen einschlägigen Abhandlungen;
+wir finden dies noch ansehnlich vermehrt in einer der jüngsten Arbeiten
+desselben Verfassers: Ueber Theilungsvorgänge an den Wanderzellen, ihre
+progressiven und regressiven Metamorphosen[@aj1887ama] und bis zum heutigen
+Tage fortgesetzt in der aus *J.&nbsp;Arnold*’s Laboratorium hervorgegangenen
+Arbeit von *Schottländer*[@sl1888ama]. Auch *Unna*[@un1883md] bespricht das
+Vorkommen der Karyokinese bei pathologischen Zellbildungsprocessen.
+
+Hier ist der Ort, die eigenthümlichon und in mehrfacher Beziehung abweichenden
+Formen der Karyokinese zu besprechen, die wir bei den Wanderzellen und bei den
+sogenannten Riesenzellen des Knochenmarks antreffen. Die Wanderzellen und
+deren ganze Sippe, die wir einmal zusammenfassend mit dem Namen „lymphoide
+Zellen“ belegen wollen, schienen lange Zeit der Karyokinese nicht unterthan.
+Erst den sorgfältigen Untersuchungen *Flemming*’s (l.&nbsp;c.) und seiner
+Schüler ist es zu danken, dass wir auch diese wichtige und eigenartige
+Zellengruppe in diesem Punkte als eine den übrigen Zellen sich gleich
+verhaltende anzusehen haben. Immerhin sind aber grade bei diesen Zellen die
+direkten Kerntheilungen häufig und eine völlige Einigung unter den Autoren
+ist noch nicht erzielt, wobei zu beachten ist, dass es augenscheinlich eine
+Menge verschiedener Arten oder Spielarten von lymphoiden Zellen giebt, die
+sich bezüglich ihrer Theilungserscheinungen verschieden verhalten mögen. Wir
+kennen z.&nbsp;B. von lymphoiden Zellen: die **Wanderzellen** in den Geweben,
+die **farblosen Blutkörper**, von denen wieder verschiedene Unterarten
+unterschieden werden müssen (vgl.&nbsp;die Arbeiten von *Ehrlich* und dessen
+Schüler *Einhorn*, cf. d.&nbsp;Letzteren Dissertation[@ei1884]), die
+runden Zellen der Lymphdrüsen und der Milz, die Thymuszellen, wie sie sich
+postembryonal in diesem anfangs epithelial angelegten Organe entwickeln, die
+Markzellen. Wie alle diese verschiedenen Zellarten sich zu einander verhalten
+ist keineswegs völlig klar gestellt. Besonders heben *Löwit*[@lo1885sbw] und
+*J.&nbsp;Arnold*[@aj1887ama;@aj888ama] hervor, dass die Natur der lymphoiden
+Zellen, an welchen man die Mitosen beobachtet hat, noch nicht mit
+wünschenswerther Sicherheit festgestellt sei. Es könne sich z.&nbsp;B. bei
+den mitotisch sich theilenden, im Blute beobachteten farblosen Zellen nicht
+um ächte Wanderkörperchen, sondern um Vorstufen rother Blutkörperchen oder
+losgelöste, in mitotischer Theilung begriffene Endothelzellen gehandelt haben.
 
 	
 	
