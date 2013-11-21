@@ -11,7 +11,7 @@ html:
 	tidy -utf8 -e $(BASENAME).html
 
 epub:
-	$(PANDOC) -f markdown $(BASENAME).md --toc --epub-metadata=dc.xml --epub-cover-image=images/cover.png --bibliography=$(BASENAME).bib --csl=ebook.csl -o $(BASENAME).epub
+	$(PANDOC) -f markdown $(BASENAME).md --toc --epub-metadata=dc.xml --epub-cover-image=images/cover1.png --bibliography=$(BASENAME).bib --csl=ebook.csl -o $(BASENAME).epub
 	
 txt:
 	$(PANDOC) -f markdown -t plain -s $(BASENAME).md --bibliography $(BASENAME).bib --csl=ebook.csl -o t.txt

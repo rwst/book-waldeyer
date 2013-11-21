@@ -906,7 +906,7 @@ praktisch verwendbar, so wird sie sich wohl einbürgern, sonst möge sie
 bald der Vergessenheit anheimfallen.
 
 In zweiter Linie gilt es der **Spindelfigur** und den **Strahlenfiguren**
-im Protoplasma. Beide sind hier in den Abbildungen Nr.&nbsp;5—11
+im Protoplasma. Beide sind hier in den Abbildungen Nr.&nbsp;5-11
 dargestellt. Die Spindelfigur wurde zuerst abgebildet und kurz beschrieben
 von *Alexander Kowalevsky*, damals in Kiew, in dessen berühmter
 Abhandlung[@kw1871]: „Embryologische Studien an Würmern und Arthropoden“.
@@ -1426,9 +1426,592 @@ den mitotisch sich theilenden, im Blute beobachteten farblosen Zellen nicht
 um ächte Wanderkörperchen, sondern um Vorstufen rother Blutkörperchen oder
 losgelöste, in mitotischer Theilung begriffene Endothelzellen gehandelt haben.
 
-	
-	
-	
+Sicher ist, dass an farblosen, im Blute circulirenden Zellen Mitosen
+beobachtet wurden (&thinsp;*J.&nbsp;Arnold*[@aj1887ama;@aj888ama],
+*Peremeschko*, *Flemming*, *Lavdowsky*[@la1884va], *Bizzozero*, *Kultschitzky*
+— Letzterer bei neugeborenen Hunden (Centralbl. f. d. med. Wissenschaft 1885,
+5.&nbsp;Jan. und Archives slaves de Biologie T.&nbsp;IV. fasc.&nbsp;2
+p.&nbsp;230), ferner an den ähnlich geformten Zellen des Knochenmarkes
+(&thinsp;*Flemming*, *Werner*, *Löwit*, *Denys*, *Geelmuyden*, *Cornil* und
+*J.&nbsp;Arnold*; bei Letzterem sind auch die hier genannten Autoren citirt.)
+Zweifellos sind auch Mitosen an den Zellen der Lymphdrüsen nachgewiesen worden
+(&thinsp;*Flemming*, *J.&nbsp;Arnold*). *Flemming*[@fw1884ama] ist, wie
+Eingangs dieses Abschnittes hervorgehoben wurde, der Ansicht, dass es sich
+dabei um ächte lymphoide Zellen gehandelt habe, während *Baumgarten*[@bp1879va]
+meint, dass die Mitosen an den fixen, sogenannten Stromazellen der Lymphdrüsen
+sich abspielten.
+
+*J.&nbsp;Arnold* kommt in seinen wiederholt angeführten
+Arbeiten[@aj1887ama;@aj888ama] zu dem Schlusse, dass Wanderzellen, farblose
+Blutzellen, Lymphzellen und die entsprechenden Zellformen des Knochenmarkes,
+der Milz und der Lymphdrüsen sich nach dem Typus der Mitose vermehren
+**können**, dass aber der stringente Beweis dafür noch nicht erbracht sei,
+jedenfalls sei es zurückzuweisen, dass diese Zellen **nur mitotisch** sich
+theilten. Darin stimmt ihm auch *Löwit* zu.
+
+An derartigen Zellen, an Bindegewebszellen, namentlich aber an Zellen von
+Neubildungen und an den sogenannten Riesenzellen des Knochenmarkes sind nun
+allerlei Abweichungen von dem gewöhnlichen Verhalten der Karyokinese beobachtet
+worden. So wurden wiederholt drei- und mehrpolige Figuren (pluripolare)
+gesehen, z.&nbsp;B. in pathologischen Neubildungen von *J.&nbsp;Arnold* und
+*Martin*[@ma1881va]; auch *Rabl*[@ra1885mj] beschreibt solche von
+einem Hämatoblasten aus der Milz von Proteus. *Mayzel*[@ma1884] verfolgte bei
+einer Axolotl-Larve die mitotische Theilung einer Bindegewebszelle in vier
+Stücke in vivo. *Denys*[@dj1886lac] schildert die mehrfachen Mitosen bei
+Riesenzellen, *Cornil*[@cv1886cr] bei Sarkomen und Carcinomen. Desgleichen
+sind dreipolige Kernspindeln bei Pflanzen beobachtet worden. Ungleich große
+Tochtersterne erwähnt *Rabl*. Insbesondere hat aber *J.&nbsp;Arnold* aus dem
+Knochenmarke und der Milz sehr von dem Gewöhnlichen sich unterscheidende Formen
+geschildert. *Arnold* möchte auf Grund seiner Befunde eine neue Eintheilung der
+Kerntheilungsformen aufstellen und zwar unterscheidet er: 1) **Segmentirung**
+mit den beiden Unterarten: **directe** und **indirecte** Segmentirung,
+2) **Fragmentirung**, ebenfalls eine **directe** und **indirecte**. Erfolgt
+die Theilung des Kerns in der bisher besprochenen Weise, oder wie sie bei der
+Eifurchung geschieht, d.&nbsp;h. theilt sich der Kern entweder in der
+Aequatorialebene oder in den Meridianen (Segmentalebenen) und trennen sich
+dabei die meist vollkommen gleichen Theilstücke in ebenen Flächen, so haben
+wir die „Segmentirung“. Dieselbe ist eine „indirecte“, wenn sie von
+karyokinetischen Erscheinungen begleitet ist, anderenfalls eine directe. Bei
+der „Fragmentirung“ (die Bezeichnung wurde ursprünglich von *E.&nbsp;van
+Beneden* für die directe gewöhnliche Theilung verwendet, *Strasburger* gebraucht
+sie für „Kernzerfall“) ist die Trennungsfläche der Tochterkerne eine ganz
+beliebige unregelmäßige; es werden Stücke von außen her in unregelmäßigen
+Trennungscontouren abgeschnürt, oder sondern sich im Inneren ab, hängen noch
+längere Zeit brückenartig mit dem Mutterkern zusammen. Dabei brauchen die
+Stücke, in die der Kern zerfällt, nicht immer ungleich groß zu sein, obgleich
+sie es meistens sind. Auch hierbei kommen karyokinetische Erscheinungen vor
+(indirecte Fragmentirung) oder sie fehlen (directe Fragmentirung). Wenn
+karyokinetische Erscheinungen bei der Fragmentirung gefunden werden, so
+bezieht sich das auf eine Vermehrung der chromatischen Substanz, auf das
+Auftreten von chromatischen Schleifen und Körnern in größerer Deutlichkeit und
+Zahl; bei allem diesem, und darin liegt der Hauptunterschied zwischen directer
+Fragmentirung und directer Segmentirung, kommt es aber im Falle der
+Fragmentirung zu keiner **äquatorialen Anordnung**. Weitere Unterschiede liegen
+noch in der mehr wechselnden und unregelmäßigen Form der Chromosomen, seien
+dies nun Körner, Fäden oder Bänder. Eine bandartige Gestaltung der Chromosomen
+fand *Arnold* häufig in der Milz. Ferner ist die „Aufstellung“ der Chromosomen
+unregelmäßig, oft wird die polare Orientirung vermisst; ob stets die typische
+Längstheilung eintritt, lässt Arnold unentschieden. Sehr lange erhält sich die
+Kernmembran und schon in den frühesten Phasen kommen Abschnürungen an den
+Kernen vor. Wie man sieht, läuft die Fragmentirung im Wesentlichen wohl auf
+Sprossungs- oder Knospungsvorgänge hinaus; auch sprechen *Arnold*s Abbildungen
+dafür. Dass derartige abweichende Theilungsformen, die an Sprossungs- und
+Furchungsvorgänge erinnern, namentlich bei pathologischen Neubildungen sehr
+häufig sind, hat bereits *Virchow* wiederholt hervorgehoben, so z.&nbsp;B.
+1857 im Archiv für pathologische Anatomie, Bd.&nbsp;XI, S.&nbsp;89 und
+besonders in seinem Artikel über Reizung und Reizbarkeit, ebenda Bd.&nbsp;XIV,
+1858, allerdings jedoch ohne Kenntniss der karyokinetischen Erscheinungen.
+Indirecte und directe Fragmentirung ist nun nach *J.&nbsp;Arnold* die bei den
+lymphoiden Zellen sowohl, wie bei den Riesenzellen am häufigsten
+vorkommende Kerntheilungsform. Die Riesenzellen zeigten dies ebenso bei ihrem
+natürlichen Vorkommen im Knochenmarke, wie bei künstlicher Züchtung nach
+Einbringen von Hollundermarkstückchen in einen Lymphsack oder in eine seröse
+Körperhöhle, wie dies (behufs der Züchtung von Riesenzellen) auf meinen
+Vorschlag zuerst von *Bernhard Heidenhain*[@hh1872diss] ausgeführt und
+neuerdings von *J. Arnold* in sehr vervollkommneter Weise in Anwendung gebracht
+wurde. Bezüglich der Riesenzellen des Knochenmarkes haben *Arnold*s Angaben von
+*Denys*, *Cornil*[@cv1886cr] und *Fütterer*[@fu1887sw] Widerspruch erfahren.
+*Denys*[@dj1888anz] vermag die so genannte indirecte Fragmentirung *Arnold*s,
+d.&nbsp;h. also eine Fragmentirung mit mitotischen Erscheinungen, nicht
+anzuerkennen. Er findet entweder nur eine „Division directe“ (ohne jede
+Vermehrung oder Veränderung des Chromatins), oder eine ächte Mitose (indirecte
+Segmentirung im Sinne *Arnold*s, wobei der Kern unter Auftreten regulärer
+V-förmiger Chromatinschleifen, Längstheilung derselben, Tochterkränzen etc.
+sich in eine mehrfache Anzahl gleichgroßer Tochterkerne mit entsprechender
+Zellsegmentation theilt. Die von *Cornil* beschriebenen abweichenden Formen
+vermag *Denys* ebenfalls nicht anzuerkennen. Wie Letzterer seine „Division
+directe“ schildert, so werden wir in allen Stücken an einen Sprossungs-Vorgang
+erinnert und sehe ich nicht ein, weshalb man diesen ganz bezeichnenden
+altgewohnten Namen nicht beibehalten will.
+
+Ich habe nunmehr die **Frage nach den Beziehungen zwischen der directen
+und indirecten Kerntheilung** wieder aufzunehmen. Gibt es in der That **zwei
+verschiedene** Theilungsformen, die keine vermittelnden Uebergänge haben oder
+gibt es nur **eine** Grundform der Kerntheilung, die aber, wie fast alle
+verwickelten organischen Vorgänge unter verschiedenen Bedingungen mannichfach
+abändert, so dass alle diese verschiedenen Abänderungen nur Glieder einer Reihe
+darstellen, die alle von einer Grundform und eins vom andern ableitbar sind?
+Die reguläre einfache amitotische Theilung würde dann das Anfangsglied, die
+reguläre vollkommene Mitose das Endglied darstellen.
+
+Ich muss gestehen, dass ich, wie bemerkt, auch nach den Einwänden *Tangl*s und
+*Strasburger*s mich nicht von dem Gedanken losmachen kann, dass die
+Kerntheilung ein einheitlicher Vorgang sei mit der einfachen *Remak*schen
+amitotischen Theilung als Grundform. Die positiven Präparate von *Pfitzner*
+und *Sattler* liegen vor, und wenn auch eine Vermischung von Kernsaft und
+Zellprotoplasma eintritt, so wird dadurch doch sicherlich nicht die Existenz
+des Kerns allein auf seine chromatischen Bestandteile beschränkt. Im
+Gegentheil, wir finden sofort bei dem Wiederaufbau der Tochterkerne die
+achromatischen Kernbestandtheile mit den chromatischen vereinigt. Dazu kommen
+die vielerlei Uebergangsformen z.&nbsp;B. bei Spirogyra, wo die Kernmembran
+erst spät, nach Bildung der Spindelfigur schwindet; auch *Flemming* theilt
+ähnliche Beobachtungen mit, die er gegen die Lehre von der Abstammung der
+Spindelfäden vom Zellprotoplasma verwerthet, wie wir vorhin anführten. Es
+gehören dahin ebenfalls die bei verschiedenen Protozoen nachgewiesenen Fälle
+von Mitosen bei Erhaltung der Kernmembran, wie sie vorher aufgezählt wurden.
+Auch der *Arnold*schen Beobachtungen der mitotischen Segmentirung und
+Fragmentirung muss hier nochmals gedacht werden. *Arnold* selbst
+(briefl.&nbsp;Mittheilung) erblickt in der mitotischen Fragmentirung
+Uebergangsformen. Ich möchte die Sache so auffassen, dass wir in der einfachen
+amitotischen Theilung, die ja nun an vielen Beispielen festgestellt ist, die
+Grundform zu erblicken haben; sie tritt überall dann auf, wann die Kerne
+entweder chromatinarm sind, oder wann es auf eine genaue Halbirung des
+Chromatins nicht ankommt. Soll letzteres erreicht werden, so treffen wir die
+Mitosen, denn diese sind der geradeste, sicherste und einfachste Weg die exacte
+Zweitheilung der chromatischen Substanz herbeizuführen; dies wird wohl als das
+Ziel der Karyokinese betrachtet werden müssen^[Vergleiche hierzu auch die
+wiederholt citirte Arbeit von Carnoy, [@cjb1884lac], p.&nbsp;395 — Rapports
+entre les deux modes de Division.] S.&nbsp;über dieses Ziel weiter unten bei
+der theoretischen Betrachtung der Mitose.
+
+Ehe ich zu dieser Betrachtung übergehe, seien erst noch einige andere
+abweichende Formen der Karyokinese hervorgehoben und gewisse Besonderheiten
+zusammengestellt, die sich, ohne zu große Abschweifung, in den Rahmen der
+bisherigen Darstellung, nicht gut einreihen lassen. Auch muss der Vorgang der
+**Zell**-Theilung vorerst noch gebührende Berücksichtigung finden.
+
+Einen eigenartigen Gang der Mitose bei der Spermatogenese beschreibt
+*Sanfelice*[@sf1887nap]. Es soll sich eine achromatische Spindel bilden, an
+deren beiden Polen sich das Chromatin aufhäuft; dann soll letzteres in Form
+eines kugeligen Körpers von jedem der Pole sich lostrennen und frei im
+Zellenleibe lagern; weiter folge die Theilung der Spindel und die Wiedervereinigung jeder Chromatinkugel mit einer Halbspindel, darauf die
+Theilung des Zellleibes.
+
+Was die so wichtige Frage nach der **Ursache der Bewegung** der chromatischen
+Schleifen vom Aequator zu den Polen (Metakinesis) anlangt, so sei hier
+hervorgehoben, dass *E.&nbsp;van&nbsp;Beneden*[@vbe1883,@vbe1887bel] die
+Fadenstructuren des Protoplasmas mit der Fibrillenstructur des quergestreiften
+Muskelgewebes vergleicht. Er hält die achromatischen Fäden der Spindelfigur für
+contractil, zumal er die kleinen Granula, welche sie enthalten, häufig einander
+sich nähern und wieder von einander entfernen sah; er ist der Ansicht, dass die
+Fäden der Spindelfigur in Verbindung stehen mit den Polkörpern einerseits und
+den chromatischen Fäden andererseits, so dass nun die letzteren durch eine
+Contraction der Spindelfäden zu den Polen hingezogen würden. Diese Anschauung
+theilt auch Boveri[@bt1887ber]. — *E.&nbsp;van Beneden* geht überhaupt, wie
+hier eingeschaltet werden mag, in seinem öfter citirten Werke sehr genau auf
+die Protoplasma- und Kernstructur ein. Ebenso *Platner*[@pl1886mah]. Mit
+Rücksicht auf die jetzt wiederum beginnende Bewegung bezüglich der Frage,
+welches dann die eigentlichen Elementarorganismen seien, ob die Zellen und die
+Kerne, oder deren kleinste Theile, die von *Hanstein*[@hs1880] zuerst so
+benannten Mikrosomen (Mikrozymas Béchamp), **Granula** (Altmann[@ar1886]),
+möchte ich hier ausdrücklich darauf hingewiesen haben.
+
+Nicht wenige Abweichungen von der bislang geschilderten Weise der Karyokinese
+finden wir bei *Carnoy*[@cjb1884lac,@cjb1885lac,@cjb1886lac]. Er war wohl der
+Erste, der die in nicht seltenen Fällen noch in den Tochterkernen eintretende
+Längstheilung der Fäden bestimmt behauptet hat. *E.&nbsp;van Beneden*
+hatte sie freilich schon als sehr wahrscheinlich hingestellt, da er factisch
+die Zahl der Fäden größer dort fand, als sie nach einmaliger Längsspaltung
+hätte sein dürfen. *Flemming* bestätigt jetzt diese Angaben; aber in der
+Deutung weichen *Carnoy* und *Flemming* erheblich von einander ab, wie ich
+alsbald erörtern werde.
+
+Wichtig ist ferner, dass *Carnoy* bei der Bildung der sogenannten
+Richtungskörper, s.&nbsp;w.&nbsp;u., stets eine echte „Zellplatte“ im Sinne
+*Strasburger*s wahrgenommen hat; es ergibt sich daraus, dass die Bildung der
+Richtungskörper als eine echte Zelltheilung anzusehen ist. Auch *Boveri*
+kommt zu diesem Ergebnisse.
+
+Das Hauptresultat der *Carnoy*schen Untersuchungen, welche wohl einen
+größeren Leserkreis finden würden, wenn sie in größerer Kürze in einer mehr
+verbreiteten Zeitschrift niedergelegt worden wären, liegt nun darin, dass er
+gegen die Regelmäßigkeit des von *Flemming*[@fw1882] aufgestellten sogenannten
+karyokinetischen Gesetzes Verwahrung einlegt. Die karyokinetischen Vorgänge
+unterlägen so zahlreichen Abweichungen, dass es bis jetzt nicht möglich sei,
+eine allgemein gültige Regel zu geben. Jedenfalls sei keine der verschiedenen
+bei der Karyokinese auftretenden Phasen obligatorisch, jede könne in Wegfall
+kommen oder abgeändert werden. *Carnoy* wiederholt auch in seiner neuesten
+Publication[@cjb1886lac], p.&nbsp;311 den Satz: „Tous les phénomènes
+caryocynétiques sont variables; aucun d’eux ne paraît essentiel“.
+
+Besonders schwer träfe dies das wichtigste Phänomen der Karyokinese, die
+Längstheilung und die gleiche Vertheilung der Schwesterfäden auf beide Pole,
+worin ja die ganze Ratio der Karyokinese zu liegen scheint, denn nur so können
+wir die gleiche Vertheilung der chromatischen Substanz auf beide Tochterkerne
+als völlig gesichert ansehen. Möglich wäre sie auch durch eine Quertheilung
+gleichmäßig starker Fäden am Aequator, wenn daraus gleich große Theilstücke
+hervorgingen; aber das ist schwierig durch die Beobachtung festzustellen.
+*Carnoy* nimmt nun dies in der That als eine Form der Karyokinese an,
+z.&nbsp;B. bei Astacus, Forficula und Scolopendra ([@cjb1885lac],
+pag.&nbsp;334). In manchen Fällen ordnen sich nach ihm die chromatischen
+Segmente, **ohne vorherige** Längstheilung, in der Axe der Spindelfigur in
+langen Stäben an (Tonnenform, couronne à bâtonnets, *Carnoy*), dann erfolgt die
+Quertheilung dieser Stäbe im Aequator und das Zurückweichen der beiden Hälften
+nach den Tochterpolen. Dies wäre ganz abweichend von allem bisher Angegebenen;
+es würde sich dabei die chromatische Figur ganz wie die Spindelfigur verhalten.
+
+Nach Carnoy soll ferner eine karyokinetische Verlagerung der Chromatinfäden
+nach beiden Tochterpolen ohne jede Längs-­und äquatoriale Quertheilung
+vorkommen können, z.&nbsp;B. l.&nbsp;c. Pl.&nbsp;V. Fig.&nbsp;178 bei Clubiona
+(Arachniden). Dasselbe nimmt neuerdings *Arthur Bolles Lee*[@bla1887lc] für
+die Karyokinesen bei der Spermatogenese der Chaetognathen an. — *Von La Valette*
+St.&nbsp;George (briefl.&nbsp;Mitth.) hat bei Forficula keine Längstheilung
+der äquatorialen Chromatinelemente (&thinsp;**Chromosomen**) gesehen; vielmehr
+wiesen seine Bilder — [@lv1887], Taf.&nbsp;III, Fig.&nbsp;35, 36 etc.&nbsp;—
+auf eine Quertheilung hin. Ebenso äußert sich *Prenant*. Bei allen derartigen
+Vorgängen wäre die gleiche Vertheilung unsicher. Wie wir erwähnt haben, fand
+*Carnoy*, dass die Längsspaltung, die er an sich keineswegs leugnet, auch erst
+während des Stadiums der Tochterkernbildung vor sich gehen könne. Ist dies
+richtig (Askaris megalocephala, *Carnoy*), so bekommt damit die Längspaltung
+nur einen sehr untergeordneten Werth. *Flemming*[@fw1887ama] hat gegen diese
+Herabsetzung der Längspaltung zu einem variablen Phänomen von untergeordneter
+Bedeutung neuerdings entschieden Stellung genommen. Er fand bei der
+Spermatogenese der Salamandrinen abweichende Formen, die *Carnoy*s
+Behauptungen auf den ersten Blick Recht zu geben schienen. Nur tritt hier
+dennoch überall eine **Längstheilung** der Fäden ein, und zwar schon im
+**Anfange der Karyokinese**, im sogenannten Spirem-stadium (s.&nbsp;meine
+früheren Figuren).
+
+Die beiden Schwesterfäden bleiben zu einem langgestreckten Ellipsoid verbunden,
+strecken sich, und alle diese Ellipsoide, stark gestreckt, ordnen sich nun in
+der „Tonnenform“ (Couronne à bâtonnets *Carnoy*) um den Aequator der
+Spindelfigur. Nur sind das nicht einzelne primäre
+(&thinsp;*E.&nbsp;von&nbsp;Beneden*) Stäbe (Fäden, Chromosomen), sondern
+ellipsoidisch lang gestreckte Ringe, von denen jeder aus zwei durch
+Längstheilung entstandenen, aber an den Enden verbunden gebliebenen
+Schwesterfäden besteht und schon in einem früheren Stadium gebildet worden ist.
+Vergl.&nbsp;hierzu auch die Angaben *E.&nbsp;van&nbsp;Beneden*s, S.&nbsp;17.
+— Wenn jetzt die Quertheilung am Aequator eintritt, so wird damit an dem
+*Flemming*schen Principe der Karyokinese nichts geändert und es kann auch,
+unbeschadet dieses Principes, wie *E.&nbsp;van&nbsp;Beneden* und *Flemming*
+zeigen, noch im Dyaster-Stadium die von *Carnoy* beschriebene Längstheilung
+folgen, diese ist dann aber nicht die **erste**, für die Karyokinese so
+bedeutungsvolle, sondern eine **zweite**, secundäre, welcher vielleicht
+gar keine allgemeine Bedeutung zukommt, da sie offenbar nur bei wenigen
+Zellarten (Geschlechtszellen) bis jetzt gesehen worden ist (vergl.&nbsp;darüber
+*Weismann*, [@wm1886za], p.&nbsp;39&nbsp;ff.).
+
+Auch bei einer anderen Abweichung, die *Flemming* als die **homöotypische
+Form** (will sagen „eine mehr der gewöhnlichen ähnliche Form — die
+ebenbeschriebene nennt er die heterotypische“) bezeichnet, könnte es scheinen,
+als ob *Carnoy* mit seiner Behauptung, die Längsspaltung könne ganz fehlen, im
+Rechte wäre. Auch hier tritt indessen die Längsspaltung schon im
+Spiremstadium ein; die Schwesterfäden trennen sich rasch völlig von einander,
+werden kurz und dick, so dass sie primären Fäden (Chromosomen) ähnlich sehen
+und leicht für solche genommen werden können. Auch bildet sich kein
+regelmäßiger **Monaster** am Aequator, sondern sofort mit der Bildung desselben
+wandern auch schon einige Fäden nach den Polen hin, die Metakinese fällt also
+mit ihrem Beginn schon in die Monasterform.
+
+Da nun bei der Tochterkernbildung hier keine Längsspaltung vorkommt, so kann
+man, falls man die erste Längstheilung im Spiremstadium nicht beachtet hat,
+wohl der Meinung sein, dass hier eine Karyokinese ohne Längstheilung vorliege.
+
+*Flemming* ist gewiss im Rechte, wenn er mit der ihm eigenen Ruhe und
+Objectivität, die alle seine Arbeiten in so vortheilhafter Weise auszeichnet,
+die Vermuthung hinstellt, *Carnoy* habe bei seinem abweichenden Befunde die
+erste Längsspaltung übersehen. Andererseits kann man es *Carnoy* nicht
+verargen, wenn er dies nicht ohne Weiteres zugiebt, sich vielmehr mit
+Entschiedenheit dagegen verwahrt und die Forderung aufstellt, dass man, wenn
+man ihn widerlegen wolle, **dieselben Objecte** untersuchen müsse. Ehe dies
+geschieht, wird der Streit auch nicht entschieden werden. Freilich, darf ich
+wohl hinzufügen, sind auch **geeignete** Objekte zu wählen. Es wäre zu
+wünschen, dass die wissenschaftlichen Versammlungen, speciell die
+Zusammenkünfte der neugegründeten anatomischen Gesellschaft, noch mehr als
+bisher dazu benutzt würden, durch die Vorlegung der betreffenden Präparate
+derartige Differenzen zum Austrage zu bringen.
+
+Ich bemerke *Carnoy*s Auffassung gegenüber, dass *Strasburger* in seiner
+neuesten Arbeit[@sb1888]. wenigstens für die höheren Pflanzen und Thiere, mit
+*Flemming* die Längsspaltung der Muttersegmente (Chromosomen) und die
+Vertheilung der aus dieser Spaltung hervorgegangenen Fäden auf beide
+Tochtersegmente für einen allgemein gültigen Vorgang und für den Höhepunkt der
+mitotischen Kerntheilung hält (l.&nbsp;c.&nbsp;p.&nbsp;135).
+
+*Platner*[@pl1886mah] fand zwar, wie *Carnoy*, bei Lepidopteren zuweilen ein
+ganz unregelmäßiges Auseinanderweichen der Chromatinkörper, ohne vorherige
+Bildung einer Aequatorialplatte und ohne Längstheilung; doch will er nicht
+entscheiden, ob man diesen Vorgang für einen normalen und nicht vielmehr für
+ein Zeichen von Entartung der betreffenden Zellen halten solle.
+
+Jedenfalls sehen wir, wie die Sachen z.&nbsp;Z. liegen, dass die meisten
+Autoren in der aequatorialen *Flemming*schen Längstheilung noch das
+wesentlichste Phänomen der Karyokinese erblicken, und, wie ich nach meinen
+eigenen Befunden sagen zu dürfen glaube, mit Recht.
+
+Abweichende Verhältnisse schildert ferner vor Kurzem
+*Oskar Schultze*[@sz1887sbw] in Bestätigung früherer Angaben von
+*Bellonci*[@bg1885lin] bei den Furchungszellen vom **Axolotl**. Hier soll der
+gewundene Fadenknäuel nicht durch directe Umwandlung der (gestreckten) Fäden
+des Kerngerüstes entstehen, sondern in der Weise, dass man in der Kernwandung,
+in welcher bei diesem Objecte ausschließlich der Fadenknäuel liegt, kleine
+Chromatinkörnchen (&thinsp;*Pfitzner*sche Körnchen *O.&nbsp;Schultze*)
+auftreten sieht, die sich später verbinden und in gewundene Reihen ordnen.
+
+Wir haben vorhin erwähnt, dass der Kern so wie die von ihm ausgehende
+Spindelfigur während des Ablaufs der karyokinetischen Theilung eine
+Lageveränderung durchmacht. Besonders deutlich ist dies bei der Bildung der
+Richtungskörperchen, s.&nbsp;w.&nbsp;u. Abschnitt&nbsp;II. Wichtig wird die
+Betrachtung dieser Dinge vor Allem bei der Untersuchung des
+Eifurchungsprocesses. Bezüglich der hier in Frage kommenden Kräfte hat
+*Pflüger* an einen Einfluss der Schwerkraft gedacht, während *O.&nbsp;Hertwig*
+in seiner Schrift: „Welchen Einfluss übt die Schwerkraft auf die Theilung der
+Zellen?“ Jena, 1884, dies zurückweist und als Grundsatz hinstellt, dass der
+Kern allemal in der Zelle diejenige Lage einzunehmen bestrebt sei, welche der
+Mitte seiner Wirkungssphäre entspricht. In einer kugligen rein
+protoplasmatischen Eizelle wird er demnach z.&nbsp;B. genau im Centrum liegen;
+bei einem meroblastischen Eie, in welchem das die Wirkungssphäre des Kerns
+darstellende Protoplasma wie eine Calotte auf dem Nahrungsdotter ruht, wird er
+in der geometrischen Mitte dieser Calotte liegen und sich bei der Spindelfigur
+in der Längsrichtung des Protoplasmas strecken müssen. Da nun die Theilung des
+Kerns stets senkrecht zur Längsaxe der Kernspindel erfolgt, wird durch die
+Lagerung des Kerns nach dem *Hertwig*schen Gesetz auch die Richtung der
+Theilungsebene bei der Furchung bestimmt. Was die eigenthümlichen Lagerungen
+der Spindelfigur bei der Richtungskörper-Bildung belangt, so hat
+*O.&nbsp;Schultze*[@sz1887zwz,@sz1887sbw] sie zu erklären versucht; ich verweise
+hier auf seine interessante Darstellung.
+
+Endlich sei der Wiederherstellung der
+**Kernkörperchen** in den Tochterkernen gedacht, sowie der eigentlichen
+**Zelltheilung**. Ersteres anlangend, so sah *Strasburger*[@sb1888], dass in
+den Tochterkernen an den chromatischen Fäden, diesen dicht anliegend, eine
+Anzahl kleiner Körperchen auftreten, die erst später untereinander zu 1-2
+größeren Nucleolen verschmelzen (Spirogyra). *Meunier*[@me1887lc], entsprechend
+seinem vorhin mitgetheilten Befunde, gibt an, dass sich **alles** Chromatin
+(Nuclein) der Tochterkerne wieder im Nucleolus vereinige; dieser habe auch
+eine eigene Membran. — Ich übergehe die sonstigen nur sehr vereinzelten und
+dürftigen Angaben, welche in der Literatur über die Nucleolen und deren Bildung
+bei der Karyokinese vorliegen, indem sie noch nicht ausreichen, um eine nur
+einigermaßen gesicherte Meinung sich bilden zu lassen.
+
+Ich erwähnte vorhin,
+dass die Zelltheilung in der Phase der Tochterknäuelbildung einzutreten pflege.
+Was nun das Nähere über die Erscheinungen der Zelltheilung anlangt, so mag hier
+in der Kürze gesagt sein, dass bei thierischen Zellen, nach *Flemming*s
+Schilderung[@fw1882] dem Aequator der Spindelfigur entsprechend, zunächst eine
+Einschnürung im Zellprotoplasma erscheint. Um diese Zeit zeigt sich, wie
+besonders *Rabl*[@ra1885mj] hervorhebt, das Protoplasma sehr deutlich in zwei
+Zonen, eine äußere dunklere und innere lichte getheilt (s.&nbsp;Fig.&nbsp;12).
+Die innere Zone umgiebt den Kern bez.&nbsp;die Tochterkerne, ohne scharfe
+Abgrenzung. Die Einschnürung beginnt meist einseitig und ihr entsprechend
+gewahrt man eine stärker lichtbrechende Substanz, die während der ganzen
+folgenden Durchschnürung fortbesteht und sich in Haematoxylin stärker färbt
+(s.&nbsp;Fig.&nbsp;12). Der Theilungsprocess des Zellenleibes muss, wie *Rabl*
+bemerkt, verhältnissmäßig rasch von Statten gehen, da er mit dem
+Tochterknäuelstadium beginnt und bereits abgelaufen ist, bevor der Ruhezustand
+der Tochterkerne eintritt.
+
+Ich hatte schon Gelegenheit bei der Besprechung der Spindelfigur
+hervorzuheben, dass an deren Fäden im Aequator bei Pflanzenzellen besondere
+knotenförmige Verdickungen auftreten. Dabei soll sich auch die Zahl der
+Spindelfäden vermehren, und, indem die Verdickungen aneinanderschließen und
+sich bis zur Oberfläche der Zelle hin ausbreiten, entsteht das, was
+*Strasburger* die „**Zellplatte**“ nennt, und welche später die
+„Scheidewand“ zwischen den beiden Tochterzellen darstellt. Da nun, wie schon
+früher bemerkt, eine derartige Scheidewand bei den thierischen Zellen nicht
+vorkommt, so finden wir auch keine Zellplattenbildung, höchstens Anklänge
+derselben, von denen bereits die Rede war. Hierin liegt denn ein Unterschied
+zwischen dem Ablauf der Theilungsvorgänge bei Thieren und Pflanzen. Ich
+wiederhole aber, was (S.&nbsp;47) gesagt wurde, dass, nach *Carnoy*s
+Beobachtungen, bei der Bildung der Richtungskörperchen von Ascaris
+megalocephala eine deutliche Zellplatte in Gestalt der beschriebenen
+Verdickungen auftritt. An Präparaten, welche mir *van Gehuchten* vorlegte,
+konnte ich mich davon überzeugen.
+
+Es hat natürlich nicht an Versuchen gefehlt, den auffallenden Erscheinungen
+der Karyokinese von der theoretischen Seite her beizukommen. Es sind hier vor
+Allem — abgesehen von den Schriften *Bütschli*s[@bo1876sen],
+*Fol*s[@fol1879] und *Mark*s[@mk1881bmh], welche das Problem der Zelltheilung
+und der hier in Betracht zu ziehenden physikalischen Kräfte auf breiter
+Grundlage behandeln — die Arbeiten von *Roux*[@rx1883],
+*Pfitzner*[@pf1881mj,@pf1883ama], *Carnoy*[@cjb1884lac,@cjb1885lac] und
+*Platner*[@pl1886mah] zu erwähnen. Dass die gegebenen Theorien glückliche
+seien, wird schwerlich behauptet werden. Es ist immer eine missliche Sache zu
+theoretisiren, wenn die Thatsachen selbst noch ungenügend bekannt sind. Die
+neueren Mittheilungen haben gezeigt, dass in der Erforschung des
+Thatsächlichen noch manches zu leisten war und, da wir über die Entstehung der
+Kernspindel und der Polstrahlungen, über deren Verbleib, über die Kernmembran,
+über das Verhalten des Kernsaftes, über die chemische und physikalische
+Constitution der chromatischen und achromatischen Substanzen noch so gut wie
+gar nichts wissen, da es noch eine unausgeglichene Controverse zwischen den
+beiden ersten Autoritäten auf diesem Gebiete, *Flemming* und *Strasburger*,
+ist, in wie weit die Substanzen des Zellenleibes bei der Karyokinese betheiligt
+sind, da selbst die äquatoriale Längstheilung als typisches Phänomen noch
+bestritten wird: so sind wir auch jetzt noch nicht in der Lage irgend etwas
+gut Begründetes über die theoretische Seite der Karyokinese auszusagen.
+
+Indessen möchte ich doch Denen entgegentreten, welche, wie
+*Brass*[@ba1883za,@brass1883], *Fraisse*[@phf1883za] und
+*Fol*[@fol1884rm] der chromatischen Kernfigur jegliche wesentlichere Bedeutung
+absprechen wollen. *Brass* behauptet, dass die chromatische Substanz lediglich
+Ernährungsmaterial für die übrigen Theile des Kerns und der Zelle sei, welches
+sich im Kerngerüst aufspeichere, um bei den Lebensprocessen und dem Wachsthum
+der Zelle und des Kerns ihre Verwendung zu finden. Der Sitz der Kräfte, welche
+die Vorgänge der Kerntheilung beherrschen, sei in den beiden Polen der
+Kernspindel su suchen. Dem hellen Plasma des Kerns (Kernsaft) schreibt er die
+wichtigste active Rolle bei allen Lebenserscheinungen der Zelle und des Kerns,
+namentlich auch bei der Theilung zu. Die chromatischen Substanzen verhielten
+sich als passive Massen; sie würden von den beiden Kernpolen her angezogen und
+folgten den Bewegungen des Kernplasmas. Gewiss war es eine Uebertreibung, in
+den chromatischen Figuren die Hauptsache bei der Kerntheilung zu suchen, die
+treibenden Kräfte vorzugsweise in die sie zusammensetzende Substanz zu
+verlegen. Doch mag man sich auch vor dem Fehler hüten, ihr jegliche active
+Bedeutung bei der Kerntheilung absprechen zu wollen. Die vorliegenden
+Thatsachen, auf welche Brass z.&nbsp;B. sich stützt, berechtigen wenigstens
+hierzu noch nicht. Seine Angabe, dass in hungernden Zellen die chromatischen
+Kernfiguren fehlen oder unvollkommen auftreten, scheint nicht durchweg
+richtig, insofern *Rabl*[@ra1885mj] bei Salamandern, die fünf Monate ohne
+Nahrung geblieben waren, reichlich chromatische Substanz bei den
+Theilungsfiguren antraf. Ist es richtig, was *Rabl* angiebt, dass nämlich ein
+Grundplan der chromatinhaltigen Fadenfigur auch im völlig ruhenden Kerne
+bestehen bleibt mit Pol- und Gegenpolseite, so ist es schwer, sie als völlig
+bedeutungslos hinzustellen und dem Kernsafte allein die active Rolle
+zuzuschreiben. Vor allen Dingen muss hier aber das merkwürdige Verhalten der
+chromatischen Elemente bei den Befruchtungserscheinungen herangezogen werden,
+worauf weiter unten genauer eingegangen werden soll.
+
+Vieles spricht freilich dafür, dass wir in den Polen der Spindelfigur sowie in
+den Attractionssphären *E.&nbsp;van&nbsp;Beneden*s (Richtungssonnen,
+*Kultschitzky*) höchst bedeutungsvolle Punkte, sagen wir auch „Centren“, für
+die Kerntheilungserscheinungen annehmen dürfen, wie fast Alle, die diesen
+Gegenstand behandelten, anerkannt haben. Ich möchte aber davor warnen, dass
+wir uns nun in den Wahn einwiegen, damit sei alles Wesentliche gesagt, und wir
+vermöchten nun, von diesem Standpunkte aus, sämmtliche Erscheinungen
+theoretisch zusammenzufassen und einheitlich abzuleiten. Die so verschieden
+ausgefallenen Meinungen der Autoren, welche Alle die in Rede stehenden Pole
+als bedeutungsvoll anerkennen, zeigen, dass dies zur Zeit noch unmöglich ist.
+Mit *Flemming* und *Rabl* halte auch ich daher den Zeitpunkt noch nicht für
+gekommen, in welchem wir uns eine erfolgreiche theoretische Behandlung der
+Karyokinese versprechen dürfen.
+
+Eines, worauf *Rabl*[@ra1885mj] hinweist, möchte ich jedoch nicht unerwähnt
+lassen, und ich knüpfe damit an einen bereits früher betonten Umstand an: Wenn
+es richtig ist. wie *Rabl* es darstellt; dass bereits im ruhenden Kerne die
+Hauptfadenstructuren in typischer Form vorhanden sind — vgl. die Fig. 2, 3, 4,
+12 — so muss man gestehen, dass der gesammte Formenwechsel der
+karyokinetischen Figur sich einfach unter dem Probleme einer geforderten
+genauen gleichmäßigen Theilung einer solchen Fadenstructur begreifen lässt.
+Man kann sich dann kaum eine einfachere Lösung dieses Problems denken, als die
+Natur sie in der Karyokinese vollzieht: die unter Auftreten eines Polfeldes
+und einer Gegenpolseite im ruhenden Kerne typisch angeordneten Hauptfäden
+ziehen zunächst die in Form von Nebenfäden, Fortsätzen und Nucleolen
+ausgesendeten Bestandtheile wieder an sich, dann ordnen sie sich in einer sehr
+regelmäßigen Figur — sammeln sich gleichsam — in der Mitte (Theilungsebene)
+des Kernes (Mutterstern); jeder (Mutter-)Faden (Chromosom), theilt sich der
+Länge nach in zwei (Tochter-)Fäden, je zwei aus einem Mutterfaden
+hervorgegangene Tochterfäden rücken einfach auseinander nach den
+entgegengesetzten Kernpolen, um sich dort in der typischen Grundfigur wieder
+zur Ruhe zu begeben^[Für die Pflanzenzellen stellt *Strasburger* in seiner
+neuesten Mittheilung[@sb1888] es als ein allgemeines Vorkommniss hin, dass die
+Chromatinschleifen sich aufbauen aus regelmäßig alternirenden dicken
+tonnenförmigen **Chromatinscheiben** und dünnen **Lininscheiben**. Während
+des Ablaufes der Karyokinese sehe man, wie beim Uebergange aus der ruhenden in
+die kinetische Knäuelform allmählich die kleinen Chromatinkörner
+zusammenrücken und zu den genannten Scheiben verschmelzen; dabei nimmt die
+Masse des Chromatins zu, während die des farblosen Bindemittels, des Linins,
+abnimmt. Das Umgekehrte findet wiederum bei der Bildung der Tochterkerne statt.
+*Strasburger* vermuthet, dass in dieser der Längstheilung der Fäden
+voraufgehenden regelmäßigen Aufspeicherung des Chromatins eine weitere
+Vorrichtung zur möglichst genauen Halbirung desselben bei der Theilung gegeben
+sei.]. Vor der Hand können wir nicht mehr hinter dem Formenspiel der
+karyokinetischen Figur suchen; wenigstens ist es rein hypothetisch, wenn
+*Carnoy* l.&nbsp;c. p.&nbsp;402 außerdem noch als Ziel der Karyokinese angiebt,
+dass sie zur Herstellung der Dicentricität der Zelle beitrage, dass sie eine
+totale Regeneration der Kernbestandtheile ermögliche und dem Zellprotoplasma
+neue Plastinelemente zuführe. Schwer verständlich bleiben die Polstrahlungen
+und die Spindelfigur; auf diese wird sich die Aufmerksamkeit der künftigen
+Forschung insbesondere zu concentriren haben.
+
+Dass die Kernmembran schwindet, scheint wohl begreiflich, wenn wir bedenken,
+dass solche Hüllen einer Theilung des Gesammtkerns leicht hinderlich sein
+können. Es ist dies übrigens ein Punkt, der ebenfalls noch weiterer Aufklärung
+bedarf, zumal wir ja, wie bemerkt, noch nicht einmal recht wissen, wie es mit
+der Kernmembran steht.
+
+Wir ersehen aus dem zuletzt Besprochenen, dass es mit der theoretischen
+Verwerthung der karyokinetischen Erscheinungen noch recht dürftig bestellt ist,
+und dass wir ihnen von dieser Seite her noch keine besondere Bedeutung
+abzugewinnen vermögen. Dagegen lassen sich dieselben in ausgezeichneter Weise
+nach einer anderen Richtung hin verwerthen und sind auch bereits hier
+verwerthet worden: ich meine **bei allen auf die Beurtheilung von Wucherungs-,
+Neubildungs- und Ersatzvorgängen im thierischen und pflanzlichen Organismus
+auslaufenden Fragen**. Wollte man früher entscheiden, welche zelligen Elemente
+bei derartigen Vorgängen betheiligt waren, von welchen Orten und Zellen aus
+z.&nbsp;B. das normale Wachsthum oder die Regeneration eines Gewebes vor sich
+ging, so war man fast ausschließlich auf den Befund eingeschnürter Zellen und
+Kerne oder zwei- und mehrkerniger Zellen angewiesen. Die Schlüsse aus solchen
+Befunden waren aber in vielen Fällen zweifelhafter Natur, zumal die Frage
+aufgeworfen worden war, ob denn überhaupt eine zwei- oder mehrkernige Zelle
+den Beweis für eine statthabende Zelltheilung abgeben könne? Durch die
+Karyokinese haben wir für die entscheidende Beurtheilung gerade dieser so
+außerordentlich wichtigen Dinge eine gute Grundlage gewonnen, und da die
+karyokinetischen Erscheinungen so klar und bestimmt auftreten, sind die
+betreffenden Untersuchungen von dieser Seite her bedeutend erleichtert und
+gefördert worden. Die genannten Arbeiten von *Flemming*[@fw1884ama] und
+*A.&nbsp;Kollmann*[@km1883], die Arbeiten von *Kölliker*[@kl1882],
+*Altmann*[@ar1881lb], *Merk*[@me1885sbw], *Podwyssotzki*[@po1885fm],
+*Bizzozero* und *Vassale*[@bv1887va], *Rauber*[@rb1886ama] u.&nbsp;A., die
+aus meinem Laboratorium hervorgegangenen Untersuchungen von
+*Kogane&iuml;*[@ko1883ama], *Uskow*[@us1882ama], *Simanowsky*[@sm1883ama],
+*Beltzow*[@ba1883ama] und *Biondi*[@bd1885ama] zeigen, wie die Karyokinese in
+dieser Richtung hin fruchtbringend verwerthet werden kann. Namentlich möchte
+ich an dieser Stelle auf die Untersuchungen über die Herkunft und das
+Wachsthum der Neoplasmen und der zelligen Entzündungsproducte aufmerksam
+machen, worüber wir von *Homén*, *Klemensiewicz*, *Eberth*, *Mayzel*,
+*J.&nbsp;Arnold*, *Ostry*, *Unna*, *Beltzow*, *Simanowsky* u.&nbsp;A.
+(vgl. die Literaturnachweise bei *J.&nbsp;Arnold*[@aj1884va1] und
+*Schottländer*[@sl1888ama] bereits Mittheilungen vorfinden.
+
+Ungeachtet der kurzen Zeit, seit der wir über die Karyokinese etwas wissen,
+haben sich doch schon nach altem deutschen Gelehrtenbrauch — den übrigens auch
+die übrigen wissenschaftlich arbeitenden Völker nachzuahmen beginnen — eine
+stattliche Fülle von verschiedenen Benennungen eingebürgert, von denen ich hier
+die am meisten gebrauchten, so weit sie bisher nicht zur Sprache kamen, noch
+kurz erklären möchte.
+
+Will man den Gesammtleib einer Zelle bezeichnen (abgesehen vom Kern), so
+gebraucht man jetzt den Ausdruck: Zellleib, Zellkörper, **Zellsubstanz**.
+In dieser werden nun zwei Hauptbestandtheile unterschieden, die von *Kupffer*
+seiner Zeit mit den Namen „Protoplasma“ und „Paraplasma“ belegt wurden. Unter
+dem ersteren versteht er die festeren Massen der Zellsubstanz, deren Anordnung
+in Fäden, sei es nun mit oder ohne netzförmige Verbindung, man neuerdings —
+Dank den Untersuchungen von *Heitzmann*, *Frommann*[@fm1884jen], *Kupffer*,
+*Flemming*, *Leydig*[@le1885] u.&nbsp;A. — kennen gelernt hat. *Flemming* hat
+dafür die vielfach angenommene Bezeichnung: „Filarmasse“ oder „Mitom“
+vorgeschlagen, *Hanstein* und *Strasburger* wollen sie als „Cyto-Hyaloplasma“,
+*Leydig* als „Substantia opaca“ bezeichnet wissen.
+
+Das *Kupffer*’sche „Paraplasma“ umfasst die mehr flüssige Substanz des
+Zellleibes, welche die Räume zwischen den Gerüstfäden des Protoplasma’s
+(Mitoms) ausfüllt. Synonyme sind: „Inter-filarmasse“, „Paramitom“ (*Flemming*),
+„Substantia hyalina“ (*Leydig*), „Cytochylema“ (*Strasburger*). Letzterer
+unterscheidet aber beim Cytochylema wieder zwei verschiedene Bestandtheile:
+das „Plasmochym“, und das „Cytochym“, indem er unter „Plasmochym“ den
+dickflüssigeren eiweissreichen Bestandtheil des Zellleibes, unter Cytochym
+dagegen den wässrigen Saft, wie er in den sogenannten Vacuolen von
+Pflanzenzellen vorkommt, versteht.
+
+Die gebräuchlichen Namen für die Bestandteile des Kerns haben wir bereits
+früher anführen müssen. Hier sei nun bezüglich der Nomenclatur *Strasburger*’s noch nachgetragen, dass er das Kerngerüst mit dem Namen „Kernprotoplasma“ oder
+„Nucleoplasma“ belegt. Es besteht dieses jedoch wieder aus einer hyalinen
+Grundsubstanz = „Nucleo-Hyaloplasma“ und den darin abgelagerten
+*Balbiani*-*Pfitzner*’schen Chromatinkügelchen, die, wie wir bereits erwähnten,
+von *Strasburger* als „Nucleo-Mikrosomen“ bezeichnet werden. Den die
+Maschenräume des Nucleo-Hyaloplasma’s erfüllenden „Kernsaft“ nennt er:
+„Nucleo-Chyma“. Falls, wie das öfter vorkommt, auch in Gerüstfäden des
+Cyto-Hyaloplasma’s Mikrosomen vorkommen, so werden diese als „Cyto-Mikrosomen“
+aufgeführt.
+
+Bezugnehmend auf den Namen „Mitom“, hat *Flemming* für die *Schleicher*’sche
+Bezeichnung „Karyokynesis“, wie wir schon Eingangs anführten, das Wort:
+„Karyomitosis“ vorgeschlagen. Unter dem Namen „Kernspindel“ verstehen
+*Flemming* und *Pfitzner* ausschliesslich die achromatische Spindelfigur,
+*Strasburger* schliesst sich neuerdings[@sb1888] dieser Auffassung an. Die
+„**Kernplatte**“ wieder ist für *Strasburger* die Muttersternform der
+chromatischen Fäden, s.&nbsp;Fig. 7. Den Namen „Kernplatte“ an Stelle des
+*Flemming*’schen „Monaster“ oder „Mutterstern“ wünscht *Strasburger* mit
+Rücksicht auf die Verhältnisse der Pflanzen beizubehalten, in­dem hier häufig
+keine klare Sternform auftritt, sondern auch in der Mitte des sogenannten
+Aster noch dichtgestellte Fadenschlingen erscheinen, so dass derselbe, vom Pol
+aus gesehen, nicht das Bild eines Sterns mit leerer Mitte, sondern das einer
+Platte, die aus dicht in einer Ebene zusammengelegten Fäden besteht, darbietet.
+Was unter „Aequatorialplatte“ bezw. „Metakinesis“ zu verstehen sei, wurde
+bereits angegeben (s. besonders die Anmerkung zu S.&nbsp;22). Schliesslich sei
+bemerkt, dass neuerdings *Strasburger* die Summe der karyokinetischen
+Erscheinungen, welche bis zu der entscheidenden Längstheilung der Fäden
+ablaufen, „Prophasen“, den Zustand der Theilung selbst bis zum vollendeten
+Auseinanderrücken der Tochterfäden „Metaphase“, und den Rest der Erscheinungen
+bis
 
 # Einzelnachweise und Fußnoten
 
