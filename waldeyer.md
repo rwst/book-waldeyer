@@ -2011,7 +2011,170 @@ bemerkt, dass neuerdings *Strasburger* die Summe der karyokinetischen
 Erscheinungen, welche bis zu der entscheidenden Längstheilung der Fäden
 ablaufen, „Prophasen“, den Zustand der Theilung selbst bis zum vollendeten
 Auseinanderrücken der Tochterfäden „Metaphase“, und den Rest der Erscheinungen
-bis
+bis zur Herstellung der ruhenden Tochterkerne als „Anaphasen“ bezeichnet.
+— Für die Sternfiguren des Zellleibes, die sogen. „Polstrahlungen“ könnten wir
+mit *Flemming* die Termini: Cytaster (Helioma, Aureola), für die des Kerns,
+d.&nbsp;i. der Spindelfigur (Kernspindel im *Flemming*’schen Sinne) den
+Namen: „Karyaster“ in Anwendung bringen.
+
+*Carnoy* gebraucht den Namen: **Cytodiérèse** (nach *Henneguy*[@hy1882ass])
+für Zelltheilung. *Strasburger*[@sb1888] stellt jetzt — wesentlich im Anschlusse
+an *Flemming* — für die höhereu Pflanzen folgende Reihe der mitotischen
+Erscheinungen auf:
+
+I.  **Prophasen**.
+    1)  Gerüstwerk des ruhenden Kerns,
+    2)  Dichtes Knäuelstadium,
+    3)  Lockeres Knäuelstadium,
+    4)  Umlagerung zur Kernplatte,
+    5)  Kernplatte (Aequatorialplatte — Mutterstern).
+II.  **Metaphase**.
+    6)  Trennung und Umlagerung der secundären Segmente (Metakinese).
+III.  **Anaphasen**.
+    7)  Stern (Tochterstern, Doppelstern, Dyaster),
+    8)  Lockeres Knäuelstadium (lockerer Tochterknäuel),
+    9)  Dichtes Knäuelstadium (dichter Tochterknäuel).
+    10) Gerüstwerk des ruhenden Toehterkerns.
+	
+*Carnoy* gebraucht die Ausdrücke:
+
+(Spirem)
+:    = 1) Seission du boyau, ou du peloton,
+(Aster)
+:    = 2) Couronne equatoriale,
+(Metakinese)
+:    = 3) Ascension polaire,
+(Dyaster)
+:    = 4) Couronnes polaires,
+(Dispirem)
+:    = 5) Reeonstitution du noyau.
+
+Es wäre nur zu wünschen, dass bei den Eintheilungen der mitotischen Vorgänge
+in verschiedene Stadien, das wichtigste der­selben, die **Längstheilung der Segmente**, sowie das Auftreten der **Kernspindel**, einen besonderen Platz
+erhielte. Man könnte vielleicht, um eine alle Fälle umfassende Eintheilung zu
+haben, folgende Reihe aufstellen:
+
+* **A**
+    I.  Ruhender Mutterkern,
+    II.  Mutterknäuel (Spirem),
+    III.  Schleifentheilungs- und Spindelstadium,
+    IV.  Mutterstern (Monaster).
+* **B**
+    V.  Metakinese.
+    VI.  Tochtersterne (Dyaster),
+* **C**
+    VII.  Tochterknäuel (Dispirem),
+    VIII.  Ruhende Tochterkerne.
+
+Ein paar Worte zur Erläuterung dieses Eintheilungsvorschlages mögen noch
+Platz finden:
+
+Alle Beobachter stimmen darin überein, dass auf den Ruhezustand (I) ein anderer
+zunächst folgt, der das Chromatin in Form eines deutlichen Knäuelfadens
+angeordnet zeigt. Mit den Worten „Knäuelstadium“ oder „Mutterknäuel“, „Spirem“
+ist nichts präjudicirt, ob dabei nur **ein** Faden, oder ob **mehrere** Fäden,
+die zunächst noch unentwirrbar in einander verschlungen erscheinen, vorhanden
+sind. Mir scheint es unwesentlich, von einem lockeren und von einem dichten
+Knäuel zu sprechen. Dagegen ist es unbestreitbar sehr wesentlich, dass im
+weiteren Verlaufe der Mitose deutlich getrennte **Segmente** (Chromosomen) in
+Stäbchenform oder in Schleifenform auftreten, dass diese eine
+**Längstheilung** erfahren und dass in diesem Stadium die **Kernspindelfigur**
+auftritt. Wir wissen freilich, dass die Längstheilung bald früher, bald später
+vor sich gehen kann, dass sie sich bis an die Muttersternbildung erstrecken
+kann; immer aber liegt sie zwischen dem ersten Auftreten eines deutlichen
+Knäuels und dem vollendeten Mutterstern. Wir wissen ferner, namentlich aus
+*Strasburger*’s neuester Arbeit, dass wahrscheinlich in den meisten Fällen
+auch im ruhenden Kern und im Knäuelstadium **mehrere** Fäden vorhanden sind,
+vielleicht stets ebensoviele als man später deutlich getrennte Segmente sieht;
+indessen kann man eben im Knäuelstadium die einzelnen Segmente noch nicht
+deutlich von einander sondern. Unbestritten ist aber in allen Fällen, dass
+später zwischen Knäuel- und Muttersternstadium sehr deutlich die einzelnen
+Segmente (Chromosomen), und zwar meist in Schleifenform, hervortreten, und
+dass in dieselbe Zeit auch die so wichtige Erscheinung der Kernspindel fällt.
+Dies sind die Gründe, welche mich bewegen, statt des „lockeren Knäuelstadiums“
+und des Stadiums der „Umlagerung zur Kernplatte“ zur Bezeichnung der
+entsprechenden Abschnitte der Mitose die wichtigsten Vorgänge zu wählen und zu
+sagen: „Schleifenbildungs-Theilungs- und Spindelstadium“.
+
+Da ein kürzerer Ausdruck wünschbar ist, so kann man auch, wie in der Tabelle,
+sagen: „Schleifentheilungs- und Spindelstadium“.
+
+Die Worte: „Kernplatte“, „Aequatorialplatte“ passen nicht gut auf manche
+Fälle; es wird sich meines Erachtens *Flemming*s „Mutterstern“ (Monaster)
+oder auch „Aequatorialstern“ (couronne équatoriale *Carnoy*) besser empfehlen.
+Für „Metakinese“, welches in seiner Bedeutung nicht ohne weiteres klar ist,
+würde man vielleicht besser: „Trennungsstadium“ sagen können. Es passt dies
+Wort auch für alle Fälle, indem ja, wie z.&nbsp;B. bei Spirogyra, keine
+besondere Umlagerung und Umgestaltung der Fäden vorzukommen braucht. Man
+vergleiche bezüglich der **Namengebung** noch die Mittheilung *Flemming*s:
+Zur Orientirung über die Bezeichnung der verschiedenen Formen von Zell- und
+Kerntheilung, Zoolog. Anzeiger 1886, Nro. 216.
+
+## II.
+
+**Was die Beziehungen der karyokinetischen Vorgänge zu der Lehre von der
+Befruchtung und der Vererbung anlangt**, so werde ich mich hierbei vorzugsweise
+auf zwei Arbeiten einlassen, von denen die eine schon wiederholt angeführt
+wurde: Recherches sur la maturation de l’oeuf, la fécondation et la division
+cellulaire par Edouard *van Bénéden*, Gand, Leipzig et Paris 1883, die andere
+in den jüngsten Tagen erschienen ist: *A.&nbsp;Weismann*: Ueber die Zahl der
+Richtungskörper und über ihre Bedeutung für die Vererbung, Jena, 1887. Eduard
+*van Beneden*’s Werk, welches zu den hervorragendsten Erscheinungen unserer
+heutigen biologischen Literatur gehört, verfolgt die Sperma- und Eibildung,
+dann die Befruchtungserscheinungen bei dem grossen Spulwurme der Pferde,
+Ascaris megalocephala, welcher in der That, nach *van Beneden*’s Ausspruch,
+bestimmt zu sein scheint, für diese Dinge ein klassisches Object zu werden.
+Ich übergehe hier die auf die Sperma- und Eibildung bezüglichen Angaben,
+obgleich sie des Neuen und Wissenswerthen einen reichen Schatz enthalten, um
+eingehender mich mit den Befruchtungserscheinungen und mit der bedeutsamen
+Rolle, welche die Karyokinese dabei spielt, zu befassen.
+
+Die **Befruchtungserscheinungen** anlangend, so war bis dahin bekannt
+geworden, dass eine „Verschmelzung“ (Copulation) zwischen dem Kopfe des in das
+Ei eingedrungenen Samenfadens in dem in eigentümlicher Weise reducirten Kerne
+der reifen Eizelle statthabe.
+
+Es mag hier in Kürze die geschichtliche Entwicklung unserer Kenntnisse dieses
+so hoch bedeutsamen Vorganges besprochen werden. Alle Diejenigen, welche, wie
+z.&nbsp;B. *Purkyne*[@pu1825], *v.&nbsp;Baer*[@bke1835; @bke1837],
+*Oellacher*[@oe1872ama], *Götte*[@go1879], *Reichert*[@rc1846aap],
+*Kleinenberg*[@kb1872], *Lovén*[@lo1848aap] u.&nbsp;A. **vor** der Befruchtung
+das **ganze** Keimbläschen sammt dem Keimflecke schwinden liessen, mussten
+natürlich das Wesen des Befruchtungsvorganges in ganz etwas Anderem suchen,
+als in einer morphologischen Copulation von Samenkörper und Keimbläschen. Es
+fehlte indessen auch früher nicht an Forschern, welche das Keimbläschen
+erhalten bleiben liessen. So wird immer als klassisches Beispiel
+J.&nbsp;*Müller*[@ml1852aap] bei Entoconcha mirabilis, einer Molluskenart,
+citirt; ihm gesellen sich *Leydig*[@le1849zwz; @le1855zwz],
+*Gegenbaur*[@gg1854; @gg1855] und vor Allen E.&nbsp;*van Beneden* in seiner
+grossen Abhandlung über das Ei (Recherches sur la composition et la
+signification de l’oeuf. Mem. couronné de l’Académie royale des Sc.&nbsp;de
+Belgique, Bruxelles 1870). Von den Meisten dieser Beobachter wird jedoch
+angegeben, dass die persistirenden Keimbläschen vor dem Beginne ihrer Theilung
+bei der Furchung sich gegen ihren früheren Zustand mehr oder minder verändert
+zeigen, namentlich lassen Manche den Keimfleck schwinden; wir finden aber auch
+Angaben (&thinsp;*Kölliker*[@kl1853], *Gegenbaur*[@gg1855], *Haeckel*[@ha1869]
+und speciell E.&nbsp;*van Beneden* bei Distomum cygnoides), dass Keimbläschen
+und Keimfleck bis zur Theilung intact erhalten blieben. *Fol* (Recherches sur la fécondation et le commencement de l’hénogénie chez divers animaux,
+Mém.&nbsp;de la Société de Physique et d’Histoire naturelle, Genève,
+T.&nbsp;XXVI. 1878-79) hat die präliminaren, der Befruchtung voraufgehenden
+Veränderungen des Keimbläschens am eingehendsten geschildert.
+— Endlich lassen eine dritte Reihe von Autoren: *Derbès*[@der1847asn],
+*v.&nbsp;Baer*, *Leydig*, *Bischoff*[@bt1842; @bt1845], *Fol*[@fol1875az],
+für verschiedene Fälle zwar das Keimbläschen zu Grunde gehen, den Keimfleck
+indessen bestehen bleiben. Allerdings spricht sich nur *Derbès* ganz positiv
+aus, die Uebrigen sehr reservirt; *Bischoff* gar hat diese seine Vermuthung
+später ausdrücklich zurückgenommen. O.&nbsp;*Hertwig*[@hwo1875mj] ist der
+Meinung von *Derbès* in seiner ersten Abhandlung, wo sich auch eine
+eingehende literarische Besprechung findet, — s.&nbsp;ferner ibid.&nbsp;1876
+Septbr. und 1877 Mai — beigetreten.
+
+Die Autoren der zweiten und dritten Reihe konnten also mit einer Copulation
+zwischen dem eingedrungenen Samenfaden und dem entweder ganz oder nur
+rudimentär erhaltenen Kerne rechnen; es waren indessen erst O.&nbsp;*Hertwig*
+und E.&nbsp;*van Beneden*[@vbe1875bel], welche 1875 diese wichtige Thatsache
+erkannten.
+
 
 # Einzelnachweise und Fußnoten
 
