@@ -2175,6 +2175,8 @@ rudimentär erhaltenen Kerne rechnen; es waren indessen erst O.&nbsp;*Hertwig*
 und E.&nbsp;*van Beneden*[@vbe1875bel], welche 1875 diese wichtige Thatsache
 erkannten.
 
+Es
+
 
 # Einzelnachweise und Fußnoten
 
