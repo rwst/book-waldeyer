@@ -2175,7 +2175,122 @@ rudimentär erhaltenen Kerne rechnen; es waren indessen erst O.&nbsp;*Hertwig*
 und E.&nbsp;*van Beneden*[@vbe1875bel], welche 1875 diese wichtige Thatsache
 erkannten.
 
-Es
+Es muss übrigens erwähnt werden, dass das Auftreten **zweier** Kerne (oder
+kernähnlicher Gebilde) und eine Copulation derselben unmittelbar nach dem
+Zutritt der Samenfäden zum Ei und vor der beginnenden Furchung schon von
+*Warneck*[@wk1850bsm], *Bütschli*[@bo1873na] und *Auerbach*[@al1874] gesehen
+und behauptet worden war. *Warneck*’s Angaben bei Lymnaeus und Limax sind
+etwas unbestimmt gehalten; er sagt, dass vor der Theilung (Furchung) im Eie
+zwei kernähnliche Körper vorhanden seien, die zu einem einzigen verschmelzen,
+der dann bei der beginnenden Theilung des Eies eine biscuitförmige Gestalt
+annehme.
+
+*Bütschli* (Beiträge zur Kenntniss der freilebenden Nematoden) beschreibt
+ebenfalls die Bildung zweier Kerne bei einem Fadenwurm (Rhabditis dolichura).
+Dieselben sollen hier an dem einen Eipole dicht nebeneinander entstehen;
+*Bütschli* lässt es unentschieden, ob nicht etwa der eine (zweite) sich aus
+dem anderen (ersten) hervorbilde. Er fand, dass die beiden Kerne sich
+einander nähern und nach dem Centrum des Dotters sich hinbewegen. Es habe,
+meint er, den Anschein, als seien die beiden Kerne vollständig verschmolzen,
+doch glaubt er, dass dies nicht eintrete, sondern dass nur
+die Uebereinanderlagerung, in der man die Kerne gewöhnlich zu sehen bekomme,
+diesen Anschein hervorrufe. Unzweifelhaft nimmt also *Bütschli* in dieser
+seiner ersten Arbeit über den betreffenden Gegenstand eine Verschmelzung der
+beiden Kerne nicht an.
+
+Die positive Angabe einer unmittelbar nach der Befruchtung eintretenden
+**Verschmelzung zweier** unabhängig von einander entstandenen Kerne zu
+**einem**, der sich dann im Eidotter wieder auflöse, gebührt (nach *Warneck*)
+unzweifelhaft *Auerbach* (bei Ascaris nigrovenosa und Strongylus auricularis).
+*Auerbach*, dessen Angaben viel zu wenig Berücksichtigung gefunden
+haben^[So hat Auerbach z. B. die Angabe, dass die beiden bei der Kerntheilung
+auftretenden Sternfiguren durch ein Mittelstück verbunden sind, welches er
+ebenso wie die Astern vom Kern ableitet. S.&nbsp;l.&nbsp;c. Heft 2,
+Taf.&nbsp;IV.], trug seine Beobachtungen darüber im Jahre 1874 auf der
+Breslauer Naturforscher-Versammlung vor und veröffentlichte sie in demselben
+Jahre.
+
+Später erst (1875) hat dann *Bütschli*[@bo1875zwz1; @bo1875zwz2] auch den
+Verschmelzungsprocess beobachtet, und zwar bei verschiedenen Nematoden und
+Schnecken; er erweitert die bisherigen Erfahrungen dahin, dass er auch 3 bis 5
+Kerne bei einzelnen Thierarten an der Dotteroberfläche entstehen und im
+Eicentrum mit einander verschmelzen sah.
+
+Keiner der bisher aufgezählten Beobachter wies aber nach, dass der eine (oder
+mehrere) dieser Kerne von den Samenfäden, der andere vom Keimbläschen des
+Eies abstamme. Des letzteren als Vorläufer wird zwar gedacht, z.&nbsp;B. von
+*Bütschli*; von den Zoospermien meint derselbe indessen nur vermuthungsweise,
+dass ein Theil ihrer Substanz sich an der Bildung der in Rede stehenden Kerne
+beteiligen könne.
+
+Für diesen fundamentalen Punkt gebührt O.&nbsp;*Hertwig*[@hwo1875mj] das
+Verdienst eines ersten völlig bestimmten Ausspruches. Auch E.&nbsp;*van
+Beneden*[@vbe1875bel; @vbe1876bel3] hat gleichzeitig und unabhängig von
+O.&nbsp;*Hertwig* sich dahin geäussert, aber seine Auffassung spricht nicht
+für eine morphologische Continuität zwischen Samenfaden und dem einen der
+copulirenden Kerne.
+
+O.&nbsp;*Hertwig* beschreibt in seiner ersten Mittheilung den Vorgang der
+Eireifung und Befruchtung in der Weise, dass das Keimbläschen durch
+Contractionen des Eiprotoplasmas an die Dotteroberfläche getrieben werde.
+Seine Membran löse sich auf, der Inhalt zerfalle und werde vom Dotter
+resorbirt; der **Keimfleck scheine** unverändert erhalten zu bleiben und zum
+bleibenden Kerne des nunmehr befruchtungsfähigen Eies zu werden.
+O.&nbsp;*Hertwig* schliesst sich also hierin an die vorerwähnten Angaben von
+*Derbès* etc. an. Er nennt diesen, seiner damaligen Meinung nach, aus dem
+Keimflecke hervorgegangenen reducirten Kern den „Eikern“, während er dem
+früheren Kern den alten Namen „Keimbläschen“ gewahrt wissen will.
+
+Den zweiten Kern, den schon *Bütschli* und *Auerbach* sahen und dessen
+Copulation mit dem ersten Kerne sie beschrieben, sieht nun O.&nbsp;*Hertwig*
+— und darin besteht sein hervorragendstes Verdienst in dieser Sache — **als den
+Kopf eines eingedrungenen Samenfadens** an. Er schliesst dies vorzugsweise aus
+dem Umstande, dass diese Erscheinung eines zweiten von der Eiperipherie her
+eindringenden kernähnlichen Gebildes regelmässig wenige Minuten nach der
+Besamung der Eier auftrete, und ferner daraus, dass er in einigen Fällen
+direkt von diesem Kerne einen feinen Faden abgehen und über die
+Dotteroberfläche hinausragen sah.
+
+Endlich beobachtete O.&nbsp;*Hertwig*, dass die beiden Kerne sich zu einander
+hin bewegten und sich dicht aneinander legten, und an anderen Präparaten sah
+er dann wieder nur einen Kern, der aber grösser war als die beiden
+ebenerwähnten. Er **schliesst** daraus, dass beide Kerne, der „**Eikern**“ und
+der „**Spermakern**“, wie er den vom Samenfaden abstammenden Theilkern nennt,
+mit einander verschmelzen. Den aus dieser Verschmelzung hervorgehenden Kern
+nennt nun O.&nbsp;*Hertwig* den „**Furchungskern**“, denn der letztere ist es,
+welcher sich bei der alsbald nach diesem Vorgange eintretenden Befruchtung und
+Eifurchung theilt und zum Stammkern für sämmtliche Kerne des sich
+entwickelnden neuen Organismus wird.
+
+Fast gleichzeitig mit der genannten Arbeit O.&nbsp;*Hertwig*’s erschien die
+erste Untersuchung E.&nbsp;*van Beneden*’s[@vbe1875bel] über diesen
+Gegenstand. — Eine weitere Mittheilung[@vbe1876bel3] erfolgte im Jahre 1876.
+Sie[@vbe1875bel] war völlig unabhängig von *Hertwig* unternommen worden und
+bezieht sich auf die Eier des Kaninchens, während O.&nbsp;*Hertwig*
+Seeigel-Eier verwendet hatte. E.&nbsp;*van Beneden* sieht auch zwei
+kernähnliche Gebilde auftreten, die er als „pronucleus central s. femelle“
+und als „pronucleus périphérique s. mâle“ bezeichnet. Auch er findet eine
+Conjugation dieser beiden Pronuclei und sieht darin den Befruchtungsact.
+(Le premier noyau embryonnaire résulte de l’union de ces deux pronuclei, ce
+premier noyau est le product d’une véritable conjugaison entre un élément
+mâle (Pronucleus périphérique) et un élément femelle (Pronucleus central).)
+
+Von O. *Hertwig* weicht E. *van Beneden* aber in folgenden Punkten ab:
+
+1.  Der Eikern (Pronucleus femelle) ist nicht der übriggebliebene Keimfleck.
+2.  Ueberhaupt bleibt vom ganzen Keimbläschen kein morphologisches Element mehr erhalten.
+3.  Der Spermakern (Pronucleus mâle) ist nicht der Kopf des Samenfadens.
+
+Es sind vielmehr die beiden Pronuclei morphologisch neue Bildungen,
+substanziell aber entsteht der Pronucleus femelle aus der Eimasse; in wie
+weit etwa die Substanz des Keimbläschens dabei betheiligt ist, darüber lässt
+sich *van Beneden* in seiner ersten Mittheilung nicht aus. Substanziell ist
+auch der Samenfaden an der Bildung des Pronucleus périphérique (mâle)
+betheiligt. *Van Beneden* fand nämlich, dass die Köpfe der Spermatozoen sich
+immer dicht an die Corticalzone des Eies legen, und dass substanzielle Theile
+der Spermatozoenköpfe in die Corticalschicht der Eizelle hineingelangen. Da
+nun der Pronucleus périphérique in dieser Corticalschicht entsteht, so ist
+*van Beneden* der Meinung:
 
 
 # Einzelnachweise und Fußnoten
