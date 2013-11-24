@@ -5,6 +5,21 @@
 ![title1](images/cover1.jpg)
 ![title2](images/cover2.png)
 
+# Vorwort zur digitalen Ausgabe
+
+In der Mitte des 19. Jahrhunderts profitierten die mitteleuropäischen
+Biologen von den neuen Zeiss-Mikroskopen und den neuen Azofarbstoffen,
+mit denen bisher unerkannte Zellbestandteile sichtbar gemacht werden
+konnten. Aber erst mit dem umfassenden Review und der Neubewertung der
+Beobachtungen durch *Heinrich Wilhelm Waldeyer* (1836-1921) im Jahr 1886
+wurde die Entdeckung der
+Chromosomen und der Kernverschmelzung bei der Befruchtung einem breiteren
+Publikum bekannt gemacht.
+
+In der vorliegenden Digitalisierung wurden
+in der Bibliographie wo möglich Links und DOI-Bezeichner ergänzt.
+(R.&nbsp;Stephan)
+
 # Vorwort
 
 Der Inhalt dieses Aufsatzes bildete den Gegenstand zweier Vorträge, gehalten im
@@ -16,7 +31,7 @@ physiologischen Abtheilung des „Archivs für Anatomie und Physiologie 1887.“
 Wenn ich mich entschlossen habe an dieser Stelle einen abermaligen Abdruck zu
 bringen, so geschah dies wesentlich aus dem Grunde, weil beide Vorträge
 zusammengehören und ich sie deshalb in ihrem Zusammenhange zu geben wünschte.
-loh habe dabei eine eingehende Umarbeitung und stellenweise völlige
+Ich habe dabei eine eingehende Umarbeitung und stellenweise völlige
 Neugestaltung einzelner Abschnitte eintreten lassen, so wie die wichtigsten
 später erschienenen Veröffentlichungen berücksichtigt. Endlich sind die
 Resultate einer im hiesigen anatomischen Institute ausgeführten Untersuchung
@@ -33,8 +48,9 @@ färbbaren, fadenähnlichen Structuren wechselnder Gestalt in den Zellkernen
 während der Theilung derselben. Diese Structuren sind, bevor sie als
 allgemeines, wichtiges Vorkommniss erkannt und registrirt wurden, bereits
 mehrfach gesehen und abgebildet worden. Soweit wir wissen, hat *Henle* in
-seiner Splanchnologie[@hn1866] (S. 355) bei den Hodenzellen die erste Abbildung
-karyokinetischer Figuren gegeben. Auch *Heller* und *A.&nbsp;Kowalevsky* (1869),
+seiner Splanchnologie[@hn1866] (S.&nbsp;355) bei den Hodenzellen die erste
+Abbildung karyokinetischer Figuren gegeben. Auch *Heller* und
+*A.&nbsp;Kowalevsky* (1869),
 dann *W.&nbsp;Krause* (1870) fügen, wenn wir hier die botanischen Arbeiten
 zunächst unberücksichtigt lassen, sich als Beobachter karyokinetischer
 Thatsachen, ohne jedoch eine richtige Deutung derselben zu liefern, an.
@@ -2290,8 +2306,100 @@ betheiligt. *Van Beneden* fand nämlich, dass die Köpfe der Spermatozoen sich
 immer dicht an die Corticalzone des Eies legen, und dass substanzielle Theile
 der Spermatozoenköpfe in die Corticalschicht der Eizelle hineingelangen. Da
 nun der Pronucleus périphérique in dieser Corticalschicht entsteht, so ist
-*van Beneden* der Meinung:
+*van Beneden* der Meinung: „que le pronucleus superficiel se forme au moins
+partiellement **aux dépeus** de la substance spermatique“.
 
+*Van Beneden* beobachtete ferner, dass beide Kerne, selbst wenn sie sich
+berühren, noch deutlich von einander verschieden bleiben. Doch nimmt er, wie
+erwähnt, eine Verschmelzung (Conjugation) beider Kerne an.
+
+Wie wir sehen, weichen die beiden bewährten Forscher in nicht unwesentlichen
+Punkten von einander ab und lassen auch noch viele wichtige Fragen
+unentschieden. O.&nbsp;*Hertwig* kann sich nicht entschliessen, den Keimfleck
+ganz bestimmt als den späteren Eikern zu bezeichnen, er hat ferner den Act des
+Eindringens der Spermatozoen in das Ei und deren continuirliche Umwandlung in 
+die Spermakerne nicht direkt beobachtet, ebensowenig gelang es ihm, den Act
+der Verschmelzung in flagranti wahrzunehmen; hier müssen bei ihm noch Schlüsse
+die direkte Beobachtung ersetzen. Aehnlich ergeht es *van Beneden*; auch bei
+ihm bleibt der nähere Modus der Bildung der beiden Pronuclei noch unklar, auch
+er hat nicht den Act der Verschmelzung direkt beobachtet, in der Erkenntniss
+des spermatischen Elements beim Pronucleus mâle bleibt er hinter
+O.&nbsp;*Hertwig* zurück; dagegen hat er richtiger gesehen, was den Keimfleck
+anlangt, denn *Hertwig* selbst hat bald darauf seine Meinung, dass der
+Keimfleck zum Eikern werde, wieder aufgegeben.
+
+Nun, es kann nicht Wunder nehmen, dass solche fundamentalen Vorgänge wie das
+Verhalten der männlichen und weiblichen Kern-Elemente bei ihrer Begegnung in
+der Eizelle nicht auf einmal und in allen Stücken von einem einzigen
+Beobachter entdeckt und richtig gestellt werden. Ich stehe nicht an, die
+Angaben der genannten Forscher zu den wichtigsten zu rechnen, mit denen unsere
+Wissenschaft überhaupt bereichert worden ist. Das zeigt sich in der mächtigen
+Anregung, welche sie zu zahlreichen, theils speculativen, theils auf
+Entdeckung neuer Thatsachen und Bestätigung bezw. Widerlegung früherer
+Behauptungen gerichteten Arbeiten gegeben haben. Man muss es nur anerkennen,
+dass sich die genannten Beobachter: *Bütschli*, *Auerbach*, O.&nbsp;*Hertwig*
+und E.&nbsp;*van Beneden* nicht haben hinreissen lassen weiter in ihren
+Speculationen zu gehen, als es ihre äusserst sorgfältig und zahlreich
+angestellten Beobachtungen gestatteten.
+
+Die eben angedeuteten Lücken wurden später durch
+O.&nbsp;u.&nbsp;R.&nbsp;*Hertwig*[@hwr1887] und
+E.&nbsp;*van Beneden*[@vbe1883; @vben1887bel] selbst, sowie durch
+R.&nbsp;*Hertwig*[@hwr1877jzn; @hwr1884jzn],
+H.&nbsp;*Fol*[@fol1877cr; @fol1879], *Greeff*[@gf1876sbm; @gf1879sbm],
+*Selenka*[@sl1878], *Mark*[@mk1881bmh], *Calberla*[@ce1878zwz],
+*Kupffer*[@kb1878; @kf1878bcm; @kf1882sbm; @kf1886bfz],
+*Flemming*[@fw1881ama; @fw1884bc], *Hensen*[@he1876zae; @he1881; @he1885lj],
+*Giard*[@gi1877cr1], *Weismann*[@wi1888bgf; @wm1886za],
+*Nussbaum*[@nu1880ama; @nu1886ama; @nu1884ama],
+*Carnoy*[@cjb1884lac; @cjb1885lac; @cjb1886lac; @cjb1887lac],
+*Zacharias*[@zo1887ama], *Boveri*[@bt1887ber; @bt1887aa; @bt1887jzm]
+u.&nbsp;A. zum Theil ausgefüllt — aber, wie es in den Naturwissenschaften
+geht: neue Beobachtungen, neue Thatsachen schaffen neue Probleme, und gerade
+das in Rede stehende Gebiet eröffnet uns einen so weiten Horizont, dass mehr
+und mehr *Virchow*’s Wort (Gesammelte Abhandlungen, p.&nbsp;737): „Die
+Entstehung und Entwicklung der Eizelle im mütterlichen Körper, die Uebertragung
+körperlicher und geistiger Eigentümlichkeiten des Vaters durch den Samen auf
+dieselbe berühren alle Fragen, welche der Menschengeist je über des Menschen
+Sein aufgeworfen hat“, Geltung gewinnt. —
+
+Es kann hier nicht der Ort sein die Ergebnisse aller dieser einzelnen Arbeiten
+zu besprechen; nur das mag hervorgehoben werden, dass die ersten bestimmten
+Angaben bezüglich der Continuität des Hertwig’schen Spermakerns mit dem Kopfe
+des eingedrungenen Samenfadens sowie die Beobachtung des Actes des
+Eindringens dieses letzteren selbst *Fol*^[
+Wenn ich hier *Fol* als denjenigen nenne, der **zuerst** und zwar bei Echinodermen
+die morphologische Continuität zwischen dem frisch eingedrungenen Spermatozoon
+und dem Spermakern Hertwig’s zweifellos nachgewiesen hat, so weiss ich sehr
+wohl, dass von vielen Beobachtern, z.&nbsp;B. *Bischoff* (Bestätigung etc.,
+Giessen, 1854), *Meissner* (Z. für wiss. Zool. VI), *Weil* (Med. Jahrb.,
+herausgegeben von S. *Stricker*, 1873), *Hensen* (Zeitschr. f. Anat. u.
+Entw.-Geschichte I, 1876), E. *van Beneden* (Bull. l. c. 1875) bei
+Säugethieren, Newport (London Philos. Transact. T. 144, 1854) bei Fröschen,
+*Calberla* (Zeitschrift f. wiss. Zool. 1877, XXX. Bd.) bei Petromyzon,
+*Nelson* (London Phil. Transact. 1852), *Meissner* (Zeitschrift für rat. Med.,
+1853, und Zeitschr. f. w. Zool. VI, 1855), *Leuckart* (Die menschlichen
+Parasiten, Cap. Nematoden) und A. *Schneider* (Monographie der Nematoden,
+1866) bei Nematoden frühere Angaben über das Eindringen der Spermatozoen in
+das Ei, oder wenigstens durch die Eihaut hindurch, vorliegen — nicht zu
+vergessen M. *Barry*’s (Lond. Philos. Transact. 1843) allerersten Fundes von
+Spermatozoen innerhalb der Dotterhaut von Kaninchen — aber *Barry*, eben so
+wenig wie später *Keber* (Untersuchungen über die Porosität der Körper,
+Königsberg, 1854) und *Bischoff* (Bestätigung des von Dr. *Newport* bei den
+Batrachiern und Dr. *Barry* bei den Kaninchen behaupteten Eindringens der
+Spermatozoiden in das Ei, Giessen, 1854) sahen den Act des Eindringens, noch 
+gelang es den übrigen, zeitlich vor *Fol* zu nennenden Forschern, über das
+Schicksal der eingedrungenen Spermatozoen in’s Klare zu kommen und die
+morphologische Continuität des *Hertwig*’schen Spermakerns mit dem Kopfe,
+bezw. Kernelemente des Samenkörpers zur Evidenz zu bringen. *Fol* gebührt
+auch, wie hier nebenbei bemerkt werden mag, die Entdeckung des von ihm
+sogenannten „cône d’attraction“ (Empfängnisshügel O.&nbsp;*Hertwig*),
+d.&nbsp;h. eines kleinen konischen Vorsprunges, den das Eiprotoplasma dem
+eindringenden Zoosperm entgegenstreckt.] zukommen. Jedenfalls sind jetzt alle
+Autoren, wenn wir A.&nbsp;*Schneider*[@sn1883] ausnehmen, darin einig, dass
+erstens der Spermakern (Pronucleus mâle *van Beneden*) morphologisch auf den
+Kopf, bez. den Kernbestandtheil eines Samenkörpers zurückzuführen ist.
+Namentlich hat gerade
 
 # Einzelnachweise und Fußnoten
 
