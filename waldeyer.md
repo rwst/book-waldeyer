@@ -2365,7 +2365,7 @@ Sein aufgeworfen hat“, Geltung gewinnt. —
 
 Es kann hier nicht der Ort sein die Ergebnisse aller dieser einzelnen Arbeiten
 zu besprechen; nur das mag hervorgehoben werden, dass die ersten bestimmten
-Angaben bezüglich der Continuität des Hertwig’schen Spermakerns mit dem Kopfe
+Angaben bezüglich der Continuität des *Hertwig*’schen Spermakerns mit dem Kopfe
 des eingedrungenen Samenfadens sowie die Beobachtung des Actes des
 Eindringens dieses letzteren selbst *Fol*^[
 Wenn ich hier *Fol* als denjenigen nenne, der **zuerst** und zwar bei Echinodermen
@@ -2397,9 +2397,139 @@ sogenannten „cône d’attraction“ (Empfängnisshügel O.&nbsp;*Hertwig*),
 d.&nbsp;h. eines kleinen konischen Vorsprunges, den das Eiprotoplasma dem
 eindringenden Zoosperm entgegenstreckt.] zukommen. Jedenfalls sind jetzt alle
 Autoren, wenn wir A.&nbsp;*Schneider*[@sn1883] ausnehmen, darin einig, dass
-erstens der Spermakern (Pronucleus mâle *van Beneden*) morphologisch auf den
-Kopf, bez. den Kernbestandtheil eines Samenkörpers zurückzuführen ist.
-Namentlich hat gerade
+**erstens** der Spermakern (Pronucleus mâle *van Beneden*) morphologisch auf
+den Kopf, bez. den Kernbestandtheil eines Samenkörpers zurückzuführen ist.
+Namentlich hat gerade E.&nbsp;*van Beneden* dies bei Ascaris megalocephala
+in überzeugender Weise dargelegt und den Vorgang des Eindringens am
+genauesten geschildert. **Zweitens** ist man darüber einig (*Hertwig*, *Fol*,
+*Flemming*, *Selenka*, *Platner*, *E.&nbsp;van Beneden*), dass bei niederen
+Thieren ein **einziger** Samenfaden zur Befruchtung genügt, ja, dass das
+Eindringen mehrerer die normale Entwickelung hindert oder stört.
+(Polyspermie, O.&nbsp;*Hertwig*.)[^longnote]
+
+[^longnote]: Besonders
+interessant sind in dieser Beziehung die neueren experimentellen
+Untersuchungen von O.&nbsp;und R.&nbsp;*Hertwig*[@hwr1887]. Abnorme
+Befruchtung, gefolgt von anomalen Entwicklungserscheinungen, tritt ein bei
+Bastardirung und bei Polyspermie. Was die Bastardirung anlangt, so fanden die
+Brüder *Hertwig*, dass die Samenfäden, wie sie sich ausdrücken, nicht
+wählerisch sind, sondern die Tendenz haben, in jedes beliebige Ei jeder
+anderen Thierspecies einzudringen. Wenn ihnen dies nun nicht gelingt, was ja
+in den weitaus meisten Fällen bei Bastardirungsversuchen der Fall ist, so
+müssten, meinen O.&nbsp;und R.&nbsp;*Hertwig*, die Hindernisse im Ei gelegen
+sein. Ich glaube, dass von den genannten Forschern hier zu sehr die Eizelle
+betont wird. Meines Erachtens ist auch die verschiedene Form und Grösse der
+Spermatozoen in Betracht zu ziehen, worauf bereits *His*[@his1873] und später
+C.&nbsp;K.&nbsp;*Hoffmann*[@hf1881] aufmerksam gemacht haben. Die
+Mannichfaltigkeit der Samenfäden nach Form und Grösse ist ja erstaunlich; mir
+wenigstens ist kein einziger Fall bekannt, dass die Samenfäden anerkannt
+verschiedener Thierspecies völlig gleichgestaltet wären, und möchte ich
+darauf hinweisen, dass man mit Vortheil bei der Frage nach der Bestimmung und
+Feststellung der Species auch die Form der Samenfäden verwerthen könnte.
+
+    Bei der regelrechten Befruchtung innerhalb derselben Species liegen nach
+O.&nbsp;und R.&nbsp;*Hertwig* die Gründe, dass normaler Weise nur **ein**
+Samenkörper eindringt, einmal in der raschen Bildung einer Art Dotterhaut,
+wohl veranlasst durch den Reiz des ersten eingedrungenen Spermatozoons
+(Echinodermen, *Fol*, *Hertwig*); es müssen aber auch, da nicht überall eine
+derartige bei der Befruchtung sich bildende Hautschicht vorhanden ist, noch
+andere abweisende Kräfte des Eiprotoplasmas vorhanden sein. Lässt man auf die
+Eizellen vor der Befruchtung störende oder schwächende Agentien einwirken,
+wie Chloral, kühlt man die Eier ab oder erwärmt sie über das Normale,
+chloroformirt man dieselben, so dringen meist mehrere Spermatozoon ein. Bei
+allen überfruchteten Eiern gestaltet sich, wenn es überhaupt zu einer
+nachfolgenden Entwicklung kommt, diese letztere anomal. Von *Fol* ist die
+Hypothese ausgesprochen worden, dass die Mehrfachbildungen mit der Polyspermie
+im Zusammenhange stehen möchten. Hier würde sich vielleicht zur Prüfung, die
+O.&nbsp;*Hertwig* (Lehrbuch der Entwickelungsgeschichte p.&nbsp;34) dringend
+empfiehlt, der von *Kleinenberg*[@klb1878] untersuchte Lumbricus trapezoides
+empfehlen, bei welchem Wurme aus jeder Eizelle sich regelmässig zwei Embryonen
+entwickeln. Es erscheint übrigens noch verfrüht derartige Hypothesen für
+weitere Kreise der Thierwelt aufzustellen, denn für mehrere Wirbelthierarten
+(Batrachier, Neunauge, Forelle) ist es nach den höchst beachtenswerthen und
+genauen Untersuchungen von
+*Kupffer*[@kb1878; @kf1878bcm; @kf1882sbm; @kf1886bfz] sicher anzunehmen,
+dass eine physiologische Polyspermie besteht, d.&nbsp;h. dass mehrere
+Zoospermien in das Ei eindringen, und ihre Substanz mit der des Eies sich
+mischt. Beim Neunauge z.&nbsp;B. fand *Kupffer*[@kb1878] den Vorgang
+folgendermassen: Es dringt zuerst ein Spermatozoon mit Kopf und Schwanz in
+den Dotter ein. In der Nähe dieses bevorzugten Spermatozoons bohren sich noch
+mehrere andere durch die Eihülle hindurch, treten aber nicht weiter in den
+Dotter ein, sondern ihre Köpfe quellen zu hyalin erscheinenden
+tropfenförmigen Gebilden auf, die an der inneren Fläche der Eihaut, zwischen
+dieser und dem Dotter, zu finden sind. Nunmehr erhebt sich vom Eiprotoplasma
+aus ein zapfenförmiger Fortsatz (= einem cône d’attraction, *Fol*, s.o.),
+gleitet an der inneren Eihautfläche entlang und nimmt dabei die eben erwähnten
+hyalinen Spermatropfen in sich auf, welche dann in der Substanz des Zapfens
+sich auflösen. Allerdings, das hebt *Kupffer* ausdrücklich hervor, entstehen
+auch in allen diesen Fällen nur *zwei* Vorkerne die sich zum neuen Kern des
+befruchteten Eies conjugiren. Auch E.&nbsp;*van Beneden* sah bei Kaninchen,
+selbst wenn mehrere Spermatozoen mit der Dotterperipherie verschmolzen waren,
+stets nur **einen** männlichen Vorkern sich bilden, der dann mit dem zweiten,
+dem weiblichen Vorkern zum „Furchungskern“ verschmilzt. Dieser
+„Furchungskern“ im Sinne *Hertwig*’s könnte freilich sehr wohl, wie ich meine,
+Bestandtheile von „**mehreren**“ Spermatozoen enthalten, aber auch nur von
+„**einem**“. Man kennt die Vorgänge bei der Vorkernbildung der Wirbelthiere
+noch nicht genau. Jedenfalls wird aber durch das Eindringen mehrerer
+Spermatozoen bei den Wirbelthieren die Entwickelung nicht gestört. Auch bei
+Wirbellosen haben *Selenka* (l.&nbsp;c.) und *Schneider* (l.&nbsp;c.)
+überfruchtete Eier normal sich entwickeln gesehen.
+
+Ueber einen **dritten** wichtigen Punkt indessen, über die **Verschmelzung**,
+ist man auch heute noch nicht in’s Reine gekommen. Es bietet freilich diese
+„Conjugation“, „Verschmelzung“ der beiden „Kerne“, „Vorkerne“ oder
+„Pronuclei“, wie wir sie nun nennen mögen, auch nicht geringe Schwierigkeiten
+dar.
+
+Offenbar haben die ersten Beobachter, *Warneck* und *Auerbach*, welche eine
+Verschmelzung annahmen, sich die Verhältnisse hierbei am meisten dem Sinne
+des Wortes „verschmelzen“ entsprechend gedacht. Wenigstens lässt Auerbach
+die verschmolzenen Kerne sich im Protoplasma der Zelle lösen (Karyolysis).
+Eine solche Vorstellung war auch die natürliche, so lange man von den
+karyokinetischen Vorgängen nichts wusste und die bei allen Kerntheilungen
+sich zeigenden Fadenstructuren nicht kannte. Wie verhalten sich nun diese
+bei der fraglichen Verschmelzung?
+
+Ich habe vorhin (I.) erwähnt, dass bei jedem Kerne, ausser der leicht
+tingirbaren sogenannten chromatischen Substanz (Chromatin, *Flemming*), von
+den Autoren noch die Kernmembran und das sogenannte „Achromatin“, welches im
+Wesentlichen dem „Kernsaft“ entspricht, unterschieden werden müssen. Ich
+erwähnte ferner, dass *Balbiani* und *Pfitzner* die Zusammensetzung der
+chromatischen Fäden aus kleinen, nahezu gleich grossen Stückchen, den
+sogenannten „Mikrosomen“, dargethan haben, und dass bei der Kerntheilung
+noch zwei weitere Bildungen, die „Polkörperchen“ und eine zweite, in
+Spindelform angeordnete Fadenfigur, die sogenannte „Kernspindel“,
+„Spindelfigur“ nebst den „Attractionssphären“ auftreten. Die Fäden der
+Spindelfigur unterscheiden sich von den chromatischen Fäden durch ihre
+geringere Färbefähigkeit, ihre Feinheit und durch ihre charakteristische
+Anordnung.
+
+Wenn wir nun heutzutage von einer „Verschmelzung“, „Copulation“,
+„Conjugation“ — oder wie immer wir es nennen wollen — der Kerne sprechen, so
+darf verlangt werden, dass man das Verhalten der **einzelnen** hier
+aufgezählten **Bestandtheile** des Kernes prüfe, wenn anders wir uns eine
+klare Vorstellung von dem Vorgange machen wollen. Mit anderen Worten: wir
+müssen zu ergründen suchen, wie sich bei dem Verschmelzungsacte die
+chromatischen Fäden, der Kernsaft, die achromatischen Spindelfäden etc.
+zueinander verhalten, und müssen dabei auch den Mikrosomen Rechnung tragen.
+*Boveri* in einer neueren Mittheilung[@bt1887ber] spricht sich in gleichem
+Sinne aus. Für den Spermakern würde sich die Frage insofern vereinfachen,
+als *Flemming* (Arch. f.&nbsp;mikrosk. Anat. Bd.&nbsp;XVIII, S.&nbsp;233 ff.)
+bei Salamandra nachgewiesen hat, dass nur das Chromatin zum Kopfe des
+Samenfadens wird. Indessen bedarf diese Angelegenheit offenbar noch weiterer
+Untersuchungen.
+
+Bevor ich auf das, was man von dem Verschrnelzungsacte weiss, genauer eingehe,
+ist es nun erforderlich, noch eines anderen Actes zu gedenken, der mit dem
+Befruchtungsvorgange in einer innigen Beziehung zu stehen scheint, ich meine
+die Bildung der sogenannten „**Richtungskörperchen**“.
+
+Man versteht unter „Richtungskörperchen“, „Globes polaires“ (*Robin*) kleine
+rundliche Gebilde, welche von den völlig ausgebildeten Eizellen meist schon
+vor der Befruchtung und (in vielen Fällen sicherlich) unabhängig von dem
+Eintritte der Samenfäden in das Ei, ausgestossen werden. Diese
+Richtungskörperchen sind von bedeutend geringeren Dimensionen, als die 
+betreffenden Eizellen selbst (s.&nbsp;Figur&nbsp;14)
 
 # Einzelnachweise und Fußnoten
 
