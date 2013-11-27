@@ -2519,7 +2519,7 @@ bei Salamandra nachgewiesen hat, dass nur das Chromatin zum Kopfe des
 Samenfadens wird. Indessen bedarf diese Angelegenheit offenbar noch weiterer
 Untersuchungen.
 
-Bevor ich auf das, was man von dem Verschrnelzungsacte weiss, genauer eingehe,
+Bevor ich auf das, was man von dem Verschmelzungsacte weiss, genauer eingehe,
 ist es nun erforderlich, noch eines anderen Actes zu gedenken, der mit dem
 Befruchtungsvorgange in einer innigen Beziehung zu stehen scheint, ich meine
 die Bildung der sogenannten „**Richtungskörperchen**“.
@@ -2530,6 +2530,126 @@ vor der Befruchtung und (in vielen Fällen sicherlich) unabhängig von dem
 Eintritte der Samenfäden in das Ei, ausgestossen werden. Diese
 Richtungskörperchen sind von bedeutend geringeren Dimensionen, als die 
 betreffenden Eizellen selbst (s.&nbsp;Figur&nbsp;14)
+
+![Fig. 14. Ei von Ascaris megalocephala in der Ausstossung des zweiten
+Richtungskörpers begriffen. (Nach E.&nbsp;*van Beneden*.) - 
+1) Couche périvitelline externe. 2) Liquor perivitellinus (hier bildet sich
+später die couche périv. interne). 3) Eidotter (vitellus). 4) Erstes, bereits
+ausgestossenes Richtungskörperchen mit dunklen Chromatinkörpern. 5) Der
+Spermakern (pronucleus mâle) aus dem eingedrungenen Zoosperm entstanden.
+6) Das in der Ausstossung begriffene zweite Richtungskörperchen; dasselbe
+zeigt zwei dunkle körnige (Mikrosomen) Chromatinanhäufungen und steht durch
+feine Fäden mit dem Rest des Keimbläschens, dem 7) Eikern (pron. femelle), der
+auch 2 Chromatinkörper hat, in Verbindung.](images/fig14.jpg)
+
+Es hat einer langen Reihe von Forschungen bedurft (ich nenne besonders
+Fr.&nbsp;*Müller*[@ml1848afn], *Robin*[@ro1862jph],
+*Bütschli*[@bo1873na; @bo1875zwz1; @bo1875zwz2; @bo1876sen],
+*Lovén*[@lo1848aap], *Flemming*[@fw1885ana],
+*Bellonci*[@bg1885bol1; @bg1885bol2; @bg1885lin],
+*Fol*[@fol1877cr; @fol1879],
+O.&nbsp;*Hertwig*[@hwo1875mj; @hwo1876mj; @hwo1877mj],
+*Hensen*[@he1876zae; @he1881; @he1885lj], *Oellacher*[@oe1872ama],
+*Calberla*[@ce1878zwz],
+*Kupffer*[@kb1878; @kf1878bcm; @kf1882sbm; @kf1886bfz],
+*Oskar Schultze*[@sz1887zwz] und E.&nbsp;*van Beneden*[@vbe1883],
+bis wir über den Vorgang der Bildung der Richtungskörper in’s Reine gekommen
+sind, und noch immer sind nicht alle Punkte aufgeklärt. Ueber ihre
+physiologische Bedeutung bestehen noch sehr erhebliche Differenzen, und auf
+diese werde ich später genauer einzugehen haben. Den Namen
+„Richtungskörperchen“ (eigentlich: „Richtungsblasen“) gab ihnen
+Fr.&nbsp;*Müller* deshalb, weil ihre Austrittsstelle zu dem Punkte, wo später
+die erste Furchung des Eies einzuschneiden beginnt, in Beziehung steht. Wir
+wissen jetzt, dass diese Körperchen zum Untergange bestimmt sind und dass sie
+auch nicht durch den Befruchtungsact selbst zum Ausstossen kommen, denn, wie
+u.&nbsp;A. *Hensen* nachwies, treten sie bei den Säugethier-Eiern bereits vor
+dem Eindringen der Zoospermien in das Ei aus, während sich die Eier noch in 
+den *Graaf*schen Follikeln befinden. Das Ausstossen der Richtungskörperchen
+ist also ein Act, der zur vollendeten Ausbildung der Eizelle gehört, einerlei,
+ob dieselbe dann später befruchtet wird, oder nicht. Ob aber in allen Fällen
+keine Beziehungen zwischen Eintritt der Spermatozoen und dem Ausstossen der
+Richtungskörper bestehen, steht noch dahin, denn für die Neunaugen haben
+*Kupffer* und *Böhm*[@baa1887ber] gezeigt, dass ein Körperchen **vor**, das
+zweite aber immer erst **nach** dem Zoosperm-Eintritte ausgestossen wird. Bei
+Ascaris megalocephala treten **beide** erst **nach** dem Eindringen des
+Spermatozoon aus (E.&nbsp;*van Beneden*).[^longnote2]
+
+[^longnote2]: Vor Fr. *Müller* haben schon K. E. *v. Baer* und dann
+*Dumortier*, P.&nbsp;J. *van Beneden* und *Kölliker* bei Mollusken die
+Richtungskörper genannt (vgl. die Citate in dem unter [@mk1881bmh]
+angeführten Werke von *Mark*. *Robin* (l.&nbsp;c.) und *Platner*
+(d. Arch. 27.&nbsp;Bd.) citiren *Carus*, der 1828. Bulletin de Férussac,
+Paris, T.&nbsp;XIV, p.&nbsp;132 „Sur la rotation de l’embryon dans l’oeuf
+des mollusques gasteropodes“ die Richtungskörper entdeckt haben soll,
+*Platner* lässt es aber zweifelhaft, ob die Entdeckung mit Recht ihm gebührt.
+Ich konnte mir die betreffende Abhandlung z.&nbsp;Z. nicht verschaffen.)
+
+    *Dumortier* und P. J. *van Beneden* sahen bei Limnaeus und Limas zwei
+Körperchen aus dem Eie austreten, *Kölliker* bei Doris drei, die Dreizahl
+finden auch *Trinchese*, *Blochmann* und *Platner*[@pl1886ama] bei Mollusken;
+von den beiden ursprünglich gelieferten Körperchen zerfällt nämlich das eine
+wieder in zwei. *v.&nbsp;Baer* hielt den von ihm bei Anodonta gesehenen
+kleinen Körper, der aus dem Dotter, einem kleinen Hügel gleich, unter der
+Dotterhaut hervorragte, für das **gesammte** Keimbläschen; *Dumortier* und
+P.&nbsp;J. *van Beneden* sahen ihre Körperchen für **Abkömmlinge** der
+Keimbläschen an. Bei Säugethiereiern haben *Barry* und *Bischoff* die
+Körperchen zuerst gesehen, ohne jedoch über ihre Bedeutung in’s Klare zu
+kommen; *Bischoff* neigt am meisten zu der Deutung Lovén’s, der sie für den
+ausgetretenen Keimfleck hielt. Weitere Abbildungen von Säugethieren
+(Vespertilio murinus und Lepus cuniculus) gab dann 1870 E.&nbsp;*van Beneden*
+in seinem vorhin angeführten grossen Werke[@vbe1870bru]. Die Figuren
+(Taf.&nbsp;XII) zeigen in den bläschenförmigen Körperchen kleine kernähnliche
+Gebilde. E.&nbsp;*van Beneden* bezeichnet sie mit dem ihnen von *Robin*
+gegebenen Namen „Vésicules s. globales polaires“. *Rathke*[@ra1848an], welcher
+bereits zur selben Zeit. wie Fr.&nbsp;*Müller* und am selben Orte auf die
+Richtungskörper zu sprechen kommt, streitet ihnen jede besondere Bedeutung ab,
+sie seien Tropfen von Dottersubstanz, welche etwa durch Contractionen aus
+dieser letzteren herausgetrieben wären. *Oellacher* glaubte beim Hühnerei und
+Forellenei sich überzeugt zu haben, dass der **ganze** Kern (Keimbläschen)
+ausgestossen werde, und dass dieser ausgestossene Kern das Richtungskörperchen
+darstelle. Schon *Purkinje*[@pu1825], *v.&nbsp;Baer* (wie erwähnt),
+*Wagner*[@wa1836], *Bischoff*[@bt1842; @bt1845],
+*Coste*[@cv1834; @cv1838afe; @cv1841cr; @cv1847]
+und *Allen Thomson*[@th1836] hatten darauf hingewiesen, dass bei völlig
+entwickelten Eiern das Keimbläschen an die Oberfläche rücke und verschwinde;
+wie es aber zum Schwinden komme, klärten sie nicht auf. Manche Forscher, wie
+u.&nbsp;A. *van Bambeke*[@vbc1872cr], haben die Meinung geäussert, dass die
+Substanz des Keimbläschens im Eiprotoplasma sich vorübergehend fein vertheile
+(repandre), um sich später unter dem Einflusse der Befruchtung wieder zu einem
+neuen Kerne zu sammeln. *Auerbach* (wie erwähnt) dachte an eine wirkliche
+Lösung der Kernsubstanz. E.&nbsp;*van Beneden* kommt in seinem genannten
+Werke über die Eibildung[@vbe1870bru], s.&nbsp;besonders
+p.&nbsp;239&nbsp;ff., zu dem Schlusse, dass mit dem Umstande des
+Unsichtbarwerdens des Keimbläschens noch nicht erwiesen sei, dass es wirklich
+verschwinde, im Dotter sich auflöse. Es seien wahrscheinlich Veränderungen
+des Dotters, welche dieses Unsichtbarwerden zur Folge hätten — aber, meint
+er, es könnten auch ebensogut Veränderungen an Keimbläschen selbst diesen
+optischen Effect herbeiführen. Wie recht er da­mit hatte, sollte bald die
+Folge lehren. Weder an eine Vertheilung, noch Auflösung, noch Ausstossung
+glaubt A.&nbsp;*Brandt*[@ba1877zwz]; er führt vielmehr das scheinbare
+Schwinden des Keimbläschens auf lebhafte amöboide Bewegungen zurück, welche
+vor der Befruchtung vom Keimbläschen und Keimflecke ausgeführt würden.
+Aehnlich äussert sich Schneider[@sn1883]. Die neueren Untersuchungen von
+*Bütschli*, dann *Fol*, *Flemming*, *Hertwig*, zuletzt und besonders
+ausführlich von E.&nbsp;*van Beneden* und *Oskar Schultze* zeigen indessen,
+dass bei der Bildung der Richtungskörper doch ein Theil des Keimbläschens
+ausgestossen wird, um eben die Richtungskörperchen zu bilden, und dass bei
+diesem Processe derartige Veränderungen an dem Keimbläschen auftreten, dass 
+dadurch sehr wohl das zeitweilige Unsichtbarwerden erklärt werden kann.
+O.&nbsp;*Hertwig* liess Anfangs, wie erwähnt, den grössten Theil des
+Keimbläschens schwinden und den Keimfleck als neuen Eikern bestehen bleiben,
+änderte aber später seine Meinung in der angedeuteten Weise. *Bütschli*
+zeigte zuerst den Zusammenhang zwischen dem Schwinden des Keimbläschens und
+dem Auftreten der Richtungskörper, sowie die Bildung von Spindelfiguren bei
+der Entstehung der letzteren, so dass damit die jetzt fast allgemein
+angenommene Auffassung, als sei die Ausstossung der Richtungskörperchen
+morphologisch als eine karyokinetische Theilung der Eizelle mit sehr ungleich
+grossen Theilungsproducten anzusehen, ihre erste sichere Begründung erhielt.
+Diese Ansicht hat dann *Carnoy* durch die Angabe einer Zellplattenbildung bei
+dem in Rede stehenden Processe unterstützt (s. S. 47 u. 52) — Vgl. über die
+Geschichte der Richtungskörperchen auch die angezogenen Abhandlungen von
+*Platner* und *Robin*.
+
 
 # Einzelnachweise und Fußnoten
 
