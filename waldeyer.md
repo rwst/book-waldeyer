@@ -2483,7 +2483,7 @@ dar.
 
 Offenbar haben die ersten Beobachter, *Warneck* und *Auerbach*, welche eine
 Verschmelzung annahmen, sich die Verhältnisse hierbei am meisten dem Sinne
-des Wortes „verschmelzen“ entsprechend gedacht. Wenigstens lässt Auerbach
+des Wortes „verschmelzen“ entsprechend gedacht. Wenigstens lässt *Auerbach*
 die verschmolzenen Kerne sich im Protoplasma der Zelle lösen (Karyolysis).
 Eine solche Vorstellung war auch die natürliche, so lange man von den
 karyokinetischen Vorgängen nichts wusste und die bei allen Kerntheilungen
@@ -2649,6 +2649,111 @@ Diese Ansicht hat dann *Carnoy* durch die Angabe einer Zellplattenbildung bei
 dem in Rede stehenden Processe unterstützt (s. S. 47 u. 52) — Vgl. über die
 Geschichte der Richtungskörperchen auch die angezogenen Abhandlungen von
 *Platner* und *Robin*.
+
+Die genauesten Schilderungen des ganzen Vorganges geben O.&nbsp;*Hertwig*
+(l.&nbsp;c.) und *Fol* (l.&nbsp;c.) bei Würmern und Echinodermen, *Schneider*
+(l.&nbsp;c.), *Nussbaum* (l.&nbsp;c.), E.&nbsp;*van Beneden* (l.&nbsp;c.)
+bei Ascaris megalocephala, *Carnoy* (l.&nbsp;c.), *Zacharias* (l.&nbsp;c.)
+und neuerdings *Boveri*[@bt1887jzm] bei demselben Objecte. Für die
+Wirbelthiere hat *Oskar Schultze*[@sz1887zwz] bei Amphibien eine eingehende
+Untersuchung angestellt. Ich theile die Resultate dieser letzteren in Kürze
+mit, um wenigstens an einem Beispiele den Vorgang zur genaueren Kenntniss zu
+bringen.
+
+Es werden bei den Amphibien **zwei** Richtungskörperchen ausgestossen, bei Rana
+das eine **vor**, das andere **nach** der Besamung (vgl. die Angaben von
+*Kupffer* bei Petromyzon s.&nbsp;vorh.). Bei Rana sind die beiden Körperchen
+schon mit der Lupe als kleine weisse Fleckchen oder Körnchen in der als fovea
+germinativa bekannten Vertiefung des Eies zu erkennen. O.&nbsp;*Schultze*
+stellte fest, dass sich schon **vor** der Befruchtung (conform den früheren
+Angaben von *Götte*, *Oellacher*, E.&nbsp;*van Beneden*, *v.&nbsp;Bambeke*
+u.&nbsp;A.) der bei weitem grösste Theil des Keimbläschens, sammt Keimfleck
+und Membran, im Eidotter „vertheilt“ — dieses dürfte nach der Schilderung des
+Autors wohl das richtigste Wort sein — damit schwinden allerdings eine grosse
+Menge der Chromatinbestandtheile, indem sie anfangs in grössere und kleinere
+Partikel zerfallen und schliesslich unsichtbar werden. Wenn man hier den
+Ausdruck, „es **lösen** sich diese Theile im Kernsaft oder im Protoplasma
+**auf**“, anwenden will, so dürfte dagegen wohl kaum etwas einzuwenden sein.
+Da der grösste Theil des „Festen“ des Keimbläschens somit flüssig wird und
+sich im Eidotter vertheilt, der ja auch zum Theil flüssig ist, so darf man,
+wie ich meine, wohl sagen, dass der grösste Theil der Kernsubstanz mit der
+Dottersubstanz sich **mische**. Alle die älteren Angaben, die vorhin erwähnt
+wurden und von „Vertheilung des Keimbläschens im Ei, Auflösung desselben“
+sprechen, sind daher bestätigt worden, und scheint mir dies, wie auch
+O.&nbsp;*Schultze* hervorhebt, mit Recht ein sehr wichtiger Punkt.
+
+Es wird aber **nicht das ganze Keimbläschen** in dieser Weise morphologisch
+zu Grunde gebracht und mit dem Dotter gemischt, ein kleiner Theil erhält sich
+auch morphologisch und besteht dann, nach Schwund des übrigen, aus einer
+achromatischen Spindelfigur, mit chromatischen Fäden oder rundlichen Körnern,
+die zur Spindel gelagert sind, wie bei der karyokinetischen Theilung im
+Stadium des sog. Muttersterns (*Flemming*).
+
+Nunmehr tritt eine einfache karyokinetische Theilung dieser Spindel
+(Richtungsspindel, *Bütschli*) ein; der eine Theilkern verbleibt in der
+Eizelle, der andere wird, und zwar mit einem kleinen Theile des Eidotters,
+als **erstes Richtungskörperchen** ausgestossen. Dann wandelt sich der im Ei
+zurückgebliebene Kern abermals in eine Richtungsspindel um (man könnte also
+von einer primären und secundären Richtungsspindel sprechen), und es wird in
+derselben Weise das zweite Richtungskörperchen ausgestossen. Zur
+Veranschaulichung des Vorganges möge man den beigegebenen Holzschnitt
+(Fig.&nbsp;14) vergleichen; derselbe bezieht sich zwar nicht auf Rana,
+sondern auf Ascaris megalocephala, kann aber doch zu der voranstehenden
+Beschreibung verwerthet werden.
+
+Man sieht, dass der ganze Vorgang als karyokinetische Theilung der gesammten
+Eizelle mit sehr ungleichen Theilproducten — wenigstens was die Zellsubstanz
+betrifft (s.&nbsp;*Flemming* Biol. Centralblatt III,&nbsp;Bd. pag.&nbsp;641)
+— in der That aufzufassen ist (&thinsp;*Hertwig*, *Fol*, *Schneider*,
+*Nussbaum* u.&nbsp;A.), und es haben diese Untersuchungen O.&nbsp;*Schultze*’s
+gezeigt, dass in allem Wesentlichen der Vorgang bei den Wirbelthieren
+übereinstimmt mit dem, was wir durch *Bütschli*, *Fol*, O.&nbsp;*Hertwig*,
+E.&nbsp;*van Beneden* u.&nbsp;A. von den Wirbellosen kennen gelernt hatten.
+
+Genauere Angaben über die Bildung der Richtungskörper bei Wirbelthieren
+liegen sonst nicht vor, obgleich dieselben schon von vielen Beobachtern
+(vgl. einzelnes vorhin erwähnte und die Zusammenstellung bei *Oskar Schultze*)
+bei allen Wirbelthierklassen, mit Ausnahme der Vögel und Reptilien, gesehen
+worden sind^[
+In der von O. Schultze und auch in der von *Weismann* und
+*Ischikawa*[@wi1889bgf] gegebenen Zusammenstellung fehlen die Selachier.
+Ich bemerke deshalb, dass *Kastschenko* in der mir während der Correctur
+dieses Bogens zugegangenen Nummer des „Anatomischen Anzeigers“
+(Nr 16, 1.&nbsp;Juli 1888) die Richtungskörperchen bei verschiedenen
+Selachier-Spezies beschreibt und zwar meist 2, einmal 1 und einmal 3 an der
+Zahl.]. Nur haben *Flemming*[@fw1887ama] und *Bellonci*[@bg1885bol2] (bei
+Säugethier-Eiern), C.&nbsp;K.&nbsp;*Hoffmann* (bei Knochenfischen) und
+Böhm (l. c.) bei Petromyzon schon die Richtungs**spindeln** aufgefunden.
+
+Ueber die Bildung der Richtungskörperchen bei Ascaris stellte
+E.&nbsp;*van Beneden*[@vbe1883] eine Reihe neuer und wichtiger Thatsachen
+fest. Ich rechne hierher: den sicheren Nachweis der Hervorbildung der
+Spindelfäden aus einem Theile der Kernsubstanz und aus der Kernmembran, die
+Zusammensetzung der chromatischen Figur aus zwei Gruppen von je vier
+Chromatinkügelchen, das Hervorgehen dieser 8 Kügelchen aus dem Keimfleck 
+(Corps germinatif *van Beneden*), die Ausstossung von 4 Chromatinkügelchen
+zur Bildung des ersten Richtungskörpers, die Bildung einer zweiten
+Richtungsspindel wiederum mit 2 Gruppen chromatischer Kügelchen, die sich
+wieder so theilen, dass die Hälfte der Kügelchen jeder Gruppe in das zweite
+Richtungskörperchen, die andere Hälfte in den im Ei zurückbleibenden
+weiblichen Pronucleus (Eikern, O.&nbsp;*Hertwig*) übergeht.
+
+In einem wichtigen Punkte nun gibt uns E. *van Beneden* hier abweichende
+Ansichten, indem er meint, dass bei der Bildung des ersten
+Richtungskörperchens ganze Kernfäden oder Schleifen ausgestossen würden.
+Auch *Carnoy* (l.&nbsp;c.) hat diese Ansicht vertreten. Dies ist aber nach
+*Nussbaum*’s[@nu1886ama; @nu1884ama], *Zacharias’*[@zo1887ama],
+*Boveri*’s[@bt1887jzm] und *Kultschitzky*’s[@ku1887ama; @ku1888sbp]
+Untersuchungen nicht haltbar; es werden immer nur nach **vorheriger Spaltung**
+der Segmente oder Chromosomen wie bei einer gewöhnlichen mitotischen Theilung
+je die Hälfte der **secundären** Fäden (also Halbfäden) zur Bildung der
+Richtungskörperchen verwendet. Neuerdings hat *van Gehuchten*[@vg1887aa]
+sich wieder für die Angaben *Carnoy*’s ausgesprochen, die, wenn sie auch in
+anderen Punkten abweichen, doch in dem wesentlichsten, d.&nbsp;h. in der 
+Ausstossung ganzer Chromosomen, mit E.&nbsp;*van Beneden*’s Darstellung
+übereinstimmen. *Carnoy* und *van Gehuchten* dehnen dies auf beide
+Richtungskörperchen aus. Wären diese Angaben
+
 
 
 # Einzelnachweise und Fußnoten
