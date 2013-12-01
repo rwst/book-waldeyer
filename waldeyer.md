@@ -2716,7 +2716,7 @@ liegen sonst nicht vor, obgleich dieselben schon von vielen Beobachtern
 bei allen Wirbelthierklassen, mit Ausnahme der Vögel und Reptilien, gesehen
 worden sind^[
 In der von O. Schultze und auch in der von *Weismann* und
-*Ischikawa*[@wi1889bgf] gegebenen Zusammenstellung fehlen die Selachier.
+*Ischikawa*[@wi1889bgf] gegebenen Zusammenstellung fehlen die **Selachier**.
 Ich bemerke deshalb, dass *Kastschenko* in der mir während der Correctur
 dieses Bogens zugegangenen Nummer des „Anatomischen Anzeigers“
 (Nr 16, 1.&nbsp;Juli 1888) die Richtungskörperchen bei verschiedenen
@@ -2752,7 +2752,42 @@ sich wieder für die Angaben *Carnoy*’s ausgesprochen, die, wenn sie auch in
 anderen Punkten abweichen, doch in dem wesentlichsten, d.&nbsp;h. in der 
 Ausstossung ganzer Chromosomen, mit E.&nbsp;*van Beneden*’s Darstellung
 übereinstimmen. *Carnoy* und *van Gehuchten* dehnen dies auf beide
-Richtungskörperchen aus. Wären diese Angaben
+Richtungskörperchen aus. Wären diese Angaben richtig, so würde in der That
+die Bildung der Richtungskörperchen nicht mit einer gewöhnlichen Mitose
+verglichen werden können, wenigstens nicht für Diejenigen, welche in der
+Spaltung der primären Chromatinelemente (Chromosomen) **vor** dem Stadium
+der Metakinese eine wesentliche Phase der mitotischen Theilung erblicken;
+so hat denn auch E.&nbsp;*van Beneden* die Sache angesehen. Für *Carnoy*
+würde das Fehlen der Spaltung freilich kein Hinderniss sein, da er ja, wie
+wir angeführt haben, die *Flemming*’sche Längstheilung nicht als typisch
+anerkennt. *van Gehuchten* stützt sich hauptsächlich darauf, dass schon in
+den jüngsten Eiern von Ascaris, so­bald der Fadenknäuel sich in Segmente zu
+theilen beginnt, sofort **acht** Segmente entstehen, von denen nun 6 nach und
+nach ausgestossen werden und die bekannten 2 zurückbleiben.
+
+Ich hatte vor Kurzem Gelegenheit die Präparate *van Gehuchten*s zu sehen;
+sie zeigten deutlich, wie *van Gehuchten* es beschrieben und abgebildet hat,
+dass vor der Ausstossung des ersten Richtungskörpers acht völlig getrennte
+kurze, leicht gebogene Stäbchen vorhanden sind; vier von diesen Stäbchen
+werden ausgestossen für das erste Körperchen, zwei für das folgende. Schon in
+ganz jungen Eiern von Ascaris waren diese 8 Stäbchen zu sehen. Ich bin vor
+der Hand ausser Stande, die Unterschiede, welche zwischen den Präparaten von 
+*Kultschitzky*, die ich gleichfalls kenne und denen *van Gehuchten*s bestehen,
+aufzuklären; allerdings haben Beide mit verschiedenen Verfahren gearbeitet.
+
+E. *van Beneden* lässt es zweifelhaft, ob auch von dem Eiprotoplasma irgend
+etwas zu den Richtungskörperchen hinzutrete, *Fol*, *Hertwig* und
+O.&nbsp;*Schultze*, wie wir gesehen haben, nehmen dies an. Kommt kein
+Protoplasma hinzu, so können wir den ganzen Process nur einer mitotischen
+**Kerntheilung**, nicht aber einer **Zelltheilung** vergleichen.
+
+Schliesslich sei noch besonders darauf aufmerksam gemacht, dass mit einer
+Ausnahme, auf die wir nachher zurückkommen werden, überall mindestens **zwei**
+Richtungskörper ausgestossen werden.^[Als geschichtliche Notiz möge hier noch
+Platz finden, dass *Bütschli* anfangs der Meinung war, es werde die ganze von
+ihm gefundene und benannte Richtungsspindel ausgestossen. Erst *Hertwig* und
+*Fol* deckten den wahren Sachverhalt, insbesondere bei den Echinodermen,
+deren Richtungskörper E.&nbsp;*van Beneden* nachgewiesen hatte, auf.]
 
 
 
