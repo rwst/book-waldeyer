@@ -2791,6 +2791,118 @@ deren Richtungskörper E.&nbsp;*van Beneden* nachgewiesen hatte, auf.]
 
 
 
+
+einem weiblichen Vorkerne stattfinde, sondern dass das Spermatozoon im 
+Eidotter „wie eine Wolke“ zerfliesse. Er kommt damit wieder auf den älteren
+Stand der Dinge zurück.
+
+*Eberth* und *Nussbaum* unternahmen dann eine Prüfung der *Schneider*’schen
+Angaben an Echinodermen und Würmern.
+
+Von *Eberth*[@eb1884fm] liegt, soviel ich weiss, bis jetzt nur eine kurze
+Mittheilung vor, die zwar den Verschmelzungsprocess, *Schneider* gegenüber,
+wiederum feststellt, uns über das Wesen desselben je­doch nichts Neues giebt.
+*Eberth* sah bei Echiniden und einem Spatangus, dass beim Aufeinandertreffen
+von Eikern und Spermakern die feine Scheidewand zwischen ihnen schwindet, und
+dass dann beide „verschmelzen“. Hiermit habe sich „eine Mischung des
+Chromatins und des Achromatins“ der beiden Kerne vollzogen. Der Eikern habe
+einen Zuwachs von Chromatin und wahrscheinlich auch von Prochromatin (siehe
+über das letztere Abschnitt&nbsp;I) erhalten, denn man sehe im Furchungskern
+eine viel grössere Masse von Chromatin-Körnern und -Fäden.
+
+*Nussbaum* brachte seine erste Mittheilung[@nu1883sbo] im August 1883. Er
+constatirte die Ausstossung zweier Richtungskörperchen und die Umbildung des
+darnach verbliebenen Restes des Keimbläschens in ein Gebilde von der Form
+eines ruhenden Kerns, desgleichen die Umbildung des eingedrungenen
+Samenfadenkopfes in einen zweiten Kern der sogenannten „ruhenden Form“. Er
+stellte nun mit Bestimmtheit wiederum die „Verschmelzung“ dieser beiden
+Kerngebilde fest, kam aber über die feineren Vorgänge bei dem
+Verschmelzungsacte ebenfalls nicht weiter als die ersten Entdecker desselben;
+nur muss erwähnt werden, dass er beim „Furchungskerne“, d.&nbsp;h. bei dem
+aus der Verschmelzung hervorgegangenen Kerne, bereits die Fadenfigur sah.
+Neben der Verschmelzung der **Kerngebilde** legt aber *Nussbaum*, und das
+sei ausdrücklich hervorgehoben, eben so viel Gewicht auf die Verschmelzung
+der **protoplasmatischen Antheile** von Eizelle und Samenkörper. Er sagt
+darüber in seiner vorläufigen Mittheilung: „Demgemäss ist auch bei Ascaris 
+megalocephala die Befruchtung : die **Conjugation zweier Zellen**, deren
+Protoplasma mit allen aus ihm hervorgegangenen Bildungen sich vermischt,
+deren Kerne nach Ausstossung der Richtungskörper sich vereinigen und den
+Kern des befruchteten Eies darstellen.“ Aehnlich fasst er seine Meinung in
+seinen vorhin citirten beiden nachfolgenden
+Abhandlungen[@nu1884ama; @nu1886ama].
+
+Zu einer noch weiter gehenden äusserst wichtigen Folgerung gelangte indessen
+*Nussbaum*[@nu1883sbo] bei Leptodera nigrovenosa (*Schneider*). Hier sollen
+sich die beiden Pronuclei, der männliche und der weibliche, bei ihrer
+Vereinigung in die Längsaxe des Eies einstellen und so der Länge nach mit
+einander verschmelzen. Die erste Furchung tritt nun aber senkrecht zur
+Längsaxe des Eies und also auch senkrecht zur Verschmelzungsfläche der
+beiden Pronuclei ein; es folgt daraus, **dass jeder Kern der beiden ersten
+Furchungskugeln je eine Hälfte des Spermakerns und des weiblichen Kerns
+enthalten muss**. Auf die Wichtigkeit dieser Beobachtung für die Frage nach
+der **Vererbung** weist Nussbaum ausdrücklich hin. Alle Zellen unseres
+Körpers stammen von den beiden ersten Furchungskugeln ab; es liegt
+ausserordentlich nahe anzunehmen, dass bei der weiteren Theilung der ersten
+Furchungszellen auch deren Abkömmlinge jede gleich viel weibliche und
+männliche Kernbestandtheile erhalten, wenn wir auch bei den weiteren
+Furchungsvorgängen die Vertheilung der beiderlei Kernbestandtheile nicht
+mehr zu verfolgen im Stande sind.
+
+Viel eingehender und genauer nun, als alle seine Vorgänger, unterrichtet uns
+E.&nbsp;*van Beneden* (Recherches sur la fécondation etc.[@vbe1883]) über
+den Vorgang der befruchtenden Kerncopulation. Die seit 1881
+begonnenen^[Nach einer brieflichen Mittheilung E. *van Beneden*’s.]
+Untersuchungen E.&nbsp;*van Beneden*’s über Ascaris megalocephala und den
+Befruchtungsvorgang sind zweifellos gleichzeitig und unabhängig mit den
+genannten Arbeiten von *Nussbaum* und den letzten von *Schneider* unternommen
+worden. Des Letzteren vollständiges Werk (Breslau 1883) ist indessen die
+erste Publikation. *Nussbaum*’s vorläufige Mittheilung datirt vom
+5.&nbsp;August 1883. E.&nbsp;*van Beneden* veröffentlichte 1883 seine erste 
+Mittheilung über den Sexualapparat von Ascaris megalocephala in den Archives
+de Biologie Vol.&nbsp;IV; *Nussbaum*’s erste ausführliche Abhandlung erschien
+im Archiv für mikroskopische Anatomie, Februar 1884, *van Beneden*’s
+vollständiges Werk im April 1884.
+
+Vorerst stellt E. *van Beneden* klar, dass das „Eindringen“ eines
+Spermatozoons in das Ei, „la penetration,“ noch nicht den Befruchtungsact
+darstelle. Dieser selbst vollziehe sich erst durch die **vollständige
+Ausbildung** der beiden Vorkerne. Mit der Fertigstellung der Vorkerne sei
+die Befruchtung gegeben.
+
+E. *van Beneden* unterscheidet demgemäss die „Fécondation“, deren kurze
+Definition wir später geben wollen, von der „Copulation des produits
+sexuelles“, unter der er das Eindringen eines Spermatozoons in das Ei
+begreift (p.&nbsp;128&nbsp;ff.).
+
+Die eigenthümlich gebauten Spermatozoen von Ascaris megalocephala bestehen
+im Wesentlichen aus einem protoplasmatischen Antheile, der an einem Ende von
+einer Membran umgeben ist, einem eigenthümlichen glänzenden Körper, und aus
+einem chromatophilen kernähnlichen Elemente, welches von einer hellen
+Substanz in Gestalt eines Hofes umsäumt ist. Sie sind im allgemeinen, sobald
+sie reif geworden sind, kegelförmig. Das dickere Ende ist das vordere,
+welches auch zuerst in das Ei eindringt und den chromatophilen Körper nebst
+dessen Hof enthält; der sogenannte glänzende Körper sitzt im Schwanzende des
+Zoosperms.
+
+*Van Beneden* behauptet nun, dass am Ascaris-Ei das Eindringen des
+Samenfadens stets an einer ganz bestimmten Stelle stattfinde. Es sei diese
+gekennzeichnet durch eine radiärstreifige scheibenförmige Verdickung des
+Eiprotoplasmas (Disque polaire)^[Dem Disque polaire vergleichbare Bildungen
+wies später *Kupffer* beim Forellen-Eie nach, hier aber in der
+Mehrzahl[@kf1886bfz].]. Die Mitte dieses Discus zeige eine rundliche
+Oeffnung, durch welche das bewegliche unveränderte Eiprotoplasma in Gestalt
+eines Pfropfes bis an die Oberfläche des Discus vorrage (Bouchon
+d’imprégnation). An dieser Stelle habe auch die Eimembran, die sonst den
+Discus mitbedeckt, eine entsprechende Unterbrechung. Das vordere
+protoplasmatische, nicht von der Membran umhüllte Ende des eindringenden
+Zoosperms setze sich nun durch diese, eine Mikropyle darstellende Oeffnung
+fest an den Bouchon d’imprégnation an, verbinde sich mit dem letzteren und
+werde nun durch dessen Retraction in das Innere des Eies hineingezogen.
+Dabei verschmelze dann die Membran des Samenkörpers, während dessen hinteres
+zugespitztes Ende durch die Mikropyle hindurchgeht, mit der Eimembran,
+ziehe sich vom Samenkörper ab und es werde, so die Mikropyle verschlossen
+und eine Barriere gegen das weitere
+
 # Einzelnachweise und Fußnoten
 
 
