@@ -2789,7 +2789,13 @@ ihm gefundene und benannte Richtungsspindel ausgestossen. Erst *Hertwig* und
 *Fol* deckten den wahren Sachverhalt, insbesondere bei den Echinodermen,
 deren Richtungskörper E.&nbsp;*van Beneden* nachgewiesen hatte, auf.]
 
-
+Halten wir nun die fundamentale Thatsache fest, dass das, was nach 
+Ausstossung der Richtungskörperchen vom Keimbläschen und Keimfleck
+morphologisch übrig bleibt, der weibliche Pronucleus oder Eikern *Hertwig*’s
+ist, welcher zur Verschmelzung mit dem Spermakern bestimmt ist. Es zeigt sich
+also, dass aus dem ursprünglichen Keimbläschen erhebliche Theile entfernt
+werden müssen, bevor dasselbe copulationsfähig wird. Am klarsten geht dies
+wiederum aus den Angaben E.&nbsp;*van Beneden*’s hervor.
 
 
 einem weiblichen Vorkerne stattfinde, sondern dass das Spermatozoon im 
@@ -2901,7 +2907,82 @@ werde nun durch dessen Retraction in das Innere des Eies hineingezogen.
 Dabei verschmelze dann die Membran des Samenkörpers, während dessen hinteres
 zugespitztes Ende durch die Mikropyle hindurchgeht, mit der Eimembran,
 ziehe sich vom Samenkörper ab und es werde, so die Mikropyle verschlossen
-und eine Barriere gegen das weitere
+und eine Barriere gegen das weitere Eindringen von Samenfäden gebildet.
+In 6 Fällen unter vielen tausenden sah E.&nbsp;*van Beneden* zwei Samenkörper
+eingetreten; wahrscheinlich waren diese bei der Fixation am Bouchon
+d’imprégnation mit einander verklebt gewesen. Mehr als zwei wurden niemals
+im Ei gefunden. Die Mikropyle entspricht stets einem der Endpunkte der
+organischen Axe des Eies.
+
+Ich will hier gleich einschalten, dass O. *Zacharias*[@zo1887ama] in
+Hirschberg, welcher im vorigen Jahre die Befruchtungsvorgänge bei Ascaris
+megalocephala aufs Neue untersuchte, keine solche bestimmte Mikropyle, weder
+bei Ascaris megalocephala noch bei Ascaris suilla finden konnte. Er lässt
+deshalb die Spermatozoen an beliebigen Stellen eindringen und schreibt ihnen
+die Fähigkeit zu, dass sie die Dotterhaut aufzulösen im Stande seien. So
+äusserte sich auch schon früher
+*Carnoy*[@cjb1885lac; @cjb1886lac; @cjb1887lac] und *van Gehuchten*[@vg1887aa]
+bestätigt dies. Es ist in diesem Falle sehr schwer zu erklären, warum dann
+der Regel nach, wie *Zacharias* bestätigt, immer nur ein Zoosperm seinen Weg
+in das Ei-Innere findet.
+
+Von dem Augenblicke der Fixation des Samenkörpers am Bouchon d’imprégnation
+an zeigt derselbe sich stärker lichtbrechend und wird, auch in seinem
+protoplasmatisehen Theile, in auffallender Weise stärker tinctionsfähig. Es
+ist dies, wie *van Beneden* hervorhebt, ein vortreffliches Mittel, die
+eindringenden von den bloss angeklebten Samenkörpern zu unterscheiden.
+
+Ich will nun, um die Darstellung der am männlichen Elemente sich vollziehenden
+Veränderungen nicht zu unterbrechen, diese bis zum sogenannten Copulationsacte
+schildern, bemerke aber wiederholentlich, dass das eingedrungene Spermatozoon
+so lange keine bemerkenswerten Veränderungen zeigt, als nicht die beiden
+Richtungskörperchen vom Keimbläschen abgestossen sind.
+
+Das Protoplasma des Zoosperms und der glänzende Körper (der Verbleib der
+Membran wurde bereits angedeutet) trennen sich von dem chromatophilen Körper
+und dessen hellem Hofe ab und vermischen sich mit dem Eiprotoplasma; mitunter
+fand *van Beneden* auch Reste des glänzenden Körpers in der sogenannten
+„perivitellinen Flüssigkeit“, die sich ebenfalls während dieser Vorgänge aus
+dem Ei abscheidet (vgl. Fig.&nbsp;14). Das Protoplasma löst sich erst später
+ab und umgibt noch in Form einer Calotte eine Zeitlang den pronucleus 
+masculinus während dessen Bildung. Was nun aus diesen vom Zoosperm
+abgestossenen Theilen wird, ob dieselben einfach als Auswürflinge zu
+betrachten sind, die vom Ei assimilirt werden (&thinsp;*van Beneden*
+gebraucht den Ausdruck „Digestion“) oder ob ihre Mischung mit dem
+Eiprotoplasma auch ein für die Befruchtung notwendiger Act ist, das lässt sich
+zur Zeit nicht entscheiden. Ich komme später noch auf diesen Punkt zurück.
+
+Die vom Zoosperm übrig gebliebenen Theile, das Chromatinkörperchen und die
+dasselbe umgebende helle Substanz, die *van Beneden* auch als eine Kernsubstanz
+ansieht, wandeln sich dann in den männlichen **Vorkern** um. Das 
+Chromatinkörperchen zeigt sich dabei oft aus zwei distincten Portionen
+zusammengesetzt. Die Art der Umwandlung wird von E.&nbsp;*van Beneden* sehr
+genau beschrieben. Im Wesentlichen sieht man dabei das Chromatinkörperchen
+zunächst in ein feines Netzgerüst, in welchem später ein einziger
+verschlungener Faden auftritt, sich umwandeln; der Faden besteht aus einer
+achromatischen Grundsubstanz und varicös in dieser aufgereihten
+Chromatinkörnchen; auch bildet sich eine ebenfalls aus kleinen achromatischen
+Granulis bestehende Hülle um das Ganze. Von dem Hauptfaden aus gehen aber
+innerhalb der Hülle noch feine zarte Fäden an verschiedenen Stellen ab, die
+unter sich ein feines Netzwerk bilden. Dies alles ist ausgefüllt mit einer
+hellen flüssigen Substanz. Da die Masse des sich ausbildenden Pronucleus
+stetig zunimmt, so muss angenommen werden, dass sie aus dem umgebenden
+Eiprotoplasma Theile sich assimilirt.
+
+Genau in derselben Weise, wie der Pronucleus masculinus aus dem Kernantheile
+des Zoosperms, bildet sich nun auch, nach Abstossung der Richtungskörperchen,
+aus dem Kernreste des Eies der Pronucleus femininus. Dieser Kernrest enthält
+nach der Ausstossung beider Richtungskörperchen nur noch ein Viertel der 
+ursprünglichen chromatischen Substanz des Keimbläschens. Aber auch hier tritt
+ein, was beim männlichen Pronucleus gesagt wurde, die Substanz des weiblichen
+Pronucleus **wächst** während seiner Ausbildung, wahrscheinlich auf Kosten des
+umgebenden Eiprotoplasmas. E.&nbsp;*van Beneden* sagt in dieser Beziehung
+ausdrücklich, Recherches etc. l.&nbsp;c. p.&nbsp;287: „Le but de l’élimination
+qui se fait dans les globules polaires ne peut donc être de diminuer la
+quantité de substance chromatique du nucléole de l’oeuf; cette expulsion ne
+peut être conçue que comme une épuration.“
+
+Eine sehr bemerkenswerthe Thatsache ist die vollständige Gleich
 
 # Einzelnachweise und Fußnoten
 
