@@ -2797,6 +2797,18 @@ also, dass aus dem ursprünglichen Keimbläschen erhebliche Theile entfernt
 werden müssen, bevor dasselbe copulationsfähig wird. Am klarsten geht dies
 wiederum aus den Angaben E.&nbsp;*van Beneden*’s hervor.
 
+Letzterer fand nämlich, wie bemerkt, dass die Ausstossung der
+Richtungskörperchen bei Ascaris ausnahmslos erst dann stattfindet, wenn das
+betreffende Zoosperm schon in den Eikörper eingedrungen ist. Letzteres schickt
+sich, obgleich es in unmittelbarer Nähe des Keimbläschens liegt, doch nicht
+eher zur Vereinigung mit diesem an, als bis die Richtungskörperchen beide
+ausgestossen sind. Es erscheint also die Bildung dieser letzteren als ein
+notwendiges Glied in der Kette der gesammten Befruchtungsvorgänge. Wir
+werden später sehen, wie man die Bedeutung der Richtungskörperchen aufgefasst
+hat; kehren wir jetzt erst zur Frage **nach den intimeren Vorgängen bei
+der Verschmelzung** des männlichen und weiblichen Vorkerns zurück,
+
+
 
 einem weiblichen Vorkerne stattfinde, sondern dass das Spermatozoon im 
 Eidotter „wie eine Wolke“ zerfliesse. Er kommt damit wieder auf den älteren
@@ -2982,7 +2994,155 @@ qui se fait dans les globules polaires ne peut donc être de diminuer la
 quantité de substance chromatique du nucléole de l’oeuf; cette expulsion ne
 peut être conçue que comme une épuration.“
 
-Eine sehr bemerkenswerthe Thatsache ist die vollständige Gleich
+Eine sehr bemerkenswerthe Thatsache ist die vollständige Gleichheit der beiden
+Pronuclei. Schon E.&nbsp;*van Beneden* betont dieselbe. *Kultschitzky*,
+l.&nbsp;c. gelang es in dieser Beziehung noch einige interessante neue
+Einzelheiten aufzudecken. So fand er jeden Pronucleus mit einem
+**Kernkörperchen** ausgerüstet. In einer Anzahl von Fällen finden sich in
+jedem Pronucleus zwei Kernkörperchen, selten drei, allemal aber ist die Zahl
+der Kernkörperchen in den beiden Pronucleis dieselbe.
+
+Die vollständige Gleichheit von Spermakern und Eikern ist von
+*Strasburger*[@sb1888] auch für manche Phanerogamen nachgewiesen worden. Im
+Gegensatze dazu fand *Platner*[@pl1886ama] bei Arion empiricorum eine
+auffallende Ungleichheit.
+
+Aber nicht allein der Kern der Eizelle stösst Elemente ab, sondern auch von
+dem Protoplasma des Eies sondern sich zur selben Zeit, wann die
+Richtungskörper austreten, Massen ab, welche in zwei peripheren Schichten um
+den Rest des Eies abgelagert werden und wie zwei Hüllen um diesen Rest
+erscheinen (couches perivitellines, s.&nbsp;Fig.&nbsp;14); dieselben nehmen
+an den weiteren Entwicklungsvorgängen keinen Antheil. E.&nbsp;*van Beneden*
+weist darauf hin, dass auch bei anderen Eiern die Absonderung einer ähnlichen
+Substanz, des Liquor perivitellinus, constatirt ist, und vergleicht mit diesem
+die Couches perivitellines des Ascaris-Eies.
+
+Wann nun beide Pronuclei aus dem Zoospermreste und dem Keimbläschenreste
+gebildet worden sind, dann soll nach der Darstellung der Meisten der
+eigentliche Befruchtungsact, die Verschmelzung der beiden Pronuclei zum
+Furchungskern vor sich gehen. In der Darstellung dieser sogenannten
+„Verschmelzung“ weicht aber E.&nbsp;*van Beneden* völlig von allen übrigen
+Autoren ab. Ihm zufolge gestaltet sich dieser wichtige Act folgendermaassen:
+Der varicöse Chromatinfaden beider Pronuclei, die sich inzwischen dicht
+aneinander gelegt haben, **ohne zu verschmelzen**, theilt sich (quer) in zwei
+gleich lange Stücke, die jedes eine ungefähr U-förmige Schlinge bilden. Vor
+dieser Quertheilung treten an dem varikösen Chromatinfaden noch einige
+Veränderungen seiner Gestalt und Grösse auf; auch lagert er sich von der
+Oberfläche, welche er im Beginn einnimmt, mehr in das Centrum der Pronuclei.
+Wir haben alsdann vier solcher Schlingen (Chromosomen), zwei männliche und
+zwei weibliche. Dann spaltet sich jede Schlinge der Länge nach in zwei
+Schwesterfäden, von denen jeder bis in die kleinsten Einzelheiten das getreue
+Spiegelbild seines Partners ist. Vorher schon tritt, wie bei der
+karyokinetischen Theilung jeder gewöhnlichen Zelle, eine Spindelfigur auf,
+zusammengesetzt aus Fäden, die nach zwei entgegengesetzten Polen (den spheres
+attractives) zusammen­laufen. Dabei schwinden die Umrisse der bis jetzt noch
+völlig-getrennten beiden Pronuclei. In der Mitte zwischen beiden Polen der
+Spindelfigur, also am Aequator derselben, liegen die nunmehr (durch die
+genannte Längsspaltung) auf die Zahl 8 gebrachten chromatischen Fäden, vier
+männliche und vier weibliche. An den beiden Polen der Spindel zeigt sich das
+glänzende Polkörperchen und die Polstrahlung. Jetzt rücken die beiden aus je
+einem primären Faden entstandenen Schwesterfäden auseinander nach den Polen
+der Spindelfigur hin und zwar so, dass der eine Faden zum Pole *a*, der andere
+zum Pole *b* wandert und auf diese Weise dann zwei männliche Fäden und zwei
+weibliche zum Pole *a*, und ebenso zwei männliche und zwei weibliche Fäden
+zum Pole *b* gelangen. Dort entsteht aus diesen Fäden wieder die chromatische
+Substanz je eines Tochterkerns, es folgt zwischen den beiden Tochterkernen
+die Theilung der Eizelle und damit sind die beiden ersten Furchungskugeln
+gegeben, deren jede nun gleich viel männliche und gleich viel weibliche
+Kernelemente enthält. Ich will hier, da es in kurzer Darstellung nicht gut
+möglich ist, zumal ohne Abbildungen, sich leicht verständlich zu machen, auf
+die weiteren Angaben E.&nbsp;*van Beneden*’s bezüglich des Verhaltens der
+chromatischen Schlingen bei der Reconstruirung der Tochterkerne nicht näher
+eingehen. Nur sei bemerkt, dass von den vier secundären Schlingen, aus denen
+jeder Tochterkern sich aufbaut — nennen wir sie mit van Beneden: *a*, *b*,
+*c* und *d*, — je zwei sich im ruhenden Tochterkern vereinigen, somit zwei
+Gruppen *a&thinsp;b* und *c&thinsp;d* entstehen, dass diese beiden Gruppen
+aber unabhängig von einander bleiben. Theilt sich nun der Tochterkern aufs
+neue bei der zweiten Furchung in vier Schlingen — seien es *m*, *n*, *p*, *q*
+— so geschieht dies nicht in der Weise, dass etwa die früheren Schlingen
+*a*, *b*, *c*, *d* wieder hergestellt würden, dass also *m* etwa = *a*,
+*n* = *b* u.&nbsp;s.&nbsp;f. wäre, sondern so, dass *m* = ½&thinsp;*a&thinsp;b*,
+*n* = ½&thinsp;*a&thinsp;b*, *p* = ½&thinsp;*c&thinsp;d*,
+*q* = ½&thinsp;*c&thinsp;d* wird.
+
+Man kann nun nicht durch die Beobachtung entscheiden, ob die Gruppe
+*a&thinsp;b* die beiden männlichen Schlingen, *c&thinsp;d* die beiden weiblichen
+enthält, oder ob in jeder Gruppe eine männliche mit einer weiblichen Schlinge
+vereinigt ist, dass also *a* und *c* die männlichen, *b* und *d* die
+weiblichen wären. Freilich, meint *van Beneden*, sei das erstere
+(&thinsp;*a&thinsp;b* = männliche, *c&thinsp;d* = weibliche Schlingen) das
+wahrscheinlichere, da ja in der befruchteten Eizelle mit getrennten männlichen
+und weiblichen Pronucleis die Sache so wäre, und man nicht gut annehmen könne,
+dass die Tochterzellen sich in diesem Punkte anders verhielten wie die
+Mutterzelle.
+
+Wie wir sehen, handelt es sich nach dieser Darstellung durchaus nicht mehr
+um einen **Verschmelzungsprozess**, sicherlich nicht der chromatischen
+Substanz. Diese wird nur an die beiden, bei der ersten Furchung zu bildenden
+Tochterkerne gleichmässig **vertheilt**. Es ist daher auch schwer den
+Augenblick der eigentlichen **Befruchtung** nach dieser Darstellung zu
+fixiren. E.&nbsp;*van Beneden* verlegt ihn, s.&nbsp;darüber noch w.&nbsp;u.,
+in den Moment, **wann die beiden Pronuclei fertig werden**. In seine
+Definition der Befruchtung legt er aber noch etwas Weiteres hinein. Da die
+Samenzelle nach Abstossung eines Theiles ihrer Elemente etwas anderes ist als
+vorher, so nennt sie *van Beneden* nicht mehr Zelle, sondern: „männlicher
+Gonocyt“, ebenso bezeichnet er die Eizelle nach Abstossung der
+Richtungskörperchen und der Couches perivitellines als „weiblicher Gonocyt“.
+Führen wir diese Namen ein, so kann man die Befruchtung mit
+E.&nbsp;*van Beneden* definiren als: **den Ersatz gewisser, dem weiblichen
+Gonocyten verloren gegangener Theile durch Theile des männlichen Gonocyten**
+(remplacement par certains éléments dérivés du gonocyte mâle des parties
+éliminées par l’oeuf lors de la formation des globules polaires et des
+couches périvitellines, s.&nbsp;l.&nbsp;c.[@vbe1883], p.&nbsp;312 und
+p.&nbsp;402).
+
+E. *van Beneden* findet also, wenn auch in anderer Weise, bei Ascaris 
+megalocephala denselben wichtigen Vorgang, wie ihn *Nussbaum* von Leptodera
+nigrovenosa annimmt, d.&nbsp;h. die gleichmässige Vertheilung männlicher und
+weiblicher Kernelemente auf die beiden ersten Tochterkerne. Hat *van Beneden*
+mit seinen Schilderungen Recht, dann würden wir damit einen tiefen Einblick
+in die Bedeutung der karyokinetischen Erscheinungen gewinnen. Ich habe schon
+vorhin&nbsp;(I) gegen die absprechenden Meinungen von *Fol*, *Brass* und
+*Fraisse*, die den Figuren der chromatischen Fäden nur eine untergeordnete
+Bedeutung vindiciren wollen, meine Bedenken hervorgehoben. Angesichts des
+von *van Beneden* Vorgebrachten muss man den Erscheinungen und Veränderungen
+der chromatophilen Substanz die höchste Bedeutung zuschreiben. *Van Beneden*
+zieht auch ebenso wie *Nussbaum* den Schluss, dass diese Vorgänge für die
+**Vererbungsthatsachen** ausserordentlich wichtig seien, denn man dürfe
+annehmen, dass derselbe Vorgang, wie bei der ersten Zelltheilung, sich auch
+bei allen folgenden vollziehe, dass bei jeder Theilung nämlich die männlichen
+von den weiblichen chromatophilen Elementen getrennt blieben und sich
+gleichmässig auf die Tochterzellen verteilten. Daraus folge dann unmittelbar,
+dass jede Zelle unseres Körpers männliche und weibliche Elemente enthielte und
+somit hermaphroditischer Natur sei. Damit würde auch die Meinung von *Hensen*
+stimmen, welche bekanntlich (s.&nbsp;Physiologie der Zeugung) dahin geht, dass
+die Urform der Zeugung die geschlechtliche und nicht die ungeschlechtliche
+sei.
+
+E. *van Beneden* geht aber weiter und stellt auch eine sehr ansprechende
+Hypothese über die Bedeutung der Richtungskörper auf. Ist die Eizelle als
+hermaphroditischer Körper, wie alle Zellen, mit männlichen Elementen versehen,
+so muss sie dieselben vor der Befruchtung ausstossen, um eine neue weibliche
+Zelle zu werden. In den Richtungskörperchen nun erblickt E.&nbsp;*van Beneden*
+die ausgestossenen männlichen Elemente der Ei-Zelle. — Ist diese Anschauung
+richtig, dann müssen aber auch bei der Bildung der Samenfäden
+Richtungskörperchen, welche hier die weiblichen Elemente repräsentiren würden,
+ausgestossen werden. E.&nbsp;*van Beneden* und *Julin*[@vbej1884bel] haben
+dies in der That bei Ascaris megalocephala nachgewiesen. Sie betrachten die
+von ihnen sogenannten „corpuscules residuels“, die bei der Theilung der
+samenbildenden Zellen abfallen, als die Richtungskörper der Samenfäden. Ich
+selbst habe früher (s.&nbsp;*Renson*, Spermatogénèse, Arch.&nbsp;de Biologie
+1879) die Meinung geäussert, als ob die sog. Nebenkerne, die bei der Bildung
+der Spermatozoen erscheinen, als Aequivalente der Richtungskörper aufzufassen
+seien. Ich sehe, dass *Weismann* (Zahl der Richtungskörper l.&nbsp;c.
+p.&nbsp;62) derselben Ansicht ist; er möchte indessen den Nebenkern als
+„ersten Richtungskörper“ auffassen.
+
+Es konnte nicht fehlen, dass eine so bedeutende und unsere bisherigen
+Vorstellungen vielfach umwälzende Arbeit wie die besprochene, zu
+Nach-Untersuchungen und Widerspruch herausforderte. Vieles, was
+E.&nbsp;*van Beneden* gewonnen hat, kann als ge-
+
 
 # Einzelnachweise und Fußnoten
 
