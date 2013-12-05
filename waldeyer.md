@@ -2808,6 +2808,16 @@ werden später sehen, wie man die Bedeutung der Richtungskörperchen aufgefasst
 hat; kehren wir jetzt erst zur Frage **nach den intimeren Vorgängen bei
 der Verschmelzung** des männlichen und weiblichen Vorkerns zurück,
 
+Die früheren Bearbeiter dieser Frage, mit Ausnahme *Flemming*’s, kommen,
+wie bemerkt, über den einfachen Begriff der „Verschmelzung“ nicht hinaus,
+und es wird bei ihnen den einzelnen Bestandtheilen der zu verschmelzenden
+Kerne keine weitere Rechnung getragen (so die älteren Angaben
+O.&nbsp;*Hertwig*’s, *Fol*’s, u.&nbsp;A.). *Flemming*[@fw1881ama]
+unterscheidet schon genauer zwischen den verschiedenen Substanzen der
+copulierenden Kerne und beschreibt eingehend den Copulationsvorgang. Ihm
+zu Folge würde wesentlich das Chromatin des männlichen Vorkerns
+
+
 
 
 einem weiblichen Vorkerne stattfinde, sondern dass das Spermatozoon im 
@@ -3141,7 +3151,82 @@ p.&nbsp;62) derselben Ansicht ist; er möchte indessen den Nebenkern als
 Es konnte nicht fehlen, dass eine so bedeutende und unsere bisherigen
 Vorstellungen vielfach umwälzende Arbeit wie die besprochene, zu
 Nach-Untersuchungen und Widerspruch herausforderte. Vieles, was
-E.&nbsp;*van Beneden* gewonnen hat, kann als ge-
+E.&nbsp;*van Beneden* gewonnen hat, kann als gesichertes Eigenthum der
+Wissenschaft angesehen werden. Die einschneidendste Behauptung indessen, dass
+es sich bei der Befruchtung nicht um eine **Verschmelzung**, sondern um eine
+**Vertheilung** der achromatischen Kernsubstanz handle, sowie die daran
+geknüpften Folgerungen von dem Hermaphroditismus der Zellen und der Bedeutung
+der Richtungskörperchen, ist lebhaft bekämpft worden. Wenden wir uns zunächst
+zu den Angaben, welche die von E.&nbsp;*van Beneden* vorgebrachten Thatsachen
+bestätigen, so sei zunächst die in Gemeinschaft mit A.&nbsp;*Neyt*
+veröffentlichte neuere Arbeit E.&nbsp;*van Beneden*’s[@vben1887bel] selbst
+hervorgehoben. Für eine verschwindend kleine Anzahl von Fällen wird hier
+allerdings zugestanden (p.&nbsp;28), dass eine „fusion“ der beiden pronuclei
+stattfinde; es wird jedoch mit Recht hervorgehoben, dass dieser Vorgang völlig
+bedeutungslos sei angesichts der Thatsache, dass man sie nur ganz ausnahmsweise
+beobachten könne. („Les deux éléments (pronuclei) représentent ensemble un
+noyau complet, et il est absolument indifferent qu’ils s’accolent et se
+fondent ou non l’un avec l’autre puisque, chez l’Ascaris, cette fusion n’a
+pas lieu dans l’immense majorité des oeufs“.) Weiterhin, p.&nbsp;36, hebt
+E.&nbsp;*van Beneden* ganz richtig die Schwierigkeiten hervor, welche in
+denjenigen Fällen vorliegen, wo beide Pronuclei dicht aneinander gelagert sind;
+hier kann es unmöglich sein, zu entscheiden, ob das Chromatin beider Pronuclei
+irgendwie zusammengeflossen, vereinigt worden ist, oder nicht; es ist natürlich
+dann aber auch nicht zulässig in solchen Fällen eine stattgehabte wirkliche
+Verschmelzung zu behaupten. Allen diesen unbestimmt bleibenden Fällen steht
+immer die grosse Mehrzahl derer gegenüber, in welchen man ganz bestimmt zu
+keiner Zeit von einer Verschmelzung reden kann.
+
+*Boveri*[@bt1887ber] spricht sich bezüglich der Verschmelzung ganz im Sinne
+von E.&nbsp;*van Beneden* aus; ebenso *Kultschitzky*[@ku1887ama; @ku1888sbp],
+dessen Präparate mir vorgelegen haben und dem ich darin völlig zustimmen kann.
+Wir vermochten **nicht einen einzigen Fall** von Verschmelzung festzustellen.
+
+Besonders werthvoll erscheint mir, dass auch an einem andern Objekte, bei
+Arion empiricorum, die Angaben *van Beneden’*s in allem Wesentlichen bestätigt
+werden konnten. Ich lasse deshalb den Inhalt der betreffenden Arbeit von
+*Platner*[@pl1886ama], so weit er sich auf die hier in Rede stehenden Vorgänge
+bezieht, auszüglich folgen:
+
+Bei Arion findet das Eindringen der lang fadenförmigen Samenkörper an keiner
+bestimmten Stelle statt. Der Eikern (pronucleus femininus) bleibt an der
+Austrittsstelle der Richtungskörper (Richtungspol) liegen. Während der
+Samenfaden sich dem Eikern nähert, entsteht ein heller Hof um die chromatische
+Substanz des Kopfes; letztere, so wie der Schwanzfaden nehmen an
+Färbefähigkeit zu, der Faden aber nur, soweit er im Ei liegt, nicht auch das
+etwa aussen noch vorragende Ende.
+
+Niemals dringen mehrere Samenkörper gleichzeitig ein; gelangt ein solcher
+später noch in das Ei, nachdem bereits ein Faden vom Ei Besitz genommen hat,
+so geht der spätere, ohne dass man weitere besondere Veränderungen an ihm 
+wahrnimmt, zu Grunde.
+
+Falls das Spermatozoon eindringt, **bevor** die Richtungskörper ausgestossen
+sind, bildet sich aus dem Kopfe ein **grosser** Spermakern, im anderen Falle
+nur ein **kleiner**. Diese Beobachtung O.&nbsp;*Hertwig*’s hier bestätigend,
+nimmt *Platner* zur Erklärung derselben mit *Hertwig* an, dass im ersteren
+Falle der sich bildende Spermakern noch von dem während der
+Richtungskörper-Bildung im Eiprotoplasma sich auflösenden Kernsafte Theile
+aufnehmen könne.
+
+Der Keimbläschenrest (Eikern) erleidet folgende Umwandlungen: Es treten in ihm
+eine Anzahl keimfleckähnlicher Körper von unregelmässig eckiger Form auf, die
+anfangs sich durchweg gleich färben. Ihre Form wird später kugelig und lässt
+dann jede Kugel drei Stücke erkennen, ein mittleres blasses, welches keinen
+Farbstoff annimmt, und zwei demselben polar anhängende stark sich färbende
+Chromatinkügelchen. Jede solche blasse Kugel mit ihren zwei Chromatinkügelchen
+nennt *Platner* ein „**Karyosoma**“.
+
+Es bilden sich nun zwei Astern am Eikern und geht dessen Membran verloren. Um
+diese Zeit dringt der umgewandelte Spermatozoenkopf, um den ebenfalls ein
+Aster sichtbar wird, in den membranlosen Eikern ein und verliert dabei seinen
+Aster. Man könne jetzt, meint *Platner*, das im Ei vorhandene Kerngebilde, in
+welchem nunmehr männliche und weibliche Elemente zusammenliegen, als
+„Furchungskern“ bezeichnen.
+
+Die blassen Bestandteile der (weiblichen) Karyosomen wandeln sich nun zu den
+achromatischen Fäden einer Kernspindel um,
+
 
 
 # Einzelnachweise und Fußnoten
