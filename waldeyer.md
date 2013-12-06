@@ -2815,7 +2815,12 @@ Kerne keine weitere Rechnung getragen (so die älteren Angaben
 O.&nbsp;*Hertwig*’s, *Fol*’s, u.&nbsp;A.). *Flemming*[@fw1881ama]
 unterscheidet schon genauer zwischen den verschiedenen Substanzen der
 copulierenden Kerne und beschreibt eingehend den Copulationsvorgang. Ihm
-zu Folge würde wesentlich das Chromatin des männlichen Vorkerns
+zu Folge würde wesentlich das Chromatin des männlichen Vorkerns in den
+weiblichen Vorkern übergeführt und damit dessen Chromatinvorrath vermehrt.
+Er hat auch sein Augenmerk auf die helle Substanz gerichtet, welche in Form
+eines Hofes das Chromatin des männlichen Vorkerns umgiebt und sich auch noch
+im Augenblicke der Copulation nachweisen lässt; doch gelang es ihm nicht, über
+deren Verbleib in’s Reine zu kommen.
 
 
 
@@ -3225,9 +3230,111 @@ welchem nunmehr männliche und weibliche Elemente zusammenliegen, als
 „Furchungskern“ bezeichnen.
 
 Die blassen Bestandteile der (weiblichen) Karyosomen wandeln sich nun zu den
-achromatischen Fäden einer Kernspindel um,
+achromatischen Fäden einer Kernspindel um, während die Chromatinkügelchen sich
+im Aequator der Kernspindel ansammeln. Gleichzeitig entstehen durch Theilung
+des hellen Hofes sammt der chromatischen Substanz des Spermakerns **zwei**
+männliche Karyosomen, welche aber vorerst die Veränderungen der weiblichen
+Karyosomen nicht mitmachen. Alle nachweislich aus dem Protoplasma und dem
+Nebenkern der Samenbildungszellen (Spermatiden, *v.&nbsp;La Valette
+St.&nbsp;George*) hervorgegangenen Theile: Faden und ein kleines blasses an
+der Grenze zwischen Kopf und Faden befindliches Körperchen, werden abgestossen
+und nach und nach im Protoplasma der Eizelle aufgelöst; also entstehen die
+beiden männlichen Karyosomen nur aus dem **Kernantheile** des Samenkörpers.
 
+Die blasse Substanz der männlichen Karyosomen wird nun wahrscheinlich auch zu
+achromatischen Spindelfäden, während die Chromatinkügelchen sich theilen, so
+dass wir 8 Kügelchen erhalten, von denen wieder je 2 zu einem Doppelkügelchen
+verbunden sind. Diese 8 oder (wenn man die Doppelkügelchen rechnet) 4
+männlichen chromatischen Elemente gesellen sich den weiblichen
+Chromatinkügelchen zu und es ordnen sich dann alle vorhandenen
+Chromatinkügelchen zu einer Aequatorialplatte (Mutterstern) an, indem je vier
+Kügelchen eine Gruppe bilden. Solcher Gruppen sind — genaue Zählungen waren
+nicht möglich — 16-20 in der Aequatorialplatte vorhanden. Eine Verschmelzung
+männlicher und weiblicher Chromatinkügelchen findet dabei nicht statt;
+*Plattner* sagt hier­über p.&nbsp;67 wörtlich: „Auch bei **Arion** gerathen
+zwar die aus dem Kopf des Spermatosoms hervorgegangenen beiden Karyosomen
+anscheinend in die Höhlung des Eikerns, aber zu einer Verschmelzung mit den
+Bestandtheilen desselben kommt es nicht, vielmehr betheiligen sich männliche
+und weibliche Kerntheile gesondert an dem Aufbau der Furchungsspindel.“
 
+Jede Vierer-Gruppe verschmilzt nun zu einer grösseren Chromatinkugel
+(Chromosoma m.). Diese Chromosomen strecken sich sammt der Spindelfigur in die
+Länge und werden so zu kurzen Stäbchen umgeformt; dann folgt die typische
+*Flemming*’sche Längstheilung der Chromosomen zu je zwei Halbstäbchen, die
+nun wie bei einer regelrechten Mitose zu beiden Polen auseinander­weichen, um
+in das Chromatin der beiden ersten Furchungskugeln einzugehen. — Bezüglich der 
+Verschmelzungfrage stimmen, wie man sieht, die Beobachtungen *Platner*’s bei
+Arion sehr gut mit denen *van Beneden*’s bei Ascaris überein; nur ist die
+auffallende Abweichung hervorzuheben, dass die Masse des männlichen und
+weiblichen Chromatins so ungleich ist, während bei Ascaris, wie ausdrücklich
+bemerkt wurde, eine völlige Gleichheit besteht.
+
+*Carnoy* (l. l. c. c.) steht so zu sagen in der Mitte zwischen den Anhängern
+und Gegnern E.&nbsp;*van Beneden*’s.
+
+In seinen beiden Abhandlungen: „La vésicule germinative et les globules
+polaires de l’Ascaris mégalocephale“ und „La vésicule germinative et les
+globules polaires chez quelques nématodes“, s.&nbsp;die von ihm herausgegebene
+Zeitschrift; La cellule, T.&nbsp;II et III, 1886, kommt er zu dem Ergebnisse,
+dass in manchen Fällen eine Verschmelzung, also ein wirklicher Furchungskern
+im Sinne O.&nbsp;*Hertwig*’s zu Stande komme, in manchen jedoch nicht und dass
+in diesen Fällen die Furchung beginne, ehe eine Conjugation der Pronuclei
+stattgefunden habe. Wäre dem so, so würde auch die Verschmelzung keine
+besondere Bedeutung haben.
+
+Dem gegenüber halten *Nussbaum*[@nu1884ama] und O.&nbsp;*Zacharias*[@zo1887ama]
+an dem regelmässigen Eintritte einer Verschmelzung fest. *Zacharias*, welcher
+gerade den Befruchtungsvorgang bei Ascaris megalocophala nach E.&nbsp;*van
+Beneden* und *Carnoy* am eingehendsten verfolgt hat, meint, dass *van Beneden*
+das Verschmelzungsstadium übersehen habe. Es kämen bei der genannten Species
+zwei Fälle vor. Im ersten Falle blieben nach Ausstossung der beiden
+Richtungskörper von der chromatophilen Substanz des Keimbläschens **zwei**
+Chromatinkügelchen übrig, ebensolche zwei Kügelchen zeige der eingedrungene
+Samenkörper und wird darin *van Beneden*’s Angabe bestätigt. Es treten aber
+nun je ein männliches und je ein weibliches Kügelchen, nach Bildung einer
+Membran um dieselben, zu einem kernähnlichen Gebilde zusammen. Dieses zerfalle
+in eine grosse Menge von Mikrosomen, die sich mit einander derartig vermengen
+und in einen Fadenknäuel zusammenlegen, dass es unmöglich sei, darin die
+männlichen und weiblichen Elemente auseinander zu halten. Offenbar sind diese
+beiden so umgestalteten kernähnlichen Gebilde die beiden Pronuclei E.&nbsp;*van
+Beneden*’s. Wenn es nunmehr im weiteren Ablaufe der Erscheinungen zur ersten
+Furchung komme, so trete keine weitere Verschmelzung der chromatischen
+Fadenknäuel dieser beiden Pronuclei mehr ein. Die Kernmembran um jeden 
+chromatischen Knäuel schwinde, jeder Knäuel zerfalle in zwei V-förmige
+Fadenschlingen, jede dieser Schlingen spalte sich durch Längstheilung in zwei 
+Schwesterfäden, die nun vorhandenen 8 Schlingen oder Schleifen ordneten sich
+zu einem Mutterstern um die inzwischen aufgetretene Spindelfigur, je vier der
+Schleifen gingen als Bestandtheile je eines der beiden Tochterkerne zu dem
+einen und dem anderen Pole der Spindelfigur und es folge nun die Zelltheilung.
+Den Ablauf der Erscheinungen schildert also, wie man sieht, *Zacharias*, wie
+*van Beneden*; nur soll der Letztere übersehen haben, dass in jedem seiner
+Pronuclei die Verschmelzung zwischen den männlichen und weiblichen
+Chromatinelementen bereits stattgefunden hatte, als sie ihre Umbildung zu den
+Fadenstructuren begannen.
+
+Im zweiten Falle läuft der Befruchtungsvorgang nach
+*Zacharias* in folgender Weise ab: Entweder werden alle vier chromatischen
+Befruchtungsgranula (die 2 männlichen und die 2 weiblichen) zusammen in eine
+gemeinsame Kernmembran eingeschlossen, oder die zwei männlichen für sich und
+die zwei weiblichen für sich. Sind alle vier zusammen in eine Membran
+eingeschlossen, dann erfolgt der Zerfall in Mikrosomen und eine Vermengung
+derselben nebst Ausbildung der Fadenstructur, der vier Schleifen, deren
+Längstheilung u.&nbsp;s.&nbsp;w., wie eben angegeben. *Zacharias* betrachtet
+nun die Vermengung der Mikrosomen, so dass man die männlichen und weiblichen
+Elemente nicht mehr auseinander halten könne, als den Verschmelzungsact. Werden
+die zwei männlichen Granula und die zwei weiblichen separat eingeschlossen,
+dann liegt die Sache so, wie sie *van Beneden* als ausnahmslose Begel
+geschildert hat, und muss nun der weitere Ablauf der Dinge die Probe auf das
+Exempel geben. Zacharias fand nun, dass zwar in der That, wie E.&nbsp;*van
+Beneden* angegeben hat, jeder der beiden jetzt geschlechtlich differenzirten
+Pronuclei sich in der geschilderten Weise fadig ausbilden kann, dann aber
+tritt nicht, wie es *van Beneden* schilderte, nur ein einfacher Austausch der
+Fäden ein, wobei sich die stets wohl unterscheidbaren männlichen von den
+weiblichen getrennt hielten, sondern beide Pronuclei **verschmelzen** noch vor
+der Ausbildung der deutlichen Fadenschlingen, im einfachen Mikrosomenstadium,
+so dass es bei den weiter ablaufenden Processen nicht mehr möglich ist, die 
+männlichen und weiblichen Elemente auseinander zu halten. — *Van Gehuchten*
+hält auch an der Verschmelzung der
 
 # Einzelnachweise und Fußnoten
 
