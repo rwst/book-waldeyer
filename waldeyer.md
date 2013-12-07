@@ -3334,7 +3334,81 @@ weiblichen getrennt hielten, sondern beide Pronuclei **verschmelzen** noch vor
 der Ausbildung der deutlichen Fadenschlingen, im einfachen Mikrosomenstadium,
 so dass es bei den weiter ablaufenden Processen nicht mehr möglich ist, die 
 männlichen und weiblichen Elemente auseinander zu halten. — *Van Gehuchten*
-hält auch an der Verschmelzung der
+hält auch an der Verschmelzung der männlichen und weiblichen Kernelemente
+fest, doch glaubt er die erste der von *Zacharias* beschriebenen Modalitäten
+nicht zulassen zu können.
+
+O. und R. *Hertwig*[@hwr1887] kommen ebenfalls zu dem Schlusse, dass der Eikern
+und der Spermakern sich ganz „durchdringen“ müssen, ein einfacher Austausch
+getrennt bleibender Chromatinfäden im Sinne *van Beneden*’s entspreche nicht
+den von ihnen beobachteten Verhältnissen. Sie fanden dabei, dass, wenn ein
+Spermatozoon in ein kernloses, aber noch lebendes **Bruchstück** des Eiplasmas
+eindringt, das erstere sich in eine Fadenspindel umwandeln kann. Auch wenn das
+Zoosperm und der Eikern nicht zur Vereinigung kommen, erlangen sie die
+Fähigkeit, sich karyokinetisch zu differenciiren, sobald sie nur im Eiplasma
+liegen. O.&nbsp;und R.&nbsp;*Hertwig* schliessen daraus, dass die
+Plasmasubstanz der Eizelle, sowie die Substanz der Spermatozoon mit
+eigenartigen Kräften ausgerüstet sein müssen, die aufeinander wirken, wenn
+beide Theile in Berührung kommen.
+
+Auch *Kölliker*[@kl1886zwz] theilt verschiedene Bedenken mit, die namentlich
+darin wurzeln, dass einzelne der Abbildungen E.&nbsp;*van Beneden*’s selbst
+für eine Verschmelzung sprächen, und dass die Aufrechterhaltung der Trennung
+von männlicher und weiblicher Kernsubstanz in den auf die ersten folgenden
+Tochterzellen doch thatsächlich noch nicht nachgewiesen sei.
+
+Eine Verschmelzung lehren uns ferner die wichtigen Beobachtungen
+A.&nbsp;*Schneider*’s[@sn1885cr]. Bei der Conjugation von Anoplophyra
+circulans (Infusorium) erscheinen die beiden Kerne als zwei quer gelegte
+parallele Stränge, die von der Mitte des einen Individuums zu der des andern
+ziehen. Nach der Conjugation enthält jedes der beiden Individuen zwei halbe
+Kerne, d.&nbsp;h. eine Hälfte seines früheren eigenen Kerns und eine Hälfte
+des Kerns seines Partners. Die beiden Kernhälften sollen nun völlig zu einem
+neuen Kerne **verschmelzen**. Eigentümlich sind die Angaben *Schneider*’s über
+die Nucleolen, deren jedes der copulirenden Thiere 4 besitzen soll; ob diese
+auch ausgetauscht werden, liess sich nicht entscheiden, dagegen verschwanden
+3 Nucleolen nach der Copulation, nur einer blieb erhalten. — Handelt es sich 
+hier vielleicht um Richtungskörperchen?
+
+Ich muss hervorheben, dass die Anhänger einer „Verschmelzung“ uns bisher noch
+keine klare Vorstellung von dem, was dar­unter zu verstehen sei, gegeben haben.
+Auch der von den Brüdern *Hertwig* gebrauchte Ausdruck „Durchdringung“ trägt
+nicht dazu bei, die Sache zu lichten. Bei allen Beobachtern finden wir erwähnt,
+dass die chromatophilen männlichen und weiblichen Elemente in „Mikrosomen“ im
+*Balbiani-Pfitzner*’schen Sinne zerfallen. Diejenigen, welche eine
+„Verschmelzung“ annehmen, können höchstens aussagen, dass eine „Vermengung“
+der Mikrosomen untereinander stattfinde, derart, dass es unmöglich sei, die
+weiblichen von den männlichen beiden Vorgängen zu unterscheiden. In der That
+kommen wir von den *van Beneden*’schen männlichen und weiblichen Fadenschleifen
+zu den männlichen und weiblichen Mikrosomen, und wir werden die Frage nach den
+intimeren Vorgängen der Befruchtung und nach dem Hermaphroditismus der Zellen,
+wie gesagt, erst dann lösen können, wenn es uns gelingt, durch irgend ein
+Reagens die männlichen von den weiblichen Mikrosomen zu unterscheiden.
+
+Sehr beachtenswerth sind in dieser Beziehung die neuesten Angaben von
+*Böhm*[@baa1887ber] aus dem *Kupffer*’schen Laboratorium in München. Ihm
+zufolge zerfallen bei den Neunaugen der männliche und weibliche Vorkern, die
+sich nach dem Eindringen der Spermatozoen bilden, in Stücke
+(Spermatomeriten-Karyomeriten). Diese Stücke bilden zunächst zwei noch
+getrennte Gruppen, wenn auch eng aneinanderliegend, und man kann beiderlei
+Meriten, die männlichen und die weiblichen, eine Zeit lang **mikrochemisch
+bequem unterscheiden**. Jeder Merit besteht aus einer chromatinarmen Hülle und
+einem darinliegenden chromatinreichen Kern, dem „Mikrosom“. Der definitive
+Furchungskern — ich citire textuell — entsteht dadurch, dass die Hüllen
+(Körper) der Karyo- und Spermatomeriten zu einer gleichartigen Masse
+**verschmelzen**, in welche die Mikrosomen, die man nun nicht mehr ihrer
+Abkunft nach auseinanderhalten kann, zu liegen kommen. Aus den Mikrosomen baut
+sich der chromatische Antheil der karyokinetischen Figur auf. Wir haben hier
+eine klare Beobachtung von einer Verschmelzung der achromatischen Bestandteile,
+aber an den männlichen und weiblichen Mikrosomen ist die Untersuchungstechnik
+bis jetzt noch gescheitert!
+
+Ganz neue Gesichtspuncte eröffnet eine Arbeit von *Weismann* und
+*Ischikawa*[@wi1889bgf], welche mir erst während des Druckes dieser Zeilen
+zuging. Sie fanden, dass bei Moina paradoxa der eingedrungene Samenfaden erst
+mit einer der 4 Furchungszellen, die aus dem zweiten Furchungsacte hervorgehen,
+
+
 
 # Einzelnachweise und Fußnoten
 
