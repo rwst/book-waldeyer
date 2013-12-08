@@ -2822,10 +2822,12 @@ eines Hofes das Chromatin des männlichen Vorkerns umgiebt und sich auch noch
 im Augenblicke der Copulation nachweisen lässt; doch gelang es ihm nicht, über
 deren Verbleib in’s Reine zu kommen.
 
-
-
-
-einem weiblichen Vorkerne stattfinde, sondern dass das Spermatozoon im 
+*Schneider*[@sn1883], welcher nach H.&nbsp;*Munk*[@mu1858zwz] zuerst den
+Pferdespulwurm wieder für embryologische Untersuchungen verwendet und empfohlen
+hat, gelangt für diesen und andere Geschöpfe gar zu dem Ergebnisse, dass
+überhaupt keine Verschmelzung zwischen einem vom Spermatozoon abzuleitenden
+männlichen Vorkerne und einem weiblichen Vorkerne stattfinde,
+sondern dass das Spermatozoon im 
 Eidotter „wie eine Wolke“ zerfliesse. Er kommt damit wieder auf den älteren
 Stand der Dinge zurück.
 
@@ -3407,7 +3409,81 @@ Ganz neue Gesichtspuncte eröffnet eine Arbeit von *Weismann* und
 *Ischikawa*[@wi1889bgf], welche mir erst während des Druckes dieser Zeilen
 zuging. Sie fanden, dass bei Moina paradoxa der eingedrungene Samenfaden erst
 mit einer der 4 Furchungszellen, die aus dem zweiten Furchungsacte hervorgehen,
+verschmilzt und nicht mit der ganzen noch angefurchten Eizelle. Bei Sida
+erfolgt die Copulation auch erst nach der Furchung, aber schon im
+2.&nbsp;Zellen-Stadium, bei Daphnia pulex dagegen erst im
+8.&nbsp;Zellenstadium. In der ganz kurzen vorläufigen Mittheilung (Ber.&nbsp;d.
+naturf. Gesellsch. zu Freiburg i.&nbsp;B., Bd.&nbsp;IV, Heft&nbsp;1, 1888) ist
+nicht näher angegeben, wie die Verschmelzung erfolge, ob nur die Kerngebilde,
+oder ob auch die zelligen Antheile conjugiren. Verff. vermuthen, dass die aus
+der Copulation hervorgegangenen Zellen zu Geschlechtszellen werden.
 
+Insofern als es sich bei den Copulationsvorgängen in augenfälliger Weise um
+**Kerngebilde** handelt, liegt der Gedanke nahe, das **vererbende Princip**
+in den Kernen zu suchen. In der That haben sich Viele nach dem Bekanntwerden
+der *Hertwig-van Beneden*’schen Copulationsbeobachtungen rasch entschlossen
+die Kerne als alleinige Träger der Vererbungssubstrate anzusehen. Hier ist vor
+Allem O.&nbsp;*Hertwig*[@hwo1875mj; @hwo1876mj; @hwo1877mj] als Begründer
+dieser Auffassung, dann *Kölliker*[@kl1886zwz] und neuestens
+*Weigert*[@wg1887jm] in seinem vortrefflichen Artikel: „Neuere
+Vererbungstheorien“ zu nennen. Insbesondere hat *Kölliker* eingehend die
+Gründe für und wider erörtert, welche bei der Lehre von den Kernen als
+Vererbungsträgern ins Gewicht fallen. Ich erkenne voll und ganz an, dass für
+die Kerne schwerwiegende Gründe in Menge vorgebracht werden können, verweise
+auch auf die Wichtigkeit, welche die Kerne für die Formgestaltung und
+Regeneration der niederen Organismen haben^[
+Um nur eins zu citiren, nenne ich die schönen Untersuchungen A.&nbsp;*Gruber*’s
+an Stentor coeruleus[@gr1885bzb; @gr1886bzb]. Blieb in einem, wenn auch nur
+sehr kleinen abgeschnittenen Stücke dieses Thieres ein Fragment des Kerns
+erhalten, so wuchs dies Stück wieder zum vollkommenen normal gestalteten
+Thiere aus, welches ohne einen Kernantheil nicht der Fall war. Zu gleichem
+Resultate gelangte *Nussbaum*[@nu1886ama] bei Gastrostyla vorax, einer
+Oxytrichine.], muss aber dennoch zu bedenken geben, dass ein entscheidender
+Beweis noch nicht geliefert ist. Dieser wäre erst dann geliefert, wenn wir für
+eine Spermatozoenart **absolut sicher** wüssten, dass in ihre Constitution
+kein Theil des Protoplasmas der betreffenden Bildungszelle übergeht, oder
+dass, falls auch Protoplasma überginge, dieses nicht mit in den
+Befruchtungsvorgang einbezogen würde.
+
+Wir sind aber weder mit der Spermatogenese noch mit der Analyse der
+Befruchtungserscheinungen, selbst wenn ich die schönen Untersuchungen
+*Strasburger*’s über die Befruchtung der Phanerogamen, Jena, 1884, mit
+heranziehe, schon so weit, um das Eine, wie das Andere mit völliger Sicherheit
+aussagen zu können. Vgl.&nbsp;auch darüber *Flemming*’s
+Aeusserungen[@fw1884bc] und Pringsheim’s Angaben, Sitzungsber. der
+K.&nbsp;Preuss. Akd. der Wissenschaften zu Berlin, 1882, 8.&nbsp;Juni.
+
+*Nussbaum* (l.l. c.c.) fasst die Befruchtung wesentlich noch als eine
+**Conjugation von Zellen** auf. Ich glaube wenigstens nicht, dass man
+*Nussbaum* als entschiedenen Verfechter der reinen Kernbefruchtung citiren
+kann, wie es *Kölliker* thut (Zeitschr. f.&nbsp;w. Zool. 42.&nbsp;Bd.,
+p.&nbsp;516). E.&nbsp;*van Beneden* spricht sich, während er es früher noch
+etwas zweifelhaft liess, in seiner jüngsten Mittheilung ganz entschieden dahin
+aus, dass der protoplasmatische Antheil des Spermatozoon bei Ascaris
+meg.&nbsp;keinen Antheil an der Befruchtung habe. („Il résulte avec une
+absolue certitude de l’étude du développement de l’Ascaris, que le corps 
+protoplasmique du Spermatozoide dégénère et n’intervient pas dans l’édification
+du corps protoplasmique de la premiere cellule embryonnaire, que le noyau du
+zoosperme est le seul élément paternel fourni à l’oeuf féconde“.) Wenn es
+aber in der That sich so verhält, wie E.&nbsp;*van Beneden* schildert
+(s.&nbsp;vorhin), dass der protoplasmatische Antheil des Zoosperms sich im
+Protoplasma der Eizelle spurlos auflöst, so gesellt sich doch männliches
+Protoplasma, wenn nicht formell, so doch materiell dem weiblichen Protoplasma
+hinzu. Sollte dies ganz bedeutungslos sein? Anders läge die Sache, wenn beim
+Eintritt des Spermatozoon in das Ei der protoplasmatische Bestandtheil des
+ersteren etwa abgestreift würde und gar nicht mit in das Ei hin­eingelangte.
+— Auch bei *Platner* finden wir, wie vorhin mitgetheilt, die Angabe, dass die
+protoplasmatischen Antheile der Spermatozoon mit in das Ei hineingelangen; sie
+verhalten sich dort conform den von E.&nbsp;*van Beneden* bei Ascaris
+gemachten Angaben, d.&nbsp;h. sie trennen sich völlig von den Kernelementen
+des Zoosperms los und lösen sich im Eiprotoplasma auf; eine materielle
+Verschmelzung des beiderseitigen Protoplasma findet also auch hier statt.
+
+J. *Frenzel* stützt sich, indem er auch dem Protoplasma einen Antheil bei der
+Befruchtung vindiciren möchte, auf das Vorkommen kernloser niederer Individuen,
+als welche er besonders die Bacterien ansieht. Ich muss indessen bekennen,
+dass mir hier *Weigert* mit den Gründen, die er gegen *Frenzel* in dieser
+Beziehung anführt, völlig im Recht zu sein scheint.
 
 
 # Einzelnachweise und Fußnoten
