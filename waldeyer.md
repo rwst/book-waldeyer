@@ -3485,6 +3485,80 @@ als welche er besonders die Bacterien ansieht. Ich muss indessen bekennen,
 dass mir hier *Weigert* mit den Gründen, die er gegen *Frenzel* in dieser
 Beziehung anführt, völlig im Recht zu sein scheint.
 
+Aber die ganze Frage erhält ein anderes Gesicht, wenn wir die neuesten
+Bestrebungen, einen anderen Elementarorganismus als die Zelle zu finden, mit
+in Rechnung ziehen. Dass Zellen und Kerne nicht mehr den Anspruch auf die
+Benennung „Elementarorganismen“ machen können, das dürfte wohl ausser Zweifel
+sein. Ich will hier nicht untersuchen, ob *Béchamp-Estor* und *Altmann* mit
+den von ihnen beschriebenen „Granulis“ im Rechte sind, und ob wir hierin die
+ächten Elementarorganismen zu suchen haben. Ich will nur auf die
+ausserordentliche Wichtigkeit hinweisen, welche die von *Hanstein*[@hs1880]
+zuerst so benannten, von *Balbiani* und *Pfitzner* in den chromatischen Fäden
+nachgewiesenen „**Mikrosomen**“ (s.&nbsp;Thl.&nbsp;1) für die Karyokinese
+erlangt haben. Gerade das *van Beneden*’sche Werk bietet eine Fülle von
+Belegen dafür. Wenn es nun richtig ist, was auch *van Beneden* wiederholt
+hervorhebt, dass die Granulis der Kerne mit den Granulis des Protoplasma durch
+Fäden vereinigt sind, wenn von anderen Beobachtern, wie u.&nbsp;A.
+*Leydig*[@le1885] und *Stricker*[@st1877sbw], auf das Entschiedenste die
+Continuität zwischen Kern- und Zellplasma-Bestandtheilen hervorgehoben wird,
+wo bleibt da die Möglichkeit mit dem uns jetzt zu Gebote stehenden Wissen
+schon solche wichtigen Fragen, wie die nach dem Träger der vererbenden
+Eigenschaften, entscheiden zu können? Ich erkenne die Berechtigung der darüber
+aufgestellten Hypothesen gern an, denn gute Hypothesen fördern die Sache; aber
+wir wollen uns den Schwierigkeiten nicht verschliessen, die immer noch
+bestehen bleiben und uns die weitere Aussicht, die wir erstreben müssen, damit 
+nicht versperren.
+
+Am meisten Widerspruch hat die Lehre von dem **Hermaphröditismus der Zellen und
+der Bedeutung der Richtungskörper als ausgestossene männliche oder weibliche
+Elemente** erfahren. So viel ich weiss, ist diese Lehre zuerst von
+Ch.&nbsp;*Sedgwick Minot* aufgestellt worden. Sie wurde später von
+*Balfour*[@bfm1880] acceptirt.
+
+*Minot*[@mi1882bc] stellt folgende Betrachtung an: Das Ei stösst zu einer
+gewissen Zeit seiner Existenz die Richtungskörper unter besonderen
+Erscheinungen (Amphiasterbildungen) ab. In ähnlicher Weise wie die
+Richtungskörper werden von einer Mutterzelle aus die Samenfäden (resp.
+deren Bildungszellen) abgestossen und die Mutterzelle, der Eizelle
+vergleichbar, bleibt zurück; auch hierbei treten Amphiasterbildungen auf.
+Also bei beiderlei Geschlechtszellen (Gonoblasten, *Minot*) dieselben
+auffallenden Erscheinungen des Auftretens von zweierlei zelligen Elementen
+unter sehr deutlichen karyokinetischen Processen!
+
+Da nun, sagt *Minot*, in dem einen Falle die grössere zurückbleibende Zelle,
+das Ei, weiblich ist, so schliessen wir, dass auch der zurückbleibende Rest
+der Samenmutterzelle weiblich sei; da ferner die abgestossenen
+Samenbildungszellen männlich sind, so schliessen wir auf die männliche Natur
+der Richtungskörperchen. *Minot* parallelisirt also die Richtungskörper des
+Eies mit den Spermatozoon und differirt darin mit E.&nbsp;*van Beneden*, der
+als Richtungskörper bei der Samenbildung eigenartige Gebilde, die früher
+erwähnten corps residuels, angesprochen hat, Zu dem Schlusse vom
+Hermaphroditismus der Zellen gelangt *Minot* nun weiter durch die einfache
+Ueberlegung, dass wir seit *Martin Barry* bei der Befruchtung die Vereinigung
+von Ei und Spermatozoon kennen, also die befruchtete Eizelle zweigeschlechtlich
+sein muss. Von dieser stammen durch Theilung alle übrigen Zellen ab, ergo sind
+auch diese hermaphroditisch. Die *Minot*’sche Auffassung ist sicher von 
+Interesse und logisch consequent, doch entbehrt sie zwingender thatsächlicher
+Grundlagen; sie wird eben aus dem Vorkommen der Richtungskörper einfach
+erschlossen und für diese sind doch noch eine Reihe anderer Deutungen zulässig.
+Sind aber E.&nbsp;*van Beneden*’s Beobachtungen richtig gedeutet, dann ist für
+die doppelgeschlechtliche Natur der beiden ersten Furchungszellen eine feste 
+Unterlage gegeben und damit ein bedeutender Schritt weiter gewonnen.
+E.&nbsp;*van Beneden* muss dann zweifellos als der thatsächliche Begründer
+der Lehre vom Zellenhermaphroditismus gelten^[Bezüglich des
+Zellenhermaphroditismus wolle man ferner *Sabatier*[@sb1885cr] vergleichen.
+Nach ihm repräsentirt das Keimbläschen das weibliche Element der Eizelle; als
+männliches sind die Follikelepithelzellen anzusehen, welche nach *Sabatier* vom
+Ei abgestossen werden. Die Spermatozoen der von ihm untersuchten Decapoden
+entstehen in grossen Zellen, den Protospermatoblasten und sind den
+Epithelzellen der *Graaf*’schen Bläschen homolog.].
+
+*Minot* schon sagt sich mit Recht, dass man auf Grund der Lehre von der
+Bisexualität der Zellen und der Bedeutung der Richtungskörperchen als
+ausgestossener Samenfaden-Aequivalente annehmen müsse, dass bei den
+parthenogenetisch sich entwickelnden Eiern keine Richtungskörperchen zu
+finden sein
+
 
 # Einzelnachweise und Fußnoten
 
