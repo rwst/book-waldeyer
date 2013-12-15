@@ -3509,7 +3509,7 @@ wir wollen uns den Schwierigkeiten nicht verschliessen, die immer noch
 bestehen bleiben und uns die weitere Aussicht, die wir erstreben müssen, damit 
 nicht versperren.
 
-Am meisten Widerspruch hat die Lehre von dem **Hermaphröditismus der Zellen und
+Am meisten Widerspruch hat die Lehre von dem **Hermaphroditismus der Zellen und
 der Bedeutung der Richtungskörper als ausgestossene männliche oder weibliche
 Elemente** erfahren. So viel ich weiss, ist diese Lehre zuerst von
 Ch.&nbsp;*Sedgwick Minot* aufgestellt worden. Sie wurde später von
@@ -3557,7 +3557,80 @@ Epithelzellen der *Graaf*’schen Bläschen homolog.].
 Bisexualität der Zellen und der Bedeutung der Richtungskörperchen als
 ausgestossener Samenfaden-Aequivalente annehmen müsse, dass bei den
 parthenogenetisch sich entwickelnden Eiern keine Richtungskörperchen zu
-finden sein
+finden sein dürften. Denn das parthenogenetisch sich entwickelnde Ei erhält
+keinen Samenkörper, da es sich ja ohne Befruchtung entwickelt, hat daher
+sicherlich nicht nöthig, sein männliches Zwitterelement auszustossen. In der
+That waren auch bis dahin keine Richtungskörper bei parthenogenetischen Eiern
+gefunden worden.
+
+An dieser Stelle erhielt nun neuerdings durch *Weismann* und *Blochmann* die
+Lehre vom Zellenhermaphroditismus und von der Bedeutung der Richtungskörper
+als ausgestossener männlicher Elemente den ersten und, man muss sagen, sehr
+harten Stoss. *Weismann* und *Ischikawa*[@wi1888bgf; @wm1886za] fanden, dass
+bei verschiedenen parthenogenetisch sich entwickelnden Krebsen, z.&nbsp;B.
+Polyphemus, Oculus, Moina paradoxa, Daphnia longispina u.&nbsp;A. sich
+Richtungskörperchen bilden, und zwar, was als ein sehr merkwürdiges Factum
+angesehen werden muss, **stets nur ein einziges**, während, wie wir für die
+übrigen Geschöpfe hervorgehoben haben, bei diesen stets zwei (selten drei)
+entstehen. Sehr beachtenswerth sind in dieser Beziehung noch die Erfahrungen
+von *Blochmann* (Biol. Centralbl. 1887 u. Nro.&nbsp;30), der feststellte, dass
+bei den Blattläusen deren parthenogenetisch sich entwickelnde Eier nur **ein**,
+die durch Befruchtung sich entwickelnden aber **zwei** Richtungskörper liefern.
+
+*Weismann*, dem wir schon eine ganze Reihe ausgezeichneter, äusserst
+anregender Schriften über allgemein biologische Probleme, namentlich der
+Artenbildung, der Befruchtung, der Vererbung verdanken^[
+Ueber die Dauer des Lebens, Jena, 1882. — Ueber die Vererbung, Ibid. 1883. —
+Ueber Leben und Tod, eine biologische Untersuchung, Ibid. 1884. — Die
+Continuität des Keimplasmas als Grundlage einer Theorie der Vererbung, Ibid.
+1885. — Die Bedeutung der sexuellen Fortpflanzung für die Selectionstheorie,
+Ibid. 1886.], hat nun auch nicht gezögert, mit einer anderen Auffassung der
+Richtungskörper hervorzutreten (Ueber die Zahl der Richtungskörper und über
+ihre Bedeutung für die Vererbung, Jena, Fischer, 1887).
+
+Ich muss, um die hochinteressante *Weismann*’sche Deutung der
+Richtungskörperchen leicht verständlich wiedergeben zu können, ein wenig 
+zurückgreifen auf das unten citirte frühere Werk unseres Autors: „Die 
+Continuität des Keimplasmas u.&nbsp;w.“
+
+Nach *Weismann*, mit dessen Ansicht in ihrem wesentlichen Grundzuge die
+*Nägeli*’sche Lehre[@na1884] vom „Idioplasma“ übereinstimmt, müssen als
+Grundlage aller organischen Zellen — und damit aller organischen Wesen —
+**zwei** verschiedene Arten von lebendiger Substanz (Plasma) angenommen
+werden, die den Zellenleib und den Kern im Wesentlichen zusammensetzen. Die
+eine Substanz ist die zeugende, formende, dirigirende, vererbende, das
+sogenannte „Kernplasma“ (entsprechend im Wesentlichen dem *Nägeli*’schen
+„Idioplasma“), die andere (Ernährungsplasma) die geformte, ernährende,
+assimilirende, mechanisch etc. wirksame. Die erstere, das Kernplasma, müssen
+wir nach den neueren vorhin mitgetheilten Erfahrungen im Kern suchen, die
+andere wesentlich im Zellenleibe. *Weismann* denkt sich, dass das Kernplasma
+gleichsam das ganze Werden der Zellen leite, ihre Theilung, ihre Ausbildung
+zu einer bestimmten Form veranlasse, während das „Ernährungsplasma“ wesentlich
+die Aufnahme von neuem Material zur Unterhaltung und zum Wachsthum der Zellen
+zu besorgen habe und zu gleicher Zeit als Muskelplasma, Nervenplasma etc., zu
+mechanischen und anderen Verrichtungen da sei. Das Kernplasma muss als
+formgebendes, wesentlich belebendes Element in jeder Zelle zu finden sein.
+Besonders reichlich ist es in der Eizelle vorhanden, wie dies natürlich ist.
+Bei der successiven Theilung der Eizelle nun geht es selbstverständlich zu
+einem gewissen Antheile, indem es durch die Thätigkeit des zweiten,
+ernährenden Bestandtheiles, des Ernährungsplasmas, stetig wächst, schliesslich
+in jede Körperzelle über. *Weismann* denkt sich aber ferner, hiermit an einen
+zuerst von *Nussbaum*[@nu1880ama] formulirten Gedanken anknüpfend, dass auch
+das Kernplasma zwei Modificationen zeige. Die eine als die Urform des
+Kernplasmas sei nur geschlechtlicher Natur, stehe nur der Zeugung vor; sie
+finde sich auch nur in den Geschlechtszellen; die zweite gehe aus dieser
+ersten Art hervor und sei es, welche später die Theilung, das Wachsthum und
+die Formengebung der einzelnen Körperzellen, aber auch der
+**Geschlechtszellen** (d.&nbsp;i. Ei und Samenzellen) übernehme; sie habe
+**histogene** Eigenschaften, die Urform des Kernplasmas dagegen
+**geschlechtliche**, diese letztere sei auch Trägerin der 
+Vererbungserscheinungen.
+
+Haben nun die Ei- und Samenzellen beide Arten des Kernplasmas, die histogene
+und die sexuale, so fragt es sich, ob es zweckmässig sei, dass sie auch in
+dem Augenblicke, wo sie sich zur Befruchtung anschicken, noch diese beiden
+Arten behalten?
+
 
 
 # Einzelnachweise und Fußnoten
